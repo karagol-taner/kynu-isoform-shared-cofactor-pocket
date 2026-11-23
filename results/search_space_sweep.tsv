@@ -1,0 +1,409 @@
+project	file	size_mb	column_aware	diagnostic_in_sequence_column	diagnostic_substring	decoy_substring	isoform_ensp	canonical_ensp	uniprot_isoform	uniprot_base	gene_symbol	note
+PXD000026	PRIDE_Exp_Complete_Ac_27235.pride.mztab.gz	0.02										failed: HTTP Error 403: Forbidden
+PXD000026	PRIDE_Exp_Complete_Ac_27234.pride.mztab.gz	0.02										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD000197	PRIDE_Exp_Complete_Ac_29146.pride.mztab.gz	0.04										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD000197	PRIDE_Exp_Complete_Ac_29133.pride.mztab.gz	0.04	False				False	False	False	False	False	
+PXD000302	PRIDE_Exp_Complete_Ac_29805.pride.mztab.gz	0.04										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD000302	PRIDE_Exp_Complete_Ac_29783.pride.mztab.gz	0.06	False				False	False	False	False	False	
+PXD000729	F049746.dat-pride.pride.mztab.gz	0.71										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD000729	F049331.dat-pride.pride.mztab.gz	5.68										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD000765	control_10a_055_PRIDE.pride.mztab.gz	0.0	False				False	False	False	False	False	
+PXD000765	control_04a_037_PRIDE.pride.mztab.gz	0.0	False				False	False	False	False	False	
+PXD001390	fawaz_PXD000652_combined_fdr_peptide_threshold_mappedGff2_proteoGrouper_fdr_Threshold.pride.mztab.gz	67.88	False				False	False	False	False	False	
+PXD001390	fawaz_PXD000652_combined_fdr_peptide_threshold_mappedGff_ProteoGrouper_exportPSMs.csv	91.4	False				False	False	False	False	False	
+PXD001403	V045-V048.2013_05_15_17_43_12.t.XML.pride.mztab.gz	9.89										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD001403	V041-V044.2013_05_15_17_44_28.t.XML.pride.mztab.gz	12.37										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD001435	F016092.dat-pride.pride.mztab.gz	6.26										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD001474	F191389.dat-pride.pride.mztab.gz	3.51										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD001474	F191350.dat-pride.pride.mztab.gz	3.52										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD001511	Pseudomonas_FASP.pride.mztab.gz	17.35										failed: HTTP Error 403: Forbidden
+PXD001511	HEK-FASP.pride.mztab.gz	21.1										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD001572	20110204_FlpInTRex_GFP_TL_PD13.pride.mztab.gz	1.09										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD001572	2011_07_08_AIM2_BAD_GFP_2_PD13.pride.mztab.gz	1.22	False				False	False	False	False	False	
+PXD001694	UniquepeptidesMS2spectral.zip	0.38										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD001694	HBE_lys-c.pride.mztab.gz	0.95										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD001833	F205165.dat-pride.pride.mztab.gz	0.05	False				False	False	False	False	False	
+PXD001833	F205099.dat-pride.pride.mztab.gz	0.05	False				False	False	False	False	False	
+PXD001952	msc_young_and_old_unihuman_reviewed.pride.mztab.gz	11.84										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD002171	F191792.dat-pride.pride.mztab.gz	4.42	False				False	False	False	True	True	
+PXD002171	F191799.dat-pride.pride.mztab.gz	4.76	False				False	False	False	True	True	
+PXD002193	OTT0741-S08-A-Schuss_Rind_4.RAW (F002038).pride.mztab.gz	0.15										failed: URL can't contain control characters. '/pride/data/archive/2015/11/PXD
+PXD002193	OTT0339-S03-A-Kidney-2.pride.mztab.gz	0.16	False				False	False	False	False	False	
+PXD002486	11q13_group4_JMn2_3.pride.mztab.gz	0.01										failed: HTTP Error 404: Not Found
+PXD002486	11q13_group2_HHn3_f11b.pride.mztab.gz	0.01										failed: HTTP Error 404: Not Found
+PXD002600	N.dat-pride.pride.mztab.gz	1.4	False				False	False	False	False	False	
+PXD002600	rAN1.dat-pride.pride.mztab.gz	1.6	False				False	False	False	False	False	
+PXD002620	12.dat-pride.pride.mztab.gz	0.22	False				False	False	False	False	False	
+PXD002620	1.dat-pride.pride.mztab.gz	0.5										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD002781	NCS_P450ABP_HS924_10Nov14_Lynx_14-08-18_msgfplus.pride.mztab.gz	3.25	False				False	False	False	False	False	
+PXD002781	P450_ABP_HS395_1Nov14_Lynx_14-08-19_msgfplus.pride.mztab.gz	3.39	False				False	False	False	False	False	
+PXD003014	sequest_51458_WDHD1_1_to_PRIDE_20151001_115121.pride.mztab.gz	3.54	False				False	False	False	False	False	
+PXD003014	sequest_50717_MSH5_1_to_PRIDE_20151001_002844.pride.mztab.gz	5.37	False				False	False	False	False	False	
+PXD003176	F016517.dat-pride.pride.mztab.gz	7.16	False				False	False	False	True	True	
+PXD003200	F100747_IP-HEK-PCIG.pride.mztab.gz	1.35	False				False	False	False	False	False	
+PXD003200	F100745_IP-HEK-G15.pride.mztab.gz	1.64	False				False	False	False	False	False	
+PXD003271	MR220 - F005391.pride.mztab.gz	0.02										failed: URL can't contain control characters. '/pride/data/archive/2016/04/PXD
+PXD003271	MR401 - F005438.pride.mztab.gz	0.02										failed: URL can't contain control characters. '/pride/data/archive/2016/04/PXD
+PXD003552	OEI06491.msf-pride.pride.mztab.gz	3.48										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD003552	OEI06469.msf-pride.pride.mztab.gz	3.5	False				False	False	False	True	False	
+PXD003624		0										no peptide-level text file
+PXD004219	RESULT_P79_F1831163.mzid.pride.mztab.gz	0.24	False				False	False	False	False	False	
+PXD004219	RESULT_C145_F1831175.mzid.pride.mztab.gz	0.54	False				False	False	False	False	False	
+PXD004815	F219604.dat-pride.pride.mztab.gz	1.21	False				False	False	False	False	False	
+PXD004815	F219602.dat-pride.pride.mztab.gz	1.24	False				False	False	False	False	False	
+PXD005220	220216_LF8_5fold_2h.pride.mztab.gz	1.51										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD005220	220216_LF1_5fold_2h.pride.mztab.gz	1.54										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD005507	OEII15635.pride.mztab.gz	1.44	False				False	False	False	False	False	
+PXD005507	OEII15629.pride.mztab.gz	1.56	False				False	False	False	False	False	
+PXD005777	OEI17572.pride.mztab.gz	0.62	False				False	False	False	False	False	
+PXD005777	OEI17574.pride.mztab.gz	0.64										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD005992	F008648.pride.mztab.gz	0.33										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD006482	kidney_7.dat-pride-filtered.pride.mztab.gz	0.63	False				False	False	False	False	False	
+PXD006482	kidney_16.dat-pride-filtered.pride.mztab.gz	0.82	False				False	False	False	False	False	
+PXD006601	F006167-P1.pride.mztab.gz	0.39	False				False	False	False	False	False	
+PXD006601	F005971-1.pride.mztab.gz	0.4	False				False	False	False	False	False	
+PXD006833	colon_T_2.dat-pride.pride.mztab.gz	35.22	False				False	False	False	False	False	
+PXD006833	colon_T_1.dat-pride.pride.mztab.gz	36.21	False				False	False	False	False	False	
+PXD007258	Mudpit_ (qe3_2017jun07_40_p17107_v2).pride.mztab.gz	15.06										failed: URL can't contain control characters. '/pride/data/archive/2018/10/PXD
+PXD007258	Mudpit_ (qe3_2017jun07_26_p17107_p5).pride.mztab.gz	17.17										failed: URL can't contain control characters. '/pride/data/archive/2018/10/PXD
+PXD008150	File Name_ Beta_3.raw (F010485).pride.mztab.gz	3.83										failed: URL can't contain control characters. '/pride/data/archive/2018/07/PXD
+PXD008150	File Name_ Beta_1.raw (F010484).pride.mztab.gz	4.01										failed: URL can't contain control characters. '/pride/data/archive/2018/07/PXD
+PXD008220		0										no peptide-level text file
+PXD008261		0										no peptide-level text file
+PXD008310	RK OTE0042_Vincenzo_L13iso1+MLN.pride.mztab.gz	3.67										failed: URL can't contain control characters. '/pride/data/archive/2018/01/PXD
+PXD008310	RK OTE0042_Vincenzo_L13iso2.pride.mztab.gz	4.99										failed: URL can't contain control characters. '/pride/data/archive/2018/01/PXD
+PXD008613	HC04J7Bb02s08 (F001790).pride.mztab.gz	0.01										failed: URL can't contain control characters. '/pride/data/archive/2019/11/PXD
+PXD008613	HC04J7Ib02s08 (F001892).pride.mztab.gz	0.01										failed: URL can't contain control characters. '/pride/data/archive/2019/11/PXD
+PXD009021	Liver_02 - F002421.pride.mztab.gz	0.11										failed: URL can't contain control characters. '/pride/data/archive/2018/04/PXD
+PXD009021	Liver_04 - F002423.pride.mztab.gz	0.23										failed: URL can't contain control characters. '/pride/data/archive/2018/04/PXD
+PXD009382	V169_MGFPeaklist.pride.mztab.gz	0.49	False				False	False	False	False	False	
+PXD009382	V168_MGFPeaklist.pride.mztab.gz	0.53										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD009427	STONE Transamination.pride.mztab.gz	10.62										failed: URL can't contain control characters. '/pride/data/archive/2022/02/PXD
+PXD009427	STONE Control.pride.mztab.gz	18.08										failed: URL can't contain control characters. '/pride/data/archive/2022/02/PXD
+PXD009481	0210_2_1.pride.mztab.gz	1.34	False				False	False	False	False	False	
+PXD009481	0210_4_1.pride.mztab.gz	1.93	False				False	False	False	False	False	
+PXD009641	ID15074_01_E749_3008_120414 (F054531).pride.mztab.gz	0.34										failed: URL can't contain control characters. '/pride/data/archive/2019/11/PXD
+PXD009641	ID15073_01_E749_3008_120414 (F054530).pride.mztab.gz	0.5										failed: URL can't contain control characters. '/pride/data/archive/2019/11/PXD
+PXD009681	SSM_PTEN11.raw (F004831).pride.mztab.gz	0.05										failed: URL can't contain control characters. '/pride/data/archive/2018/10/PXD
+PXD009681	SSM_2_Ig4.raw (F004789).pride.mztab.gz	0.08										failed: URL can't contain control characters. '/pride/data/archive/2018/10/PXD
+PXD009966	Lindroth_01.pride.mztab.gz	3.58										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD009966	Lindroth_10.pride.mztab.gz	5.09	False				False	False	False	False	False	
+PXD010142	NSN_0402.pride.mztab.gz	3.81	False				False	False	False	False	False	
+PXD010142	NSN_0401.pride.mztab.gz	4.19	False				False	False	False	False	False	
+PXD010252	F157249.pride.mztab.gz	7.22										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD010271		0										no peptide-level text file
+PXD010737	peptides_1_1_0.pride.mztab.gz	9.35										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD010737	peptides_1_1_0.mzid.gz	31.01	False				False	False	False	False	False	
+PXD011042	MSB31547InInputBand_04 (F137074).pride.mztab.gz	0.03										failed: URL can't contain control characters. '/pride/data/archive/2018/11/PXD
+PXD011042	MSB31547InInputBand_03 (F137073).pride.mztab.gz	0.04										failed: URL can't contain control characters. '/pride/data/archive/2018/11/PXD
+PXD011124	Service_ElAffar_300816_13.pride.mztab.gz	0.84										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD011124	Service_ElAffar_300816_14.pride.mztab.gz	0.86										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD011178	HF02_171127_XP_R2_PXH_5ul_50per_F1_R2.dat-pride.pride.mztab.gz	0.65										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD011178	HF02_171127_XP_R2_PXH_5ul_50per_F1_R1.dat-pride.pride.mztab.gz	0.7	False				False	False	False	False	False	
+PXD011183	F004739.pride.mztab.gz	0.01	False				False	False	False	False	False	
+PXD011183	F004735.pride.mztab.gz	0.01	False				False	False	False	False	False	
+PXD011269	mascot_daemon_merge (F095030).pride.mztab.gz	1.29										failed: URL can't contain control characters. '/pride/data/archive/2019/11/PXD
+PXD011269	mascot_daemon_merge (F095028).pride.mztab.gz	3.07										failed: URL can't contain control characters. '/pride/data/archive/2019/11/PXD
+PXD011432	Empty_merge_BiolReplicate2.pride.mztab.gz	0.01										failed: HTTP Error 404: Not Found
+PXD011432	Empty_merge_BiolReplicate3.pride.mztab.gz	0.02										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD011740	sample4sec.pride.mztab.gz	0.1	False				False	False	False	False	False	
+PXD011740	sample6sec.pride.mztab.gz	0.21	False				False	False	False	False	False	
+PXD011796	DS_200417_A23187_NC14_1h.pride.mztab.gz	0.35	False				False	False	False	False	False	
+PXD011796	DS_200417_A23187_NC16_1h.pride.mztab.gz	0.4	False				False	False	False	False	False	
+PXD011906	20180109-NC_1_RD8_01_9084.pride.mztab.gz	0.22										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD011906	20180109-NC_2_RE1_01_9086.pride.mztab.gz	0.24	False				False	False	False	False	False	
+PXD012188		0										no peptide-level text file
+PXD012985	sample4sec.pride.mztab.gz	0.1	False				False	False	False	False	False	
+PXD012985	sample6sec.pride.mztab.gz	0.21	False				False	False	False	False	False	
+PXD013038		0										no peptide-level text file
+PXD013143	F010469-B2_RD4_01_6237.pride.mztab.gz	0.07	False				False	False	False	False	False	
+PXD013143	F010468-B1_RD3_01_6235.pride.mztab.gz	0.1	False				False	False	False	False	False	
+PXD013301	Proteins_Modif-2.pride.mztab.gz	57.0	False				False	False	False	False	False	
+PXD013301	Proteins_Modif-1.pride.mztab.gz	64.27	False				False	False	False	False	False	
+PXD013608		0										no peptide-level text file
+PXD013683	HepG2_15_mascot.pride.mztab.gz	0.34										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD013683	HepG2_17_mascot.pride.mztab.gz	0.37										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD013710	Mudpit_gb_20140815_ETD_West_UrinaryExosome_194_1.pride.mztab.gz	1.07	False				False	False	False	False	False	
+PXD013710	Mudpit_gb_20140815_ETD_West_UrinaryExosome_217_1.pride.mztab.gz	1.18	False				False	False	False	False	False	
+PXD014019		0										no peptide-level text file
+PXD014252		0										no peptide-level text file
+PXD014524	PRC-734_ncorrected.pride.mztab.gz	58.82										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD014524	PRC-734_corrected.pride.mztab.gz	59.56										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD014976	LiuRuijie_sample_ATG.pride.mztab.gz	0.75	False				False	False	False	False	False	
+PXD014976	LiuRuijie_sample_DMSO.pride.mztab.gz	0.76	False				False	False	False	False	False	
+PXD015015	Control-9.pride.mztab.gz	2.38	False				False	False	False	False	False	
+PXD015015	Control-2.pride.mztab.gz	2.59	False				False	False	False	False	False	
+PXD015058	Sawwal_Kidney_bulkref_A_4Mar19_Oak_Jup-19-02-04_msgfplus.pride.mztab.gz	22.21	False				False	False	False	False	False	
+PXD015058	Biomarker_T4_5Sep18_Oak_Jup-18-09-01_msgfplus.pride.mztab.gz	24.27	False				False	False	False	True	False	
+PXD015393		0										no peptide-level text file
+PXD015485		0										no peptide-level text file
+PXD015725		0										no peptide-level text file
+PXD015981		0										no peptide-level text file
+PXD016103	peptides_1_1_0.pride.mztab.gz	0.34	False				False	False	False	False	False	
+PXD016103	peptides_1_1_0.mzid.gz	1.75	False				False	False	False	False	False	
+PXD016291	190728_HEK293T_capture_release_result.pride.mztab.gz	53.75	False				False	False	False	True	True	
+PXD016291	190728_HEK293T_capture_release_result.mzid.gz	245.05	False				False	False	False	True	True	
+PXD016851	Mudpit_281474976715406 (F050044).pride.mztab.gz	4.45										failed: URL can't contain control characters. '/pride/data/archive/2020/03/PXD
+PXD016851	Mudpit_281474976715440 (F050049).pride.mztab.gz	5.15										failed: URL can't contain control characters. '/pride/data/archive/2020/03/PXD
+PXD017161	190728_HEK293T_capture_release_result.pride.mztab.gz	53.75	False				False	False	False	True	True	
+PXD017161	190728_HEK293T_capture_release_result.mzid.gz	245.05	False				False	False	False	True	True	
+PXD017253	CT1.pride.mztab.gz	1.81	False				False	False	False	False	False	
+PXD017253	CT2.pride.mztab.gz	1.99	False				False	False	False	False	False	
+PXD018373	lmj820_G.pride.mztab.gz	0.58	False				False	False	False	False	False	
+PXD018373	lmj820_A.pride.mztab.gz	1.51	False				False	False	False	False	False	
+PXD018704	SF_281117_WT_PLK4_SILAC_Fraction_4_rep1.pride.mztab.gz	0.18										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD018704	SF_281117_WT_PLK4_SILAC_Fraction_2_rep1.pride.mztab.gz	0.6	False				False	False	False	False	False	
+PXD018914	Yun_OGA_mzid.pride.mztab.gz	1.84										failed: HTTP Error 404: Not Found
+PXD019360		0										no peptide-level text file
+PXD019643	AM_AUT01-DN17_Brain_W6-32_10_DDA_merged_400-650mz_standard_all_ids_merged_psm_perc_filtered.mzid.gz	0.1	False				False	False	False	False	False	
+PXD019643	DK_AUT01-DN08_Skin_W6-32_20_DDA_merged_400-650mz_standard_all_ids_merged_psm_perc_filtered.mzid.gz	0.11	False				False	False	False	False	False	
+PXD019848		0										no peptide-level text file
+PXD020235		0										no peptide-level text file
+PXD020617		0										no peptide-level text file
+PXD020988		0										no peptide-level text file
+PXD021123		0										no peptide-level text file
+PXD021139		0										no peptide-level text file
+PXD021222		0										no peptide-level text file
+PXD021268		0										no peptide-level text file
+PXD021391		0										no peptide-level text file
+PXD021514		0										no peptide-level text file
+PXD021527	mzTab.mzTab.gz	6.83	False				False	False	False	False	False	
+PXD022074		0										no peptide-level text file
+PXD022330		0										no peptide-level text file
+PXD022408		0										no peptide-level text file
+PXD022479		0										no peptide-level text file
+PXD023034		0										no peptide-level text file
+PXD024353		0										no peptide-level text file
+PXD024647		0										no peptide-level text file
+PXD024725		0										no peptide-level text file
+PXD024791		0										no peptide-level text file
+PXD024846		0										no peptide-level text file
+PXD025141	peptides_ID_Islet_Sec61b_TurboID_group_vs_TurboID_NES_group.txt	2.32	True				False	False	False	False	False	
+PXD025141	proteinGroups_Islet_Sec61b_TurboID_group_vs_TurboID_NES_group.txt	1.12	False				False	False	False	False	False	
+PXD025878		0										no peptide-level text file
+PXD026090	peptides_1_1_0.mzid.gz	11.43	False				False	False	False	False	False	
+PXD026301		0										no peptide-level text file
+PXD026506		0										no peptide-level text file
+PXD026717		0										no peptide-level text file
+PXD026797		0										no peptide-level text file
+PXD026815		0										no peptide-level text file
+PXD026931		0										no peptide-level text file
+PXD027039		0										no peptide-level text file
+PXD027182		0										no peptide-level text file
+PXD027329		0										no peptide-level text file
+PXD027531		0										no peptide-level text file
+PXD027803		0										no peptide-level text file
+PXD027881		0										no peptide-level text file
+PXD027914	2021_10_266Result.mzid.gz	2.86	False				False	False	False	False	False	
+PXD027914	2021_09_247_Result.mzid.gz	58.05	False				False	False	False	False	False	
+PXD028082		0										no peptide-level text file
+PXD028408	mzTab.mzTab.gz	73.46	False				False	False	False	False	False	
+PXD028417	mzTab.mzTab.gz	53.92	False				False	False	False	False	False	
+PXD028597		0										no peptide-level text file
+PXD028840		0										no peptide-level text file
+PXD029116		0										no peptide-level text file
+PXD029200		0										no peptide-level text file
+PXD029696	mzTab.mzTab.gz	39.48	False				False	False	False	False	False	
+PXD029700		0										no peptide-level text file
+PXD029718	mzTab.mzTab.gz	141.05	False				False	False	False	False	False	
+PXD029749		0										no peptide-level text file
+PXD029805		0										no peptide-level text file
+PXD029821		0										no peptide-level text file
+PXD029850		0										no peptide-level text file
+PXD029851		0										no peptide-level text file
+PXD030665	210914_19_3haiting_IgG-Control_peptides_1_1_0.mzid.gz	1.21	False				False	False	False	False	False	
+PXD030782		0										no peptide-level text file
+PXD030803		0										no peptide-level text file
+PXD030822	mzTab-HepaRG-cells-dose-response.mzTab.gz	117.78	False				False	False	False	True	True	
+PXD030822	mzTab-HepaRG-cells-kinetic.mzTab.gz	228.68	False				False	False	False	False	False	
+PXD030887	mzTab-HUMAN-medium.mzTab.gz	27.34										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD030887	mzTab-HUMAN-cells.mzTab.gz	52.14	False				False	False	False	True	True	
+PXD030888		0										no peptide-level text file
+PXD030889		0										no peptide-level text file
+PXD030989	20180717_EChan_IgG_bottom_band_ITMSms2cid.txt__F098143_.mzid.gz	2.52	False				False	False	False	False	False	
+PXD030989	20180717_EChan_GR_top_band_ITMSms2cid.txt__F098141_.mzid.gz	10.43	False				False	False	False	False	False	
+PXD031045	mzTab-HepaRG-medium-dose-response.mzTab.gz	17.72	False				False	False	False	False	False	
+PXD031045	mzTab-HepaRG-medium-kinetic.mzTab.gz	41.26	False				False	False	False	False	False	
+PXD031606	peptides_1_1_0_hypo.mzid.gz	10.58	False				False	False	False	False	False	
+PXD031606	peptides_1_1_0_iso.mzid.gz	17.67	False				False	False	False	False	False	
+PXD031668	Nsp1_DSSO_2pc_boostBetween_consec_proteingroups_xiFDR2.1.5.2.csv	0.43	False				False	False	False	False	False	
+PXD031843	peptides_1_1_0.mzid.gz	8.37	False				False	False	False	False	False	
+PXD032757		0										no peptide-level text file
+PXD032791		0										no peptide-level text file
+PXD033099	Mito_peptides_1_1_0.mzid.gz	13.67	False				False	False	False	False	False	
+PXD033104	2_peptides_1_1_0.mzid.gz	1.59	False				False	False	False	False	False	
+PXD033104	peptides_1_1_0.mzid.gz	1.98										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD033112	peptides_1_1_0.mzid.gz	5.78										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD033112	2_peptides_1_1_0.mzid.gz	6.01	False				False	False	False	False	False	
+PXD033298	peptides_1_1_0.mzid.gz	29.74	False				False	False	False	False	False	
+PXD033466		0										no peptide-level text file
+PXD033555		0										no peptide-level text file
+PXD033912		0										no peptide-level text file
+PXD034602		0										no peptide-level text file
+PXD034871		0										no peptide-level text file
+PXD034984		0										no peptide-level text file
+PXD035072		0										no peptide-level text file
+PXD035735		0										no peptide-level text file
+PXD036232		0										no peptide-level text file
+PXD036940		0										no peptide-level text file
+PXD037021		0										no peptide-level text file
+PXD037262	protein-peptides.csv	0.04	False				False	False	False	False	False	
+PXD037262	de_novo_only_peptides.csv	0.24	False				False	False	False	False	False	
+PXD037383		0										no peptide-level text file
+PXD037553	peptides.txt	1.68	True				False	False	False	False	False	
+PXD037553	proteinGroups.txt	0.96	False				False	False	False	False	False	
+PXD038017		0										no peptide-level text file
+PXD038204	LFQ-D20-D0-protein-peptides.csv	6.4	False				False	False	False	False	False	
+PXD038204	LFQ-D12-D0-protein-peptides.csv	6.73	False				False	False	False	False	False	
+PXD038371	P1KP20180713_srir_KP_HEK_w632mut_Heavy_peptides_1_1_0.mzid.gz	8.29	False				False	False	False	False	False	
+PXD038371	P1KP20180305_srir_KP_HEK_w632mut_peptides_1_1_0.mzid.gz	10.47	False				False	False	False	False	False	
+PXD038387		0										no peptide-level text file
+PXD038478	mzTab.mzTab.gz	41.57	False				False	False	False	False	False	
+PXD038581		0										no peptide-level text file
+PXD038818		0										no peptide-level text file
+PXD038922		0										no peptide-level text file
+PXD039072		0										no peptide-level text file
+PXD039133		0										no peptide-level text file
+PXD039306		0										no peptide-level text file
+PXD039625		0										no peptide-level text file
+PXD039829		0										no peptide-level text file
+PXD039834	allPeptides.txt	83.96	True				False	False	False	False	False	
+PXD039834	mzTab.mzTab.gz	0.33	False				False	False	False	False	False	
+PXD039836	allPeptides.txt	77.99	True				False	False	False	False	False	
+PXD039836	mzTab.mzTab.gz	0.5										failed: HTTP Error 403: Forbidden
+PXD040727	mzTab_Overnight.mzTab.gz	3.6										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD040727	mzTab_Manual.mzTab.gz	4.21	False				False	False	False	True	True	
+PXD041334		0										no peptide-level text file
+PXD041587		0										no peptide-level text file
+PXD041950		0										no peptide-level text file
+PXD042316	peptides_1_1_0.mzid.gz	5.33	False				False	False	False	True	True	
+PXD042374		0										no peptide-level text file
+PXD042545		0										no peptide-level text file
+PXD042733	mzTab.mzTab.gz	4.51	False				False	False	False	False	False	
+PXD043144		0										no peptide-level text file
+PXD043340		0										no peptide-level text file
+PXD043683	mzTab-degradation.mzTab.gz	12.38	False				False	False	False	True	True	
+PXD043683	mzTab-dose-response.mzTab.gz	19.77	False				False	False	False	True	True	
+PXD043723		0										no peptide-level text file
+PXD043763	280323-Perseus-CLD-lysats-PHH-report.txt	1.11	False				False	False	False	True	True	
+PXD043763	mzTab-PHHs.mzTab.gz	5.06										failed: <urlopen error [Errno 104] Connection reset by peer>
+PXD043874	mzTab.mzTab.gz	78.76	False				False	False	False	False	False	
+PXD043920		0										no peptide-level text file
+PXD044045	mzTab.mzTab.gz	23.06	False				False	False	False	True	True	
+PXD044817	peptides_1_1_0.mzid.gz	0.86	False				False	False	False	False	False	
+PXD044990	8e14fa84f51db5dc___LD_230111_BRSK1_NO_NO_max.mgf.export.F1881126.mztab.gz	0.05	False				False	False	False	False	False	
+PXD044990	8e14fa84f51db5dc___LD_230111_BRSK1_PV_NO_max.mgf.export.F1881120.mztab.gz	0.06	False				False	False	False	False	False	
+PXD044994		0										no peptide-level text file
+PXD045319	mzTabDDDC3GN.mzTab.gz	19.91	False				False	False	False	False	False	
+PXD045319	mzTab_DDDCtrl.mzTab.gz	22.14										failed: [Errno 104] Connection reset by peer
+PXD045389	modificationSpecificPeptides.txt	4.15	True				False	False	False	False	False	
+PXD045389	peptides.txt	4.99	True				False	False	False	False	False	
+PXD045556		0										no peptide-level text file
+PXD045985		0										no peptide-level text file
+PXD046109		0										no peptide-level text file
+PXD046111		0										no peptide-level text file
+PXD046114		0										no peptide-level text file
+PXD046184	HepG2_Glycine-GSfree_MassSpec_Cyano-peptides_SDRF.tsv	0.01	False				False	False	False	False	False	
+PXD046286		0										no peptide-level text file
+PXD046323	HepG2_Cyanide-releasers_MassSpec_Cyano-peptides_SDRF.tsv	0.02	False				False	False	False	False	False	
+PXD046359		0										no peptide-level text file
+PXD046822	mzTab.mzTab.gz	40.43	False				False	False	False	False	False	
+PXD046898		0										no peptide-level text file
+PXD047823		0										no peptide-level text file
+PXD048215		0										no peptide-level text file
+PXD048294	peptides_1_1_0.mzid.gz	2.48	False				False	False	False	False	False	
+PXD048316		0										no peptide-level text file
+PXD048778		0										no peptide-level text file
+PXD048918		0										no peptide-level text file
+PXD049390		0										no peptide-level text file
+PXD050316		0										no peptide-level text file
+PXD050337	mzTab.mzTab.gz	1.32	False				False	False	False	True	True	
+PXD050609	mzTab_SF2.mzTab.gz	0.11	False				False	False	False	False	False	
+PXD050609	mzTab_SF1.mzTab.gz	0.12	False				False	False	False	False	False	
+PXD050628		0										no peptide-level text file
+PXD051205		0										no peptide-level text file
+PXD051905		0										no peptide-level text file
+PXD052061		0										no peptide-level text file
+PXD052062	Result.mzid.gz	12.6	False				False	False	False	True	True	
+PXD053068		0										no peptide-level text file
+PXD053100		0										no peptide-level text file
+PXD053196	OEI06455.global_peptides.mzid.gz	5.42	False				False	False	False	True	False	
+PXD053196	OEI06449.global_peptides.mzid.gz	5.65	False				False	False	False	True	False	
+PXD053837		0										no peptide-level text file
+PXD054023		0										no peptide-level text file
+PXD054667		0										no peptide-level text file
+PXD055241		0										no peptide-level text file
+PXD055405		0										no peptide-level text file
+PXD055411		0										no peptide-level text file
+PXD055559	mzTab.mzTab.gz	8.86	False				False	False	False	False	False	
+PXD055562		0										no peptide-level text file
+PXD055603		0										no peptide-level text file
+PXD055768		0										no peptide-level text file
+PXD055829		0										no peptide-level text file
+PXD057165	mzTab.mzTab.gz	18.83	False				False	False	False	False	False	
+PXD057889		0										no peptide-level text file
+PXD059084		0										no peptide-level text file
+PXD059422		0										no peptide-level text file
+PXD059641	F1889726.mztab.gz	0.02	False				False	False	False	False	False	
+PXD059641	F1889727.mztab.gz	0.02	False				False	False	False	False	False	
+PXD059650	F1889691.mztab.gz	0.02	False				False	False	False	False	False	
+PXD059650	F1889690.mztab.gz	0.03	False				False	False	False	False	False	
+PXD059766		0										no peptide-level text file
+PXD059843		0										no peptide-level text file
+PXD059885	modificationSpecificPeptides.txt	67.78	True				False	False	False	False	False	
+PXD059885	peptides.txt	69.12	True				False	False	False	False	False	
+PXD059932		0										no peptide-level text file
+PXD060175		0										no peptide-level text file
+PXD060789		0										no peptide-level text file
+PXD060821	Analysis_1_peptides_1_1_0.mzid	0.05	False				False	False	False	False	False	
+PXD060821	Analysis_3_peptides_1_1_0.mzid	1.26	False				False	False	False	False	False	
+PXD061013		0										no peptide-level text file
+PXD061033	mzTab.mzTab	37.59	False				False	False	False	False	False	
+PXD061142		0										no peptide-level text file
+PXD061197		0										no peptide-level text file
+PXD061267		0										no peptide-level text file
+PXD061414		0										no peptide-level text file
+PXD061593		0										no peptide-level text file
+PXD061806	mzTab.mzTab	227.77	False				False	False	False	False	False	
+PXD063438		0										no peptide-level text file
+PXD063904		0										no peptide-level text file
+PXD063935	01-018thru021-022-024-RMJ-20230424-S1nsp15-TMT16-.mzTab	13.11	False				False	False	False	False	False	
+PXD063935	02-053thru056.071.072.077.078-CDC-20230523-nsp15-TMT16_PeptQuant-F2128CDropped.mzTab	18.22	False				False	False	False	False	False	
+PXD064255	RO_481_CS_241105_CaiD_YW_C5R_Over_H3M_NotNormalized_AllPeptidesAndProteins.mzTab	5.89	False				False	False	False	False	False	
+PXD064255	RO_481_CS_241105_CaiD_YW_C5R_Over_H3M_NotNormalized_AllPeptidesAndProteins_MSMSSpectrumInfo.txt	33.15	False				False	False	False	False	False	
+PXD064523		0										no peptide-level text file
+PXD065216		0										no peptide-level text file
+PXD065723		0										no peptide-level text file
+PXD066251		0										no peptide-level text file
+PXD066935		0										no peptide-level text file
+PXD067661	LF_Flavo_MIDEAS_070825001_peptides_1_1_0.mzid	1.32	False				False	False	False	False	False	
+PXD067661	LF_MIDEAS_070825001_peptides_1_1_0.mzid	1.35	False				False	False	False	False	False	
+PXD068260	mzTab.mzTab	13.71	False				False	False	False	False	False	
+PXD068489	PXD007629_GluC_psm_sites.tsv.gz	0.02	False				False	False	False	False	False	
+PXD068489	PXD007629_LysC_psm_sites.tsv.gz	0.04	False				False	False	False	False	False	
+PXD069194		0										no peptide-level text file
+PXD069337		0										no peptide-level text file
+PXD069779	peptides.txt	16.71	True				False	False	False	False	False	
+PXD069779	proteinGroups.txt	6.37	False				False	False	False	False	False	
+PXD070785	mzTab.mzTab	31.01	False				False	False	False	False	False	
+PXD072858	Exploris_481_250823_CaiD_YW_CHIMERYS_9PlexTMT.mzTab	139.43	False				False	False	False	False	False	
+PXD073804		0										no peptide-level text file
+PXD074087		0										no peptide-level text file
+PXD074426		0										no peptide-level text file
+PXD074652		0										no peptide-level text file
+PXD075344	mzTab_SFQ2.mzTab	0.01	False				False	False	False	False	False	
+PXD075344	mzTab_SFQ8.mzTab	0.1	False				False	False	False	False	False	
+PXD075574	mzTab.mzTab	99.37	False				False	False	False	False	False	
+PXD076274		0										no peptide-level text file
+PXD076281		0										no peptide-level text file
+PXD076381		0										no peptide-level text file
+PXD077494		0										no peptide-level text file
+PXD078091	3A-2.mztab	4.18	False				False	False	False	False	False	
+PXD078091	3A-3.mztab	4.2	False				False	False	False	False	False	
+PXD078303		0										no peptide-level text file
+PXD078552		0										no peptide-level text file
+PXD078848	P1413-1A-FGF23_TRYP.mzTab	0.03	False				False	False	False	False	False	
+PXD078848	P1413-2A-FGF23_GALNT3_TRYP.mzTab	0.04	False				False	False	False	False	False	
+PXD079508		0										no peptide-level text file
+PXD081880	Control_3.mztab	0.89	False				False	False	False	False	False	
+PXD081880	Control_1.mztab	1.04	False				False	False	False	False	False	

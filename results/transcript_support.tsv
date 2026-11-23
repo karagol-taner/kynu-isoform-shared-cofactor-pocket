@@ -1,0 +1,39 @@
+transcript	biotype	translation_aa	transcript_support_level	is_canonical	encodes
+ENST00000994669.1	nonsense_mediated_decay	142	not	False	
+ENST00000994673.1	nonsense_mediated_decay	146	not	False	
+ENST00000994674.1	nonsense_mediated_decay	251	not	False	
+ENST00000994675.1	nonsense_mediated_decay	306	not	False	
+ENST00001094081.1	nonsense_mediated_decay	307	not	False	isoform 2
+ENST00000994670.1	nonsense_mediated_decay	326	not	False	
+ENST00000994671.1	nonsense_mediated_decay	358	not	False	
+ENST00000424385.5	nonsense_mediated_decay	76	not	False	
+ENST00000994667.1	nonsense_mediated_decay	76	not	False	
+ENST00000410015.7	protein_coding	148	not	False	
+ENST00000613664.1	protein_coding	157	not	False	
+ENST00000612147.4	protein_coding	168	not	False	
+ENST00000621320.4	protein_coding	236	not	False	
+ENST00000375773.7	protein_coding	307	not	False	isoform 2
+ENST00000994677.1	protein_coding	307	not	False	isoform 2
+ENST00001094083.1	protein_coding	377	not	False	
+ENST00000970110.2	protein_coding	394	not	False	
+ENST00000852076.2	protein_coding	416	not	False	
+ENST00000852078.2	protein_coding	416	not	False	
+ENST00000852086.2	protein_coding	416	not	False	
+ENST00000852087.2	protein_coding	416	not	False	
+ENST00001094082.1	protein_coding	426	not	False	
+ENST00000852079.2	protein_coding	443	not	False	
+ENST00000409512.5	protein_coding	465	not	False	canonical isoform 1
+ENST00000264170.9	protein_coding	465	not	True	canonical isoform 1
+ENST00000852080.2	protein_coding	465	not	False	canonical isoform 1
+ENST00000852081.2	protein_coding	465	not	False	canonical isoform 1
+ENST00000852082.2	protein_coding	465	not	False	canonical isoform 1
+ENST00000852083.2	protein_coding	465	not	False	canonical isoform 1
+ENST00000852085.2	protein_coding	465	not	False	canonical isoform 1
+ENST00000852088.2	protein_coding	465	not	False	canonical isoform 1
+ENST00001071612.1	protein_coding	465	not	False	canonical isoform 1
+ENST00001145320.1	protein_coding	465	not	False	canonical isoform 1
+ENST00000852077.2	protein_coding	501	not	False	
+ENST00000852084.2	protein_coding	507	not	False	
+ENST00001118095.1	protein_coding	59	not	False	
+ENST00001129976.1	protein_coding	79	not	False	
+ENST00000460143.1	retained_intron		not	False	

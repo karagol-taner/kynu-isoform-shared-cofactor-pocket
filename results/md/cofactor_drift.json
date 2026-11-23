@@ -1,0 +1,26 @@
+{
+  "canonical": {
+    "run": "/content/drive/MyDrive/MDs/KYNU_truncated_isoform/canonical",
+    "frames": 2001,
+    "ns": 100.0,
+    "mean": 4.231697055590256,
+    "sd": 0.9825676997787479,
+    "first_tenth": 2.6535517812499996,
+    "last_tenth": 5.1054575374999995,
+    "rise": 2.45190575625,
+    "maximum": 5.699754,
+    "settled": false
+  },
+  "mixed": {
+    "run": "/content/drive/MyDrive/MDs/KYNU_truncated_isoform/mixed",
+    "frames": 2001,
+    "ns": 100.0,
+    "mean": 5.41596001561524,
+    "sd": 0.5839044904001408,
+    "first_tenth": 4.15299219375,
+    "last_tenth": 5.9735842625,
+    "rise": 1.82059206875,
+    "maximum": 6.767893000000001,
+    "settled": false
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "shared": {
+    "gromacs_version": "2026.3",
+    "schiff_base_residue": 276,
+    "chunk_ns": 5.0,
+    "dt_ps": 0.004,
+    "ref_t_K": [
+      303.15
+    ],
+    "tcoupl": "v-rescale",
+    "pcoupl": "C-rescale",
+    "pcoupltype": "isotropic",
+    "tau_t_ps": [
+      1.0
+    ],
+    "tau_p_ps": 5.0,
+    "compressibility_bar": "4.5e-5",
+    "ref_p_bar": "1.0",
+    "coulombtype": "PME",
+    "rvdw_nm": "1.2",
+    "rcoulomb_nm": "1.2",
+    "rvdw_switch_nm": "1.0",
+    "vdwtype": "Cut-off",
+    "vdw_modifier": "Force-switch",
+    "cutoff_scheme": "Verlet",
+    "nstlist": "20",
+    "constraints": "h-bonds",
+    "constraint_algorithm": "LINCS",
+    "integrator": "md",
+    "box_A": [
+      130.0,
+      130.0,
+      130.0
+    ],
+    "minimisation": {
+      "integrator": "steep",
+      "steps": 5000,
+      "emtol_kJ_mol_nm": 1000.0,
+      "restraint_kJ_mol_nm2": {
+        "backbone": 400.0,
+        "sidechain": 40.0
+      }
+    },
+    "equilibration_ns": 0.125,
+    "equilibration_dt_ps": 0.001,
+    "equilibration_ensemble": "NVT",
+    "equilibration_restraint_kJ_mol_nm2": {
+      "backbone": 400.0,
+      "sidechain": 40.0
+    },
+    "velocities_generated_at_K": 303.15,
+    "water_model_name": "TIP3",
+    "force_field": "c36m",
+    "hmr_requested": true,
+    "charmm_gui_version": "3.7",
+    "solute_hydrogen_mass_amu": 3.024,
+    "water_hydrogen_mass_amu": 1.008,
+    "substituted_residue": [
+      "LLPP"
+    ],
+    "neutralising_cation_excess": {
+      "canonical": 12,
+      "mixed": 19
+    },
+    "solute_charge": {
+      "canonical": -12,
+      "mixed": -19
+    },
+    "hydrogen_mass_repartitioning": true,
+    "salt_M": {
+      "canonical": 0.1368,
+      "mixed": 0.1391
+    },
+    "timestep_fs": 4.0
+  },
+  "builds": {
+    "canonical": {
+      "folder": "md/charmmgui/charmm-gui-canonical/gromacs",
+      "atoms": 206980,
+      "box_nm": [
+        13.0,
+        13.0,
+        13.0
+      ],
+      "box_A": [
+        130.0,
+        130.0,
+        130.0
+      ],
+      "cubic": true,
+      "dt_ps": 0.004,
+      "integrator": "md",
+      "constraints": "h-bonds",
+      "constraint_algorithm": "LINCS",
+      "cutoff_scheme": "Verlet",
+      "nstlist": "20",
+      "vdwtype": "Cut-off",
+      "vdw_modifier": "Force-switch",
+      "rvdw_switch_nm": "1.0",
+      "ref_t_K": [
+        303.15
+      ],
+      "tcoupl": "v-rescale",
+      "pcoupl": "C-rescale",
+      "pcoupltype": "isotropic",
+      "tau_t_ps": [
+        1.0
+      ],
+      "tau_p_ps": 5.0,
+      "compressibility_bar": "4.5e-5",
+      "ref_p_bar": "1.0",
+      "coulombtype": "PME",
+      "rvdw_nm": "1.2",
+      "rcoulomb_nm": "1.2",
+      "minimisation": {
+        "integrator": "steep",
+        "steps": 5000,
+        "emtol_kJ_mol_nm": 1000.0,
+        "restraint_kJ_mol_nm2": {
+          "backbone": 400.0,
+          "sidechain": 40.0
+        }
+      },
+      "equilibration_ns": 0.125,
+      "equilibration_dt_ps": 0.001,
+      "equilibration_ensemble": "NVT",
+      "equilibration_restraint_kJ_mol_nm2": {
+        "backbone": 400.0,
+        "sidechain": 40.0
+      },
+      "velocities_generated_at_K": 303.15,
+      "molecules": {
+        "PROA": 1,
+        "PROB": 1,
+        "POT": 193,
+        "CLA": 181,
+        "TIP3": 63912
+      },
+      "waters": 63912,
+      "ions": {
+        "POT": 193,
+        "CLA": 181
+      },
+      "toppar": [
+        "toppar/CLA.itp",
+        "toppar/POT.itp",
+        "toppar/PROA.itp",
+        "toppar/PROB.itp",
+        "toppar/TIP3.itp",
+        "toppar/forcefield.itp"
+      ],
+      "water_model": [
+        "toppar/TIP3.itp"
+      ],
+      "water_model_name": "TIP3",
+      "solute_hydrogen_mass_amu": 3.024,
+      "water_hydrogen_mass_amu": 1.008,
+      "substituted_residue": [
+        "LLPP"
+      ],
+      "force_field": "c36m",
+      "hmr_requested": true,
+      "box_requested": [
+        "130",
+        "130",
+        "130",
+        "90.0",
+        "90.0",
+        "90.0"
+      ],
+      "charmm_gui_version": "3.7",
+      "salt_M": 0.1368
+    },
+    "mixed": {
+      "folder": "md/charmmgui/charmm-gui-mixed/gromacs",
+      "atoms": 206556,
+      "box_nm": [
+        13.0,
+        13.0,
+        13.0
+      ],
+      "box_A": [
+        130.0,
+        130.0,
+        130.0
+      ],
+      "cubic": true,
+      "dt_ps": 0.004,
+      "integrator": "md",
+      "constraints": "h-bonds",
+      "constraint_algorithm": "LINCS",
+      "cutoff_scheme": "Verlet",
+      "nstlist": "20",
+      "vdwtype": "Cut-off",
+      "vdw_modifier": "Force-switch",
+      "rvdw_switch_nm": "1.0",
+      "ref_t_K": [
+        303.15
+      ],
+      "tcoupl": "v-rescale",
+      "pcoupl": "C-rescale",
+      "pcoupltype": "isotropic",
+      "tau_t_ps": [
+        1.0
+      ],
+      "tau_p_ps": 5.0,
+      "compressibility_bar": "4.5e-5",
+      "ref_p_bar": "1.0",
+      "coulombtype": "PME",
+      "rvdw_nm": "1.2",
+      "rcoulomb_nm": "1.2",
+      "minimisation": {
+        "integrator": "steep",
+        "steps": 5000,
+        "emtol_kJ_mol_nm": 1000.0,
+        "restraint_kJ_mol_nm2": {
+          "backbone": 400.0,
+          "sidechain": 40.0
+        }
+      },
+      "equilibration_ns": 0.125,
+      "equilibration_dt_ps": 0.001,
+      "equilibration_ensemble": "NVT",
+      "equilibration_restraint_kJ_mol_nm2": {
+        "backbone": 400.0,
+        "sidechain": 40.0
+      },
+      "velocities_generated_at_K": 303.15,
+      "molecules": {
+        "PROA": 1,
+        "PROB": 1,
+        "POT": 203,
+        "CLA": 184,
+        "TIP3": 64624
+      },
+      "waters": 64624,
+      "ions": {
+        "POT": 203,
+        "CLA": 184
+      },
+      "toppar": [
+        "toppar/CLA.itp",
+        "toppar/POT.itp",
+        "toppar/PROA.itp",
+        "toppar/PROB.itp",
+        "toppar/TIP3.itp",
+        "toppar/forcefield.itp"
+      ],
+      "water_model": [
+        "toppar/TIP3.itp"
+      ],
+      "water_model_name": "TIP3",
+      "solute_hydrogen_mass_amu": 3.024,
+      "water_hydrogen_mass_amu": 1.008,
+      "substituted_residue": [
+        "LLPP"
+      ],
+      "force_field": "c36m",
+      "hmr_requested": true,
+      "box_requested": [
+        "130",
+        "130",
+        "130",
+        "90.0",
+        "90.0",
+        "90.0"
+      ],
+      "charmm_gui_version": "3.7",
+      "salt_M": 0.1391
+    }
+  }
+}

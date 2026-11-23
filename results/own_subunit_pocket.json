@@ -1,0 +1,61 @@
+{
+ "note": "The isoform's own chain is modelled as the canonical chain cut at the retained end. Its six novel residues are not in any structure, so what it supplies to its own site is a lower bound.",
+ "entries": {
+  "KYNU 2HZP": {
+   "protein": "KYNU",
+   "entry": "2HZP",
+   "partner_chain": "B",
+   "retained_end": 301,
+   "own_whole_alone": 73.96,
+   "own_truncated_alone": 73.96,
+   "buried_by_own_lost_block": 0.0,
+   "dimer_full": 15.37,
+   "canonical_site_in_mixed": 73.96,
+   "isoform_site_in_mixed": 15.37,
+   "canonical_site_excess": 58.59,
+   "isoform_site_excess": 0.0
+  },
+  "KYNU 3E9K": {
+   "protein": "KYNU",
+   "entry": "3E9K",
+   "partner_chain": "B",
+   "retained_end": 301,
+   "own_whole_alone": 60.42,
+   "own_truncated_alone": 69.55,
+   "buried_by_own_lost_block": 9.13,
+   "dimer_full": 6.39,
+   "canonical_site_in_mixed": 60.42,
+   "isoform_site_in_mixed": 11.79,
+   "canonical_site_excess": 54.04,
+   "isoform_site_excess": 5.41
+  },
+  "SCLY 3GZC": {
+   "protein": "SCLY",
+   "entry": "3GZC",
+   "partner_chain": "B",
+   "retained_end": 307,
+   "own_whole_alone": 61.32,
+   "own_truncated_alone": 61.32,
+   "buried_by_own_lost_block": 0.0,
+   "dimer_full": 19.85,
+   "canonical_site_in_mixed": 19.85,
+   "isoform_site_in_mixed": 19.85,
+   "canonical_site_excess": 0.0,
+   "isoform_site_excess": 0.0
+  },
+  "SCLY 3GZD": {
+   "protein": "SCLY",
+   "entry": "3GZD",
+   "partner_chain": "B",
+   "retained_end": 307,
+   "own_whole_alone": 49.67,
+   "own_truncated_alone": 59.06,
+   "buried_by_own_lost_block": 9.4,
+   "dimer_full": 8.97,
+   "canonical_site_in_mixed": 8.97,
+   "isoform_site_in_mixed": 16.13,
+   "canonical_site_excess": 0.0,
+   "isoform_site_excess": 7.16
+  }
+ }
+}

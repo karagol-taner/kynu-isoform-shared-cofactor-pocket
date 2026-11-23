@@ -1,0 +1,512 @@
+{
+ "variants_total": 735,
+ "variants_usable": 620,
+ "variants_malformed": [
+  {
+   "position": 16,
+   "stated_wild_type": "C",
+   "reference_residue": "I",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 19,
+   "stated_wild_type": "G",
+   "reference_residue": "E",
+   "alternative": "C",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 35,
+   "stated_wild_type": "C",
+   "reference_residue": "E",
+   "alternative": "G",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 40,
+   "stated_wild_type": "C",
+   "reference_residue": "R",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 46,
+   "stated_wild_type": "A",
+   "reference_residue": "F",
+   "alternative": "G",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated",
+    "NCI-TCGA Cosmic"
+   ]
+  },
+  {
+   "position": 76,
+   "stated_wild_type": "G",
+   "reference_residue": "L",
+   "alternative": "C",
+   "sources": [
+    "NCI-TCGA Cosmic"
+   ]
+  },
+  {
+   "position": 88,
+   "stated_wild_type": "G",
+   "reference_residue": "E",
+   "alternative": "T",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 103,
+   "stated_wild_type": "G",
+   "reference_residue": "E",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 133,
+   "stated_wild_type": "T",
+   "reference_residue": "L",
+   "alternative": "C",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 134,
+   "stated_wild_type": "G",
+   "reference_residue": "M",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 156,
+   "stated_wild_type": "YKILLEAKAFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLRIEDILEVIEKEGDSIAVILFSGVHFYTGQHFNIPAITKAGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYKYLNAGAGGIAGAFIHEKHAHTIKPALVGWFGHELSTRFKMDNKLQLIPGVCGFRISNPPILLVCSLHASLEIFKQATMKALRKKSVLLTGYLEYLIKHNYGKDKAATKKPVVNIITPSHVEERGCQLTITFSVPNKDVFQELEKRGVVCDKRNPNGIRVAPVPLYNSFHDVYKFTNLLTSILDSAETKN",
+   "reference_residue": "Y",
+   "alternative": "del",
+   "sources": [
+    "UniProt"
+   ]
+  },
+  {
+   "position": 208,
+   "stated_wild_type": "T",
+   "reference_residue": "I",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 218,
+   "stated_wild_type": "G",
+   "reference_residue": "I",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 224,
+   "stated_wild_type": "C",
+   "reference_residue": "H",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 259,
+   "stated_wild_type": "C",
+   "reference_residue": "E",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 268,
+   "stated_wild_type": null,
+   "reference_residue": "D",
+   "alternative": null,
+   "sources": [
+    "NCI-TCGA Cosmic"
+   ]
+  },
+  {
+   "position": 268,
+   "stated_wild_type": "G",
+   "reference_residue": "D",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 282,
+   "stated_wild_type": "G",
+   "reference_residue": "A",
+   "alternative": "T",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 301,
+   "stated_wild_type": "G",
+   "reference_residue": "A",
+   "alternative": "T",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 302,
+   "stated_wild_type": "G",
+   "reference_residue": "L",
+   "alternative": "T",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 305,
+   "stated_wild_type": "A",
+   "reference_residue": "W",
+   "alternative": "T",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 323,
+   "stated_wild_type": "C",
+   "reference_residue": "I",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 326,
+   "stated_wild_type": "G",
+   "reference_residue": "V",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 327,
+   "stated_wild_type": "G",
+   "reference_residue": "C",
+   "alternative": "T",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 329,
+   "stated_wild_type": "T",
+   "reference_residue": "F",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 363,
+   "stated_wild_type": "G",
+   "reference_residue": "L",
+   "alternative": "T",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 366,
+   "stated_wild_type": "C",
+   "reference_residue": "G",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 384,
+   "stated_wild_type": "G",
+   "reference_residue": "K",
+   "alternative": "T",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 397,
+   "stated_wild_type": "C",
+   "reference_residue": "E",
+   "alternative": "A",
+   "sources": [
+    "NCI-TCGA Cosmic",
+    "cosmic curated"
+   ]
+  },
+  {
+   "position": 402,
+   "stated_wild_type": "G",
+   "reference_residue": "Q",
+   "alternative": "T",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 416,
+   "stated_wild_type": "T",
+   "reference_residue": "Q",
+   "alternative": "C",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 426,
+   "stated_wild_type": "T",
+   "reference_residue": "D",
+   "alternative": "A",
+   "sources": [
+    "cosmic curated",
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 434,
+   "stated_wild_type": "T",
+   "reference_residue": "R",
+   "alternative": "C",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 449,
+   "stated_wild_type": "A",
+   "reference_residue": "K",
+   "alternative": "G",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 458,
+   "stated_wild_type": "C",
+   "reference_residue": "L",
+   "alternative": "T",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  },
+  {
+   "position": 460,
+   "stated_wild_type": "A",
+   "reference_residue": "S",
+   "alternative": "G",
+   "sources": [
+    "NCI-TCGA"
+   ]
+  }
+ ],
+ "by_block": {
+  "retained": 418,
+  "substituted": 1,
+  "deleted": 201
+ },
+ "significance_by_block": {
+  "retained": {
+   "Variant of uncertain significance": 48,
+   "Benign": 3,
+   "Likely benign": 1,
+   "Pathogenic": 8,
+   "Likely pathogenic": 4
+  },
+  "deleted": {
+   "Variant of uncertain significance": 19,
+   "Pathogenic": 5,
+   "Benign": 1,
+   "Likely benign": 1
+  },
+  "substituted": {}
+ },
+ "variants_at_interface_residues": [
+  {
+   "position": 303,
+   "wild_type": "V",
+   "alternative": "L",
+   "consequence": "missense",
+   "clinical": null,
+   "sources": [
+    "cosmic curated",
+    "gnomAD"
+   ],
+   "cross_subunit_cofactor_contact": false
+  },
+  {
+   "position": 316,
+   "wild_type": "M",
+   "alternative": "T",
+   "consequence": "missense",
+   "clinical": null,
+   "sources": [
+    "TOPMed",
+    "gnomAD"
+   ],
+   "cross_subunit_cofactor_contact": false
+  },
+  {
+   "position": 316,
+   "wild_type": "M",
+   "alternative": "V",
+   "consequence": "missense",
+   "clinical": [
+    "Variant of uncertain significance"
+   ],
+   "sources": [
+    "ClinGen",
+    "ClinVar",
+    "TOPMed",
+    "dbSNP",
+    "gnomAD"
+   ],
+   "cross_subunit_cofactor_contact": false
+  },
+  {
+   "position": 318,
+   "wild_type": "N",
+   "alternative": "D",
+   "consequence": "missense",
+   "clinical": null,
+   "sources": [
+    "TOPMed",
+    "gnomAD"
+   ],
+   "cross_subunit_cofactor_contact": false
+  },
+  {
+   "position": 332,
+   "wild_type": "S",
+   "alternative": "L",
+   "consequence": "missense",
+   "clinical": null,
+   "sources": [
+    "ExAC",
+    "gnomAD"
+   ],
+   "cross_subunit_cofactor_contact": true
+  }
+ ],
+ "orthologues": {
+  "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)": "Q05979",
+  "Mus musculus": "Q9CXF0",
+  "Rattus norvegicus": "P70712",
+  "Pseudomonas fluorescens": "P83788",
+  "Caenorhabditis elegans": "Q18026",
+  "Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239)": "A5DTF4",
+  "Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17)": "A7TR79",
+  "Parastagonospora nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173)": "Q0UIN2",
+  "Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545)": "A3LQD7",
+  "Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324)": "A5DM91",
+  "Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565)": "P0CO52",
+  "Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)": "Q2H7G2",
+  "Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)": "Q7S332",
+  "Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)": "A4UBV5",
+  "Cryptococcus deneoformans (strain B-3501A)": "P0CO53",
+  "Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)": "A1C688",
+  "Caenorhabditis briggsae": "A8XKT0",
+  "Candida albicans (strain SC5314 / ATCC MYA-2876)": "Q59QC4",
+  "Aspergillus nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)": "Q5B0H8",
+  "Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)": "Q6BI19",
+  "Yarrowia lipolytica (strain CLIB 122 / E 150)": "Q6CDM0",
+  "Dictyostelium discoideum": "Q54Q04",
+  "Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)": "A2R7T0",
+  "Burkholderia mallei (strain NCTC 10229)": "A2S925",
+  "Geobacillus thermodenitrificans (strain NG80-2)": "A4IT57",
+  "Botrytis cinerea (strain B05.10)": "A6RSP5",
+  "Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10)": "B0XS72",
+  "Aspergillus terreus (strain NIH 2624 / FGSC A1156)": "Q0CPB0",
+  "Koribacter versatilis (strain Ellin345)": "Q1ITW5",
+  "Xanthomonas euvesicatoria pv. vesicatoria (strain 85-10)": "Q3BV40",
+  "Bacillus thuringiensis subsp. konkukian (strain 97-27)": "Q6HHX7",
+  "Aspergillus fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181)": "A1DGW4",
+  "Salinispora tropica (strain ATCC BAA-916 / DSM 44818 / JCM 13857 / NBRC 105044 / CNB-440)": "A4XAL2",
+  "Flavobacterium johnsoniae (strain ATCC 17061 / DSM 2064 / JCM 8514 / BCRC 14874 / CCUG 350202 / NBRC 14942 / NCIMB 11054 / UW101)": "A5FMM4",
+  "Bacillus mycoides (strain KBAB4)": "A9VHP9",
+  "Exiguobacterium artemiae (strain DSM 17290 / CCUG 55495 / CIP 109462 / JCM 13490 / 255-15)": "B1YHD6",
+  "Stenotrophomonas maltophilia (strain K279a)": "B2FL97",
+  "Myxococcus xanthus (strain DK1622)": "Q1DDU5",
+  "Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)": "Q750P5",
+  "Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / CCUG 27074 / LMG 4051 / NBRC 15346 / NCIMB 9279 / VKM B-1422 / R1)": "Q9RYH5",
+  "Christiangramia forsetii (strain DSM 17595 / CGMCC 1.15422 / KT0803)": "A0M4Y1",
+  "Burkholderia mallei (strain NCTC 10247)": "A3MHE2",
+  "Flavobacterium psychrophilum (strain ATCC 49511 / DSM 21280 / CIP 103535 / JIP02/86)": "A6H1P7",
+  "Monosiga brevicollis": "A9V3C0",
+  "Xanthomonas campestris pv. campestris (strain B100)": "B0RUZ9",
+  "Xanthomonas oryzae pv. oryzae (strain PXO99A)": "B2SIT8",
+  "Coccidioides immitis (strain RS)": "Q1DZA6",
+  "Burkholderia pseudomallei (strain 1710b)": "Q3JVD7",
+  "Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)": "Q4X1D4",
+  "Burkholderia mallei (strain ATCC 23344)": "Q62M98",
+  "Bacillus cereus (strain ZK / E33L)": "Q63AJ0",
+  "Bacillus cereus (strain ATCC 10987 / NRS 248)": "Q736W3",
+  "Bacillus cereus (strain ATCC 14579 / DSM 31 / CCUG 7414 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NCTC 2599 / NRRL B-3711)": "Q81CK0",
+  "Xanthomonas campestris pv. campestris (strain ATCC 33913 / DSM 3586 / NCPPB 528 / LMG 568 / P 25)": "Q8PAD2",
+  "Xanthomonas citri pv. citri (strain 306)": "Q8PM33",
+  "Bacillus thuringiensis (strain Al Hakam)": "A0REX2",
+  "Burkholderia mallei (strain SAVP1)": "A1V194",
+  "Burkholderia pseudomallei (strain 668)": "A3N6H3",
+  "Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1)": "A7ESB8",
+  "Bacillus cytotoxicus (strain DSM 22905 / CIP 110041 / 391-98 / NVH 391-98)": "A7GPY3",
+  "Nematostella vectensis": "A7SCH8",
+  "Shewanella woodyi (strain ATCC 51908 / MS32)": "B1KJM4",
+  "Xanthomonas oryzae pv. oryzae (strain MAFF 311018)": "Q2P317",
+  "Aspergillus oryzae (strain ATCC 42149 / RIB 40)": "Q2U038",
+  "Xanthomonas campestris pv. campestris (strain 8004)": "Q4UT93",
+  "Shouchella clausii (strain KSM-K16)": "Q5WKB5",
+  "Burkholderia pseudomallei (strain K96243)": "Q63WP4",
+  "Bacillus anthracis": "Q81PP8",
+  "Burkholderia pseudomallei (strain 1106a)": "A3NS56",
+  "Schistosoma japonicum": "Q5DGJ1",
+  "Xanthomonas oryzae pv. oryzae (strain KACC10331 / KXO85)": "Q5H039"
+ }
+}

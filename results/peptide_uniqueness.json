@@ -1,0 +1,43 @@
+{
+ "proteome": "UP000005640",
+ "entries_searched": 42545,
+ "missed_cleavages": 2,
+ "length_window": [
+  7,
+  40
+ ],
+ "diagnostic_peptides": [
+  {
+   "peptide": "HAHTIKPAR",
+   "length": 9,
+   "protein_entries_carrying_it": 1,
+   "distinct_accessions": "Q16719-2",
+   "distinct_base_accessions": 1,
+   "observed_in_peptideatlas": false
+  },
+  {
+   "peptide": "HAHTIKPARSEFFN",
+   "length": 14,
+   "protein_entries_carrying_it": 1,
+   "distinct_accessions": "Q16719-2",
+   "distinct_base_accessions": 1,
+   "observed_in_peptideatlas": true
+  },
+  {
+   "peptide": "YLNAGAGGIAGAFIHEKHAHTIKPAR",
+   "length": 26,
+   "protein_entries_carrying_it": 1,
+   "distinct_accessions": "Q16719-2",
+   "distinct_base_accessions": 1,
+   "observed_in_peptideatlas": false
+  },
+  {
+   "peptide": "YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN",
+   "length": 31,
+   "protein_entries_carrying_it": 1,
+   "distinct_accessions": "Q16719-2",
+   "distinct_base_accessions": 1,
+   "observed_in_peptideatlas": false
+  }
+ ]
+}

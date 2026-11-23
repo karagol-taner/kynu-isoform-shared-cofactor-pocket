@@ -1,0 +1,44 @@
+KYNU 2HZP  chains ['A', 'B']  reference A  partner B  BSA per partner {'B': 3114.4}
+    coverage chain A: 447 of 465 (0.961), segments 6-378;387-460
+    interface residues 79  total BSA 3114 A2
+    retained 1-301 2221 A2 0.713 | substituted (302, 307) 253 A2 0.081 | replaced-or-deleted 308-465 640 A2 0.206
+    retained patches 1  largest 58 residues 2221 A2 span [47, 301]
+    partner cofactor ['PLP']  cross-subunit contacts under 4.0 A lost: {305: ('TRP', 2.72), 332: ('SER', 2.62), 333: ('ASN', 2.75)}  kept: none
+    published cross-subunit hydrogen-bond residues, BSA: {303: 62.5, 305: 87.3, 318: 123.9, 333: 64.9}
+    residues reported without an explicit contact, BSA: {102: 37.5, 110: 0.0, 306: 0.0, 310: 0.0, 313: 3.4, 314: 0.0, 316: 58.7}
+KYNU 3E9K  chains ['A', 'B']  reference A  partner B  BSA per partner {'B': 3102.3}
+    coverage chain A: 446 of 465 (0.959), segments 6-377;387-460
+    interface residues 76  total BSA 3102 A2
+    retained 1-301 2209 A2 0.712 | substituted (302, 307) 250 A2 0.080 | replaced-or-deleted 308-465 644 A2 0.208
+    retained patches 1  largest 56 residues 2209 A2 span [47, 301]
+    partner cofactor ['PLP']  cross-subunit contacts under 4.0 A lost: {305: ('TRP', 2.78), 332: ('SER', 2.6), 333: ('ASN', 2.81)}  kept: none
+    published cross-subunit hydrogen-bond residues, BSA: {303: 61.9, 305: 85.4, 318: 124.0, 333: 64.5}
+    residues reported without an explicit contact, BSA: {102: 37.1, 110: 0.0, 306: 0.0, 310: 0.0, 313: 2.9, 314: 0.0, 316: 59.4}
+KYNU 7S3V  chains ['A', 'B']  reference A  partner B  BSA per partner {'B': 3262.9}
+    coverage chain A: 446 of 465 (0.959), segments 6-376;386-460
+    coverage chain B: 446 of 465 (0.959), segments 6-376;386-460
+    interface residues 83  total BSA 3263 A2
+    retained 1-301 2294 A2 0.703 | substituted (302, 307) 258 A2 0.079 | replaced-or-deleted 308-465 712 A2 0.218
+    retained patches 1  largest 57 residues 2294 A2 span [47, 301]
+    partner cofactor ['LLP']  cross-subunit contacts under 4.0 A lost: {305: ('TRP', 2.78), 332: ('SER', 2.44), 333: ('THR', 3.22)}  kept: none
+    published cross-subunit hydrogen-bond residues, BSA: {303: 65.3, 305: 80.4, 318: 116.6, 333: 49.6}
+    residues reported without an explicit contact, BSA: {102: 29.6, 110: 0.0, 306: 0.0, 310: 0.0, 313: 2.1, 314: 5.8, 316: 78.6}
+SCLY 3GZC  chains ['A', 'B']  reference A  partner B  BSA per partner {'B': 2150.9}
+    coverage chain A: 403 of 445 (0.906), segments 29-119;133-444
+    coverage chain B: 402 of 445 (0.903), segments 29-119;133-443
+    interface residues 57  total BSA 2151 A2
+    retained 1-307 1939 A2 0.901 | substituted None 0 A2 0.000 | replaced-or-deleted 308-445 212 A2 0.099
+    retained patches 2  largest 50 residues 1924 A2 span [31, 301]
+    partner cofactor ['PLR']  cross-subunit contacts under 4.0 A lost: none  kept: {295: ('GLY', 3.73), 296: ('THR', 2.53)}
+SCLY 3GZD  chains ['A', 'B']  reference A  partner B  BSA per partner {'B': 2029.6}
+    coverage chain A: 397 of 445 (0.892), segments 31-120;133-390;395-443
+    coverage chain B: 392 of 445 (0.881), segments 31-120;133-385;395-443
+    coverage chain C: 396 of 445 (0.890), segments 31-120;133-388;394-443
+    coverage chain D: 397 of 445 (0.892), segments 31-120;133-390;395-443
+    interface residues 57  total BSA 2030 A2
+    retained 1-307 1878 A2 0.925 | substituted None 0 A2 0.000 | replaced-or-deleted 308-445 152 A2 0.075
+    retained patches 2  largest 51 residues 1873 A2 span [33, 301]
+    partner cofactor ['PLR']  cross-subunit contacts under 4.0 A lost: none  kept: {295: ('GLY', 3.61), 296: ('THR', 2.54)}
+
+KYNU gates: {"A_published_hbond_recovered": true, "B_informative": true, "C_retained_area": true, "C_retained_bsa": [2221, 2209], "D_spread_points": 0.12037945368434944, "D_pass": true, "cofactor_contacts_lost": [3, 3]}
+SCLY gates: {"A_published_hbond_recovered": null, "B_informative": false, "C_retained_area": false, "C_retained_bsa": [1939, 1878], "D_spread_points": 2.39111723215233, "D_pass": true, "cofactor_contacts_lost": [0, 0]}

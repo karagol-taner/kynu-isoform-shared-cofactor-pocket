@@ -1,0 +1,56 @@
+{
+  "canonical": {
+    "burn_ps": 20000.0,
+    "spacing_ps": 50.0,
+    "frames_total": 2001,
+    "frames_scored": 1601,
+    "ns": 100.0,
+    "chains": {
+      "sub1": {
+        "segment": "A",
+        "residues": 465,
+        "first_residue": 1,
+        "last_residue": 465,
+        "rmsf_A_mean": 0.8667526881720431,
+        "rmsf_A_min": 0.386,
+        "rmsf_A_max": 13.748000000000001
+      },
+      "sub2": {
+        "segment": "B",
+        "residues": 465,
+        "first_residue": 1,
+        "last_residue": 465,
+        "rmsf_A_mean": 0.8195075268817205,
+        "rmsf_A_min": 0.385,
+        "rmsf_A_max": 8.668
+      }
+    }
+  },
+  "mixed": {
+    "burn_ps": 20000.0,
+    "spacing_ps": 50.0,
+    "frames_total": 2001,
+    "frames_scored": 1601,
+    "ns": 100.0,
+    "chains": {
+      "sub1": {
+        "segment": "A",
+        "residues": 465,
+        "first_residue": 1,
+        "last_residue": 465,
+        "rmsf_A_mean": 0.9245612903225806,
+        "rmsf_A_min": 0.398,
+        "rmsf_A_max": 10.96
+      },
+      "sub2": {
+        "segment": "B",
+        "residues": 307,
+        "first_residue": 1,
+        "last_residue": 307,
+        "rmsf_A_mean": 2.2756612377850165,
+        "rmsf_A_min": 0.775,
+        "rmsf_A_max": 6.845
+      }
+    }
+  }
+}

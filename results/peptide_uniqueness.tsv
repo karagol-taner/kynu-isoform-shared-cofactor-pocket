@@ -1,0 +1,5 @@
+peptide	length	protein_entries_carrying_it	distinct_base_accessions	distinct_accessions	observed_in_peptideatlas
+HAHTIKPAR	9	1	1	Q16719-2	False
+HAHTIKPARSEFFN	14	1	1	Q16719-2	True
+YLNAGAGGIAGAFIHEKHAHTIKPAR	26	1	1	Q16719-2	False
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	31	1	1	Q16719-2	False

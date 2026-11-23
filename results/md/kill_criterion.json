@@ -1,0 +1,122 @@
+{
+  "verdict": "ASSEMBLY HOLDS, POCKET NOT EVALUABLE",
+  "reason": "the mixed dimer keeps 0.82 of the canonical interface over the window and 0.80 over its last tenth, at or above the declared 0.50, so the assembly arm passes. The pocket arm is not scored: the cofactor moved 4.23 A in canonical and 5.42 A in mixed from where its run started, which part 3b scores as having left the site, so the exposure measured in each build is of a cofactor in an undetermined position and the difference between them says nothing about the partner's contribution to the site.",
+  "thresholds": {
+    "hold": 0.5,
+    "stop": 0.25,
+    "separated_A": 5.0,
+    "exposure_fraction": 0.5,
+    "tail_fraction": 0.1,
+    "burn_fraction": 0.19990004997501248,
+    "min_ns_for_hold": 100.0
+  },
+  "one_sided": false,
+  "assembly": {
+    "holds": true,
+    "fails": false,
+    "interface": {
+      "buried": {
+        "canonical": 3203.0853841349153,
+        "mixed": 2707.8528107432853,
+        "fraction": 0.845388894144206,
+        "canonical_tail": 3121.445625,
+        "mixed_tail": 2604.8359374999995,
+        "fraction_tail": 0.8344966564970997
+      },
+      "contacts": {
+        "canonical": 7333.577139287945,
+        "mixed": 6009.914428482199,
+        "fraction": 0.819506540169254,
+        "canonical_tail": 7206.4875,
+        "mixed_tail": 5758.51875,
+        "fraction_tail": 0.7990742716198426
+      }
+    },
+    "mixed_mindist_tail_A": 1.6067690812499997
+  },
+  "pocket": {
+    "canonical_A2": 60.01686445971268,
+    "canonical_sd": 23.756677547211666,
+    "mixed_A2": 71.74522173641475,
+    "mixed_sd": 15.547951375388497,
+    "rise_A2": 11.72835727670207,
+    "rise_wanted_A2": 29.295,
+    "crystal_lost_block_A2": 58.59,
+    "crystal_whole_partner_A2": 58.59,
+    "fraction_of_crystal": 0.20017677550268081
+  },
+  "pocket_evaluable": false,
+  "cofactor_drift": {
+    "canonical": {
+      "run": "/content/drive/MyDrive/MDs/KYNU_truncated_isoform/canonical",
+      "frames": 2001,
+      "ns": 100.0,
+      "mean": 4.231697055590256,
+      "sd": 0.9825676997787479,
+      "first_tenth": 2.6535517812499996,
+      "last_tenth": 5.1054575374999995,
+      "rise": 2.45190575625,
+      "maximum": 5.699754,
+      "settled": false
+    },
+    "mixed": {
+      "run": "/content/drive/MyDrive/MDs/KYNU_truncated_isoform/mixed",
+      "frames": 2001,
+      "ns": 100.0,
+      "mean": 5.41596001561524,
+      "sd": 0.5839044904001408,
+      "first_tenth": 4.15299219375,
+      "last_tenth": 5.9735842625,
+      "rise": 1.82059206875,
+      "maximum": 6.767893000000001,
+      "settled": false
+    }
+  },
+  "ns": {
+    "canonical": 100.0,
+    "mixed": 100.0
+  },
+  "frames": {
+    "canonical": 2001,
+    "mixed": 2001
+  },
+  "rmsd_A": {
+    "canonical": {
+      "mean": 2.723454755777639,
+      "sd": 0.13060242590037915,
+      "p10": 2.561543,
+      "p90": 2.893408,
+      "first": 2.4635029999999998,
+      "last": 2.962343
+    },
+    "mixed": {
+      "mean": 4.889305839475328,
+      "sd": 0.5993940236753919,
+      "p10": 4.229119,
+      "p90": 5.9202129999999995,
+      "first": 4.0361,
+      "last": 6.1328320000000005
+    }
+  },
+  "mindist_cofactor_partner_A": {
+    "canonical": {
+      "mean": 3.9381290986883193,
+      "sd": 1.0398905600809494,
+      "p10": 2.587063,
+      "p90": 5.270324,
+      "first": 3.724433,
+      "last": 4.716578
+    },
+    "mixed": {
+      "mean": 6.839134923173017,
+      "sd": 2.1569501963763758,
+      "p10": 3.768154,
+      "p90": 9.287968,
+      "first": 4.366602,
+      "last": 7.81819
+    }
+  },
+  "cofactor": "PLP",
+  "cofactor_source": "2HZP",
+  "written": "2026-11-13T09:40:58"
+}

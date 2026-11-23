@@ -1,0 +1,9 @@
+job	role	model	chain_a_residues	chain_b_residues	iptm	ptm	ranking_score	has_clash	fraction_disordered	interface_residues	interface_pairs	interface_plddt	interface_pae	pDockQ	pDockQ2	partner_offset	partner_iface_retained	partner_iface_substituted	partner_iface_deleted
+canonical__canonical	reference homodimer	0	465	465	0.91	0.92	0.92	0.0	0.0	174	251	93.03	2.25	0.7241	0.7382	0	61	5	21
+isoform2__isoform2	isoform homodimer, reference	0	307	307	0.88	0.89	0.9	0.0	0.04	105	117	90.45	3.96	0.6385	0.4732	0	48	4	0
+canonical__isoform2	the claim	0	465	307	0.89	0.9	0.91	0.0	0.03	137	188	91.99	3.69	0.7057	0.5482	0	60	5	0
+canonical__trunc_cterm	length-matched, novel tail absent	0	465	307	0.89	0.91	0.9	0.0	0.03	133	182	93.15	2.65	0.708	0.7031	0	59	4	0
+canonical__trunc_nterm	length-matched, N-terminal interface face removed	0	465	307	0.87	0.89	0.87	0.0	0.0	108	147	84.76	4.08	0.622	0.3665	158	24	5	19
+canonical__tail_scramble_01	length-matched, tail permuted	0	465	307	0.92	0.92	0.93	0.0	0.03	136	187	94.12	2.76	0.7132	0.6942	0	60	5	0
+canonical__tail_scramble_02	length-matched, tail permuted	0	465	307	0.91	0.91	0.92	0.0	0.03	138	195	92.51	3.65	0.7102	0.5642	0	60	6	0
+canonical__tail_scramble_03	length-matched, tail permuted	0	465	307	0.9	0.91	0.92	0.0	0.03	135	185	93.3	2.81	0.7097	0.679	0	60	4	0

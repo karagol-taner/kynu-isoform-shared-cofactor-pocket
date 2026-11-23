@@ -1,0 +1,3137 @@
+{
+  "method": {
+    "definition": "DCS = conservation * norm_dynamics, RCS = conservation * (1 - norm_dynamics), each rescaled 0 to 10 over the chain",
+    "dynamics": "C-alpha RMSF per residue, each chain superposed on itself",
+    "replicas": 1,
+    "replicas_in_published_method": 3,
+    "conservation": "orthologue identity fraction at the aligned position",
+    "orthologues": 71,
+    "top_fraction": 0.1,
+    "schiff_base_residue": 276,
+    "scored_span": [
+      6,
+      460
+    ],
+    "scored_span_source": "resolved in every deposited chain of this protein",
+    "scored_span_entries": {
+      "2HZP": [
+        6,
+        460
+      ],
+      "3E9K": [
+        6,
+        460
+      ],
+      "7S3V": [
+        6,
+        460
+      ]
+    },
+    "pocket_evaluable": false
+  },
+  "chains": {
+    "canonical_sub1": {
+      "build": "canonical",
+      "chain": "sub1",
+      "segment": "A",
+      "residues": 465,
+      "scored": 455,
+      "novel_sequence_positions": [],
+      "no_conservation": [],
+      "outside_scored_span": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        461,
+        462,
+        463,
+        464,
+        465
+      ],
+      "rmsf_A": {
+        "mean": 0.8667526881720422,
+        "min": 0.386,
+        "max": 13.748
+      },
+      "top_n": 46,
+      "dynamic_conserved": [
+        {
+          "position": 316,
+          "residue": "M",
+          "block": "deleted",
+          "dcs": 10.0,
+          "rmsf_A": 1.393,
+          "conservation": 0.986
+        },
+        {
+          "position": 164,
+          "residue": "A",
+          "block": "retained",
+          "dcs": 9.96629073161299,
+          "rmsf_A": 2.101,
+          "conservation": 0.5770000000000001
+        },
+        {
+          "position": 165,
+          "residue": "F",
+          "block": "retained",
+          "dcs": 9.880129156754641,
+          "rmsf_A": 1.367,
+          "conservation": 1.0
+        },
+        {
+          "position": 430,
+          "residue": "P",
+          "block": "deleted",
+          "dcs": 7.734902336786509,
+          "rmsf_A": 1.154,
+          "conservation": 1.0
+        },
+        {
+          "position": 314,
+          "residue": "F",
+          "block": "deleted",
+          "dcs": 7.573758538103456,
+          "rmsf_A": 1.138,
+          "conservation": 1.0
+        },
+        {
+          "position": 195,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 7.377868107829371,
+          "rmsf_A": 1.513,
+          "conservation": 0.65
+        },
+        {
+          "position": 166,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 7.21118499106659,
+          "rmsf_A": 1.102,
+          "conservation": 1.0
+        },
+        {
+          "position": 59,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 7.1608275539781365,
+          "rmsf_A": 1.808,
+          "conservation": 0.5
+        },
+        {
+          "position": 168,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 6.929183343371249,
+          "rmsf_A": 1.074,
+          "conservation": 1.0
+        },
+        {
+          "position": 379,
+          "residue": "D",
+          "block": "deleted",
+          "dcs": 6.871574435342057,
+          "rmsf_A": 2.691,
+          "conservation": 0.29600000000000004
+        },
+        {
+          "position": 6,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 6.762903086105175,
+          "rmsf_A": 2.873,
+          "conservation": 0.27
+        },
+        {
+          "position": 151,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 6.618326884224224,
+          "rmsf_A": 1.151,
+          "conservation": 0.8590000000000001
+        },
+        {
+          "position": 167,
+          "residue": "S",
+          "block": "retained",
+          "dcs": 6.238128234206396,
+          "rmsf_A": 1.119,
+          "conservation": 0.845
+        },
+        {
+          "position": 155,
+          "residue": "R",
+          "block": "retained",
+          "dcs": 6.125226860254082,
+          "rmsf_A": 1.061,
+          "conservation": 0.9009999999999999
+        },
+        {
+          "position": 163,
+          "residue": "K",
+          "block": "retained",
+          "dcs": 5.9494693333279605,
+          "rmsf_A": 2.0,
+          "conservation": 0.366
+        },
+        {
+          "position": 60,
+          "residue": "S",
+          "block": "retained",
+          "dcs": 5.88928212451984,
+          "rmsf_A": 2.142,
+          "conservation": 0.33299999999999996
+        },
+        {
+          "position": 180,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 5.803593909570127,
+          "rmsf_A": 1.226,
+          "conservation": 0.6859999999999999
+        },
+        {
+          "position": 244,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 5.245009074410162,
+          "rmsf_A": 0.964,
+          "conservation": 0.9009999999999999
+        },
+        {
+          "position": 179,
+          "residue": "H",
+          "block": "retained",
+          "dcs": 4.975294641364404,
+          "rmsf_A": 1.229,
+          "conservation": 0.586
+        },
+        {
+          "position": 304,
+          "residue": "G",
+          "block": "substituted",
+          "dcs": 4.854456935326949,
+          "rmsf_A": 0.868,
+          "conservation": 1.0
+        },
+        {
+          "position": 382,
+          "residue": "A",
+          "block": "deleted",
+          "dcs": 4.801924056956274,
+          "rmsf_A": 3.158,
+          "conservation": 0.172
+        },
+        {
+          "position": 216,
+          "residue": "A",
+          "block": "retained",
+          "dcs": 4.571689854587863,
+          "rmsf_A": 0.853,
+          "conservation": 0.972
+        },
+        {
+          "position": 170,
+          "residue": "Y",
+          "block": "retained",
+          "dcs": 4.484984419408963,
+          "rmsf_A": 0.913,
+          "conservation": 0.845
+        },
+        {
+          "position": 175,
+          "residue": "Q",
+          "block": "retained",
+          "dcs": 4.374349130125631,
+          "rmsf_A": 0.9,
+          "conservation": 0.845
+        },
+        {
+          "position": 171,
+          "residue": "A",
+          "block": "retained",
+          "dcs": 4.3632201365290815,
+          "rmsf_A": 0.945,
+          "conservation": 0.775
+        },
+        {
+          "position": 61,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 4.267581292010692,
+          "rmsf_A": 1.973,
+          "conservation": 0.267
+        },
+        {
+          "position": 65,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 4.252947420792786,
+          "rmsf_A": 1.308,
+          "conservation": 0.45799999999999996
+        },
+        {
+          "position": 294,
+          "residue": "H",
+          "block": "retained",
+          "dcs": 4.050792525344898,
+          "rmsf_A": 0.87,
+          "conservation": 0.831
+        },
+        {
+          "position": 383,
+          "residue": "T",
+          "block": "deleted",
+          "dcs": 4.029380543094887,
+          "rmsf_A": 2.067,
+          "conservation": 0.23800000000000002
+        },
+        {
+          "position": 154,
+          "residue": "K",
+          "block": "retained",
+          "dcs": 4.014656028490223,
+          "rmsf_A": 1.363,
+          "conservation": 0.408
+        },
+        {
+          "position": 194,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 3.910456419666794,
+          "rmsf_A": 1.333,
+          "conservation": 0.41
+        },
+        {
+          "position": 58,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 3.893767965015681,
+          "rmsf_A": 1.385,
+          "conservation": 0.387
+        },
+        {
+          "position": 158,
+          "residue": "I",
+          "block": "retained",
+          "dcs": 3.8775226558109455,
+          "rmsf_A": 0.771,
+          "conservation": 1.0
+        },
+        {
+          "position": 152,
+          "residue": "T",
+          "block": "retained",
+          "dcs": 3.79306316232619,
+          "rmsf_A": 1.072,
+          "conservation": 0.5489999999999999
+        },
+        {
+          "position": 161,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 3.791340937977765,
+          "rmsf_A": 0.839,
+          "conservation": 0.831
+        },
+        {
+          "position": 313,
+          "residue": "R",
+          "block": "deleted",
+          "dcs": 3.7578733852887796,
+          "rmsf_A": 0.916,
+          "conservation": 0.7040000000000001
+        },
+        {
+          "position": 302,
+          "residue": "L",
+          "block": "substituted",
+          "dcs": 3.7178895802405467,
+          "rmsf_A": 0.921,
+          "conservation": 0.69
+        },
+        {
+          "position": 181,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 3.6536133475408445,
+          "rmsf_A": 1.018,
+          "conservation": 0.574
+        },
+        {
+          "position": 268,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 3.635806957786367,
+          "rmsf_A": 0.747,
+          "conservation": 1.0
+        },
+        {
+          "position": 196,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 3.5703120751091233,
+          "rmsf_A": 1.257,
+          "conservation": 0.40700000000000003
+        },
+        {
+          "position": 428,
+          "residue": "R",
+          "block": "deleted",
+          "dcs": 3.555235058444841,
+          "rmsf_A": 0.739,
+          "conservation": 1.0
+        },
+        {
+          "position": 101,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 3.5087249295499445,
+          "rmsf_A": 0.853,
+          "conservation": 0.746
+        },
+        {
+          "position": 384,
+          "residue": "K",
+          "block": "deleted",
+          "dcs": 3.4385266622486412,
+          "rmsf_A": 1.623,
+          "conservation": 0.276
+        },
+        {
+          "position": 198,
+          "residue": "T",
+          "block": "retained",
+          "dcs": 3.436794366412797,
+          "rmsf_A": 1.146,
+          "conservation": 0.449
+        },
+        {
+          "position": 157,
+          "residue": "K",
+          "block": "retained",
+          "dcs": 3.433370060690782,
+          "rmsf_A": 0.873,
+          "conservation": 0.7
+        },
+        {
+          "position": 305,
+          "residue": "W",
+          "block": "substituted",
+          "dcs": 3.323590847837953,
+          "rmsf_A": 0.716,
+          "conservation": 1.0
+        }
+      ],
+      "rigid_conserved": [
+        {
+          "position": 270,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 10.0,
+          "rmsf_A": 0.386,
+          "conservation": 1.0
+        },
+        {
+          "position": 276,
+          "residue": "K",
+          "block": "retained",
+          "rcs": 9.99176769944619,
+          "rmsf_A": 0.397,
+          "conservation": 1.0
+        },
+        {
+          "position": 70,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 9.982038616973506,
+          "rmsf_A": 0.41,
+          "conservation": 1.0
+        },
+        {
+          "position": 275,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 9.977548271216884,
+          "rmsf_A": 0.416,
+          "conservation": 1.0
+        },
+        {
+          "position": 130,
+          "residue": "E",
+          "block": "retained",
+          "rcs": 9.964825624906451,
+          "rmsf_A": 0.433,
+          "conservation": 1.0
+        },
+        {
+          "position": 77,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.960335279149827,
+          "rmsf_A": 0.439,
+          "conservation": 1.0
+        },
+        {
+          "position": 250,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.958090106271516,
+          "rmsf_A": 0.442,
+          "conservation": 1.0
+        },
+        {
+          "position": 273,
+          "residue": "C",
+          "block": "retained",
+          "rcs": 9.951354587636581,
+          "rmsf_A": 0.451,
+          "conservation": 1.0
+        },
+        {
+          "position": 434,
+          "residue": "R",
+          "block": "deleted",
+          "rcs": 9.947612632839395,
+          "rmsf_A": 0.456,
+          "conservation": 1.0
+        },
+        {
+          "position": 75,
+          "residue": "S",
+          "block": "retained",
+          "rcs": 9.934889986528963,
+          "rmsf_A": 0.473,
+          "conservation": 1.0
+        },
+        {
+          "position": 253,
+          "residue": "H",
+          "block": "retained",
+          "rcs": 9.90869630294866,
+          "rmsf_A": 0.508,
+          "conservation": 1.0
+        },
+        {
+          "position": 228,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.892231701841043,
+          "rmsf_A": 0.53,
+          "conservation": 1.0
+        },
+        {
+          "position": 441,
+          "residue": "Y",
+          "block": "deleted",
+          "rcs": 9.891483310881604,
+          "rmsf_A": 0.531,
+          "conservation": 1.0
+        },
+        {
+          "position": 426,
+          "residue": "D",
+          "block": "deleted",
+          "rcs": 9.881754228408921,
+          "rmsf_A": 0.544,
+          "conservation": 1.0
+        },
+        {
+          "position": 140,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 9.878760664571173,
+          "rmsf_A": 0.548,
+          "conservation": 1.0
+        },
+        {
+          "position": 73,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.875018709773986,
+          "rmsf_A": 0.553,
+          "conservation": 1.0
+        },
+        {
+          "position": 393,
+          "residue": "P",
+          "block": "deleted",
+          "rcs": 9.86079928154468,
+          "rmsf_A": 0.572,
+          "conservation": 1.0
+        },
+        {
+          "position": 94,
+          "residue": "W",
+          "block": "retained",
+          "rcs": 9.840592725639874,
+          "rmsf_A": 0.599,
+          "conservation": 1.0
+        },
+        {
+          "position": 76,
+          "residue": "L",
+          "block": "retained",
+          "rcs": 9.829007633587786,
+          "rmsf_A": 0.428,
+          "conservation": 0.986
+        },
+        {
+          "position": 365,
+          "residue": "T",
+          "block": "deleted",
+          "rcs": 9.767760814249364,
+          "rmsf_A": 0.511,
+          "conservation": 0.986
+        },
+        {
+          "position": 305,
+          "residue": "W",
+          "block": "substituted",
+          "rcs": 9.75303098338572,
+          "rmsf_A": 0.716,
+          "conservation": 1.0
+        },
+        {
+          "position": 428,
+          "residue": "R",
+          "block": "deleted",
+          "rcs": 9.735817991318665,
+          "rmsf_A": 0.739,
+          "conservation": 1.0
+        },
+        {
+          "position": 268,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.729830863643167,
+          "rmsf_A": 0.747,
+          "conservation": 1.0
+        },
+        {
+          "position": 158,
+          "residue": "I",
+          "block": "retained",
+          "rcs": 9.711869480616674,
+          "rmsf_A": 0.771,
+          "conservation": 1.0
+        },
+        {
+          "position": 49,
+          "residue": "P",
+          "block": "retained",
+          "rcs": 9.667417302798981,
+          "rmsf_A": 0.607,
+          "conservation": 0.983
+        },
+        {
+          "position": 304,
+          "residue": "G",
+          "block": "substituted",
+          "rcs": 9.639275557551265,
+          "rmsf_A": 0.868,
+          "conservation": 1.0
+        },
+        {
+          "position": 281,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.638527166591826,
+          "rmsf_A": 0.498,
+          "conservation": 0.972
+        },
+        {
+          "position": 125,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.618158958239784,
+          "rmsf_A": 0.526,
+          "conservation": 0.972
+        },
+        {
+          "position": 256,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.618158958239784,
+          "rmsf_A": 0.526,
+          "conservation": 0.972
+        },
+        {
+          "position": 283,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.605792546026045,
+          "rmsf_A": 0.543,
+          "conservation": 0.972
+        },
+        {
+          "position": 399,
+          "residue": "R",
+          "block": "deleted",
+          "rcs": 9.600700493938032,
+          "rmsf_A": 0.55,
+          "conservation": 0.972
+        },
+        {
+          "position": 400,
+          "residue": "G",
+          "block": "deleted",
+          "rcs": 9.597063313875168,
+          "rmsf_A": 0.555,
+          "conservation": 0.972
+        },
+        {
+          "position": 279,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 9.569962580452028,
+          "rmsf_A": 0.4,
+          "conservation": 0.958
+        },
+        {
+          "position": 277,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 9.557774285286634,
+          "rmsf_A": 0.417,
+          "conservation": 0.958
+        },
+        {
+          "position": 46,
+          "residue": "F",
+          "block": "retained",
+          "rcs": 9.48835204310732,
+          "rmsf_A": 0.5,
+          "conservation": 0.9570000000000001
+        },
+        {
+          "position": 168,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.4851070199072,
+          "rmsf_A": 1.074,
+          "conservation": 1.0
+        },
+        {
+          "position": 37,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.478604999251608,
+          "rmsf_A": 0.664,
+          "conservation": 0.968
+        },
+        {
+          "position": 166,
+          "residue": "P",
+          "block": "retained",
+          "rcs": 9.464152073042957,
+          "rmsf_A": 1.102,
+          "conservation": 1.0
+        },
+        {
+          "position": 74,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 9.46170184104176,
+          "rmsf_A": 0.551,
+          "conservation": 0.958
+        },
+        {
+          "position": 314,
+          "residue": "F",
+          "block": "deleted",
+          "rcs": 9.437209998503217,
+          "rmsf_A": 1.138,
+          "conservation": 1.0
+        },
+        {
+          "position": 430,
+          "residue": "P",
+          "block": "deleted",
+          "rcs": 9.425235743152223,
+          "rmsf_A": 1.154,
+          "conservation": 1.0
+        },
+        {
+          "position": 346,
+          "residue": "L",
+          "block": "deleted",
+          "rcs": 9.40114354138602,
+          "rmsf_A": 0.441,
+          "conservation": 0.9440000000000001
+        },
+        {
+          "position": 216,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 9.380287382128424,
+          "rmsf_A": 0.853,
+          "conservation": 0.972
+        },
+        {
+          "position": 34,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.357401586588834,
+          "rmsf_A": 0.628,
+          "conservation": 0.953
+        },
+        {
+          "position": 126,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 9.351689866786408,
+          "rmsf_A": 0.511,
+          "conservation": 0.9440000000000001
+        },
+        {
+          "position": 440,
+          "residue": "L",
+          "block": "deleted",
+          "rcs": 9.29517138152971,
+          "rmsf_A": 0.591,
+          "conservation": 0.9440000000000001
+        }
+      ],
+      "hinge_fraction_in_dynamic": 0.17391304347826086,
+      "hinge_fraction_in_chain": 0.11428571428571428,
+      "hydrophobic_fraction_in_rigid": 0.2608695652173913,
+      "hydrophobic_fraction_in_chain": 0.4175824175824176
+    },
+    "canonical_sub2": {
+      "build": "canonical",
+      "chain": "sub2",
+      "segment": "B",
+      "residues": 465,
+      "scored": 455,
+      "novel_sequence_positions": [],
+      "no_conservation": [],
+      "outside_scored_span": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        461,
+        462,
+        463,
+        464,
+        465
+      ],
+      "rmsf_A": {
+        "mean": 0.81950752688172,
+        "min": 0.385,
+        "max": 8.668
+      },
+      "top_n": 46,
+      "dynamic_conserved": [
+        {
+          "position": 316,
+          "residue": "M",
+          "block": "deleted",
+          "dcs": 10.0,
+          "rmsf_A": 1.399,
+          "conservation": 0.986
+        },
+        {
+          "position": 379,
+          "residue": "D",
+          "block": "deleted",
+          "dcs": 9.882416953722931,
+          "rmsf_A": 3.723,
+          "conservation": 0.29600000000000004
+        },
+        {
+          "position": 151,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 9.510994154854354,
+          "rmsf_A": 1.492,
+          "conservation": 0.8590000000000001
+        },
+        {
+          "position": 195,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 8.406147604930567,
+          "rmsf_A": 1.678,
+          "conservation": 0.65
+        },
+        {
+          "position": 314,
+          "residue": "F",
+          "block": "deleted",
+          "dcs": 7.7115114562454234,
+          "rmsf_A": 1.156,
+          "conservation": 1.0
+        },
+        {
+          "position": 152,
+          "residue": "T",
+          "block": "retained",
+          "dcs": 6.3971038323511396,
+          "rmsf_A": 1.55,
+          "conservation": 0.5489999999999999
+        },
+        {
+          "position": 378,
+          "residue": "K",
+          "block": "deleted",
+          "dcs": 5.692255682113694,
+          "rmsf_A": 3.512,
+          "conservation": 0.182
+        },
+        {
+          "position": 430,
+          "residue": "P",
+          "block": "deleted",
+          "dcs": 5.2710331224920095,
+          "rmsf_A": 0.912,
+          "conservation": 1.0
+        },
+        {
+          "position": 383,
+          "residue": "T",
+          "block": "deleted",
+          "dcs": 4.5919200163232,
+          "rmsf_A": 2.314,
+          "conservation": 0.23800000000000002
+        },
+        {
+          "position": 6,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 4.496381290732983,
+          "rmsf_A": 2.05,
+          "conservation": 0.27
+        },
+        {
+          "position": 196,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 4.490090057651299,
+          "rmsf_A": 1.488,
+          "conservation": 0.40700000000000003
+        },
+        {
+          "position": 165,
+          "residue": "F",
+          "block": "retained",
+          "dcs": 4.430868450216241,
+          "rmsf_A": 0.828,
+          "conservation": 1.0
+        },
+        {
+          "position": 382,
+          "residue": "A",
+          "block": "deleted",
+          "dcs": 4.422986905433464,
+          "rmsf_A": 2.956,
+          "conservation": 0.172
+        },
+        {
+          "position": 180,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 4.329508583682401,
+          "rmsf_A": 1.016,
+          "conservation": 0.6859999999999999
+        },
+        {
+          "position": 198,
+          "residue": "T",
+          "block": "retained",
+          "dcs": 4.329208524870874,
+          "rmsf_A": 1.349,
+          "conservation": 0.449
+        },
+        {
+          "position": 384,
+          "residue": "K",
+          "block": "deleted",
+          "dcs": 4.325767850498698,
+          "rmsf_A": 1.952,
+          "conservation": 0.276
+        },
+        {
+          "position": 155,
+          "residue": "R",
+          "block": "retained",
+          "dcs": 4.325647826974086,
+          "rmsf_A": 0.865,
+          "conservation": 0.9009999999999999
+        },
+        {
+          "position": 194,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 4.154114206384451,
+          "rmsf_A": 1.398,
+          "conservation": 0.41
+        },
+        {
+          "position": 168,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 4.110805717920712,
+          "rmsf_A": 0.796,
+          "conservation": 1.0
+        },
+        {
+          "position": 59,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 4.060795915999536,
+          "rmsf_A": 1.197,
+          "conservation": 0.5
+        },
+        {
+          "position": 313,
+          "residue": "R",
+          "block": "deleted",
+          "dcs": 4.020628043096447,
+          "rmsf_A": 0.956,
+          "conservation": 0.7040000000000001
+        },
+        {
+          "position": 19,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 3.860016563246396,
+          "rmsf_A": 1.367,
+          "conservation": 0.39299999999999996
+        },
+        {
+          "position": 175,
+          "residue": "Q",
+          "block": "retained",
+          "dcs": 3.8455037187288705,
+          "rmsf_A": 0.84,
+          "conservation": 0.845
+        },
+        {
+          "position": 294,
+          "residue": "H",
+          "block": "retained",
+          "dcs": 3.823349376477789,
+          "rmsf_A": 0.845,
+          "conservation": 0.831
+        },
+        {
+          "position": 376,
+          "residue": "Y",
+          "block": "deleted",
+          "dcs": 3.768818688462938,
+          "rmsf_A": 1.791,
+          "conservation": 0.268
+        },
+        {
+          "position": 199,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 3.749734948049817,
+          "rmsf_A": 0.96,
+          "conservation": 0.652
+        },
+        {
+          "position": 166,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 3.7307312233197703,
+          "rmsf_A": 0.758,
+          "conservation": 1.0
+        },
+        {
+          "position": 167,
+          "residue": "S",
+          "block": "retained",
+          "dcs": 3.591954022988506,
+          "rmsf_A": 0.81,
+          "conservation": 0.845
+        },
+        {
+          "position": 153,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 3.5241907413853113,
+          "rmsf_A": 1.951,
+          "conservation": 0.225
+        },
+        {
+          "position": 179,
+          "residue": "H",
+          "block": "retained",
+          "dcs": 3.504966973526811,
+          "rmsf_A": 0.983,
+          "conservation": 0.586
+        },
+        {
+          "position": 174,
+          "residue": "S",
+          "block": "retained",
+          "dcs": 3.4502762541458134,
+          "rmsf_A": 0.875,
+          "conservation": 0.7040000000000001
+        },
+        {
+          "position": 377,
+          "residue": "G",
+          "block": "deleted",
+          "dcs": 3.3589183479962075,
+          "rmsf_A": 2.458,
+          "conservation": 0.162
+        },
+        {
+          "position": 334,
+          "residue": "P",
+          "block": "deleted",
+          "dcs": 3.353907365843706,
+          "rmsf_A": 0.81,
+          "conservation": 0.789
+        },
+        {
+          "position": 193,
+          "residue": "R",
+          "block": "retained",
+          "dcs": 3.311208996963404,
+          "rmsf_A": 1.069,
+          "conservation": 0.484
+        },
+        {
+          "position": 204,
+          "residue": "I",
+          "block": "retained",
+          "dcs": 3.2973462798708555,
+          "rmsf_A": 0.79,
+          "conservation": 0.8140000000000001
+        },
+        {
+          "position": 60,
+          "residue": "S",
+          "block": "retained",
+          "dcs": 3.297346279870854,
+          "rmsf_A": 1.375,
+          "conservation": 0.33299999999999996
+        },
+        {
+          "position": 304,
+          "residue": "G",
+          "block": "substituted",
+          "dcs": 3.270641045644946,
+          "rmsf_A": 0.712,
+          "conservation": 1.0
+        },
+        {
+          "position": 65,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 3.1928858056179004,
+          "rmsf_A": 1.082,
+          "conservation": 0.45799999999999996
+        },
+        {
+          "position": 24,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 3.1640401518697665,
+          "rmsf_A": 0.983,
+          "conservation": 0.529
+        },
+        {
+          "position": 244,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 3.145106440862408,
+          "rmsf_A": 0.734,
+          "conservation": 0.9009999999999999
+        },
+        {
+          "position": 105,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 3.1378150117423016,
+          "rmsf_A": 0.891,
+          "conservation": 0.62
+        },
+        {
+          "position": 386,
+          "residue": "P",
+          "block": "deleted",
+          "dcs": 3.119811483050678,
+          "rmsf_A": 0.945,
+          "conservation": 0.557
+        },
+        {
+          "position": 170,
+          "residue": "Y",
+          "block": "retained",
+          "dcs": 3.084854631507775,
+          "rmsf_A": 0.75,
+          "conservation": 0.845
+        },
+        {
+          "position": 181,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 3.0772431396553723,
+          "rmsf_A": 0.921,
+          "conservation": 0.574
+        },
+        {
+          "position": 164,
+          "residue": "A",
+          "block": "retained",
+          "dcs": 3.047157242819593,
+          "rmsf_A": 0.913,
+          "conservation": 0.5770000000000001
+        },
+        {
+          "position": 21,
+          "residue": "K",
+          "block": "retained",
+          "dcs": 3.025713039755791,
+          "rmsf_A": 1.421,
+          "conservation": 0.292
+        }
+      ],
+      "rigid_conserved": [
+        {
+          "position": 434,
+          "residue": "R",
+          "block": "deleted",
+          "rcs": 10.0,
+          "rmsf_A": 0.4,
+          "conservation": 1.0
+        },
+        {
+          "position": 70,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 9.997581035316884,
+          "rmsf_A": 0.402,
+          "conservation": 1.0
+        },
+        {
+          "position": 273,
+          "residue": "C",
+          "block": "retained",
+          "rcs": 9.9770198355104,
+          "rmsf_A": 0.419,
+          "conservation": 1.0
+        },
+        {
+          "position": 270,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 9.975810353168843,
+          "rmsf_A": 0.42,
+          "conservation": 1.0
+        },
+        {
+          "position": 250,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.968553459119496,
+          "rmsf_A": 0.426,
+          "conservation": 1.0
+        },
+        {
+          "position": 426,
+          "residue": "D",
+          "block": "deleted",
+          "rcs": 9.950411223996129,
+          "rmsf_A": 0.441,
+          "conservation": 1.0
+        },
+        {
+          "position": 275,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 9.945573294629899,
+          "rmsf_A": 0.445,
+          "conservation": 1.0
+        },
+        {
+          "position": 73,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.943154329946783,
+          "rmsf_A": 0.447,
+          "conservation": 1.0
+        },
+        {
+          "position": 140,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 9.939525882922108,
+          "rmsf_A": 0.45,
+          "conservation": 1.0
+        },
+        {
+          "position": 441,
+          "residue": "Y",
+          "block": "deleted",
+          "rcs": 9.926221577164974,
+          "rmsf_A": 0.461,
+          "conservation": 1.0
+        },
+        {
+          "position": 75,
+          "residue": "S",
+          "block": "retained",
+          "rcs": 9.921383647798743,
+          "rmsf_A": 0.465,
+          "conservation": 1.0
+        },
+        {
+          "position": 130,
+          "residue": "E",
+          "block": "retained",
+          "rcs": 9.915336236090953,
+          "rmsf_A": 0.47,
+          "conservation": 1.0
+        },
+        {
+          "position": 77,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.909288824383164,
+          "rmsf_A": 0.475,
+          "conservation": 1.0
+        },
+        {
+          "position": 253,
+          "residue": "H",
+          "block": "retained",
+          "rcs": 9.898403483309144,
+          "rmsf_A": 0.484,
+          "conservation": 1.0
+        },
+        {
+          "position": 268,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.87300435413643,
+          "rmsf_A": 0.505,
+          "conservation": 1.0
+        },
+        {
+          "position": 276,
+          "residue": "K",
+          "block": "retained",
+          "rcs": 9.870585389453314,
+          "rmsf_A": 0.507,
+          "conservation": 1.0
+        },
+        {
+          "position": 365,
+          "residue": "T",
+          "block": "deleted",
+          "rcs": 9.823030962747945,
+          "rmsf_A": 0.431,
+          "conservation": 0.986
+        },
+        {
+          "position": 76,
+          "residue": "L",
+          "block": "retained",
+          "rcs": 9.815875665215287,
+          "rmsf_A": 0.437,
+          "conservation": 0.986
+        },
+        {
+          "position": 393,
+          "residue": "P",
+          "block": "deleted",
+          "rcs": 9.808901790033866,
+          "rmsf_A": 0.558,
+          "conservation": 1.0
+        },
+        {
+          "position": 158,
+          "residue": "I",
+          "block": "retained",
+          "rcs": 9.77866473149492,
+          "rmsf_A": 0.583,
+          "conservation": 1.0
+        },
+        {
+          "position": 228,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.777455249153363,
+          "rmsf_A": 0.584,
+          "conservation": 1.0
+        },
+        {
+          "position": 428,
+          "residue": "R",
+          "block": "deleted",
+          "rcs": 9.762941461054668,
+          "rmsf_A": 0.596,
+          "conservation": 1.0
+        },
+        {
+          "position": 94,
+          "residue": "W",
+          "block": "retained",
+          "rcs": 9.725447508466377,
+          "rmsf_A": 0.627,
+          "conservation": 1.0
+        },
+        {
+          "position": 305,
+          "residue": "W",
+          "block": "substituted",
+          "rcs": 9.65771649733914,
+          "rmsf_A": 0.683,
+          "conservation": 1.0
+        },
+        {
+          "position": 304,
+          "residue": "G",
+          "block": "substituted",
+          "rcs": 9.622641509433961,
+          "rmsf_A": 0.712,
+          "conservation": 1.0
+        },
+        {
+          "position": 166,
+          "residue": "P",
+          "block": "retained",
+          "rcs": 9.567005321722302,
+          "rmsf_A": 0.758,
+          "conservation": 1.0
+        },
+        {
+          "position": 279,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 9.56030237058539,
+          "rmsf_A": 0.417,
+          "conservation": 0.958
+        },
+        {
+          "position": 281,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.556589259796807,
+          "rmsf_A": 0.539,
+          "conservation": 0.972
+        },
+        {
+          "position": 256,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.547184325108853,
+          "rmsf_A": 0.547,
+          "conservation": 0.972
+        },
+        {
+          "position": 49,
+          "residue": "P",
+          "block": "retained",
+          "rcs": 9.545847847121433,
+          "rmsf_A": 0.639,
+          "conservation": 0.983
+        },
+        {
+          "position": 399,
+          "residue": "R",
+          "block": "deleted",
+          "rcs": 9.535428156748912,
+          "rmsf_A": 0.557,
+          "conservation": 0.972
+        },
+        {
+          "position": 283,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.526023222060957,
+          "rmsf_A": 0.565,
+          "conservation": 0.972
+        },
+        {
+          "position": 74,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 9.522065795839382,
+          "rmsf_A": 0.45,
+          "conservation": 0.958
+        },
+        {
+          "position": 168,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.521044992743107,
+          "rmsf_A": 0.796,
+          "conservation": 1.0
+        },
+        {
+          "position": 277,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 9.517431059506531,
+          "rmsf_A": 0.454,
+          "conservation": 0.958
+        },
+        {
+          "position": 165,
+          "residue": "F",
+          "block": "retained",
+          "rcs": 9.482341557813257,
+          "rmsf_A": 0.828,
+          "conservation": 1.0
+        },
+        {
+          "position": 216,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 9.481349782293178,
+          "rmsf_A": 0.603,
+          "conservation": 0.972
+        },
+        {
+          "position": 125,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.467242380261249,
+          "rmsf_A": 0.615,
+          "conservation": 0.972
+        },
+        {
+          "position": 46,
+          "residue": "F",
+          "block": "retained",
+          "rcs": 9.432260522496371,
+          "rmsf_A": 0.519,
+          "conservation": 0.9570000000000001
+        },
+        {
+          "position": 400,
+          "residue": "G",
+          "block": "deleted",
+          "rcs": 9.42021770682148,
+          "rmsf_A": 0.655,
+          "conservation": 0.972
+        },
+        {
+          "position": 37,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.388476052249636,
+          "rmsf_A": 0.649,
+          "conservation": 0.968
+        },
+        {
+          "position": 346,
+          "residue": "L",
+          "block": "deleted",
+          "rcs": 9.382912433478472,
+          "rmsf_A": 0.45,
+          "conservation": 0.9440000000000001
+        },
+        {
+          "position": 430,
+          "residue": "P",
+          "block": "deleted",
+          "rcs": 9.380745041122399,
+          "rmsf_A": 0.912,
+          "conservation": 1.0
+        },
+        {
+          "position": 440,
+          "residue": "L",
+          "block": "deleted",
+          "rcs": 9.289288824383165,
+          "rmsf_A": 0.532,
+          "conservation": 0.9440000000000001
+        },
+        {
+          "position": 126,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 9.231059506531206,
+          "rmsf_A": 0.583,
+          "conservation": 0.9440000000000001
+        },
+        {
+          "position": 34,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.230314465408805,
+          "rmsf_A": 0.66,
+          "conservation": 0.953
+        }
+      ],
+      "hinge_fraction_in_dynamic": 0.2826086956521739,
+      "hinge_fraction_in_chain": 0.11428571428571428,
+      "hydrophobic_fraction_in_rigid": 0.2608695652173913,
+      "hydrophobic_fraction_in_chain": 0.4175824175824176
+    },
+    "mixed_sub1": {
+      "build": "mixed",
+      "chain": "sub1",
+      "segment": "A",
+      "residues": 465,
+      "scored": 455,
+      "novel_sequence_positions": [],
+      "no_conservation": [],
+      "outside_scored_span": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        461,
+        462,
+        463,
+        464,
+        465
+      ],
+      "rmsf_A": {
+        "mean": 0.9245612903225806,
+        "min": 0.398,
+        "max": 10.96
+      },
+      "top_n": 46,
+      "dynamic_conserved": [
+        {
+          "position": 195,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 10.0,
+          "rmsf_A": 2.016,
+          "conservation": 0.65
+        },
+        {
+          "position": 316,
+          "residue": "M",
+          "block": "deleted",
+          "dcs": 9.91906437196919,
+          "rmsf_A": 1.456,
+          "conservation": 0.986
+        },
+        {
+          "position": 166,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 9.071027859655796,
+          "rmsf_A": 1.352,
+          "conservation": 1.0
+        },
+        {
+          "position": 314,
+          "residue": "F",
+          "block": "deleted",
+          "dcs": 8.785775411238948,
+          "rmsf_A": 1.322,
+          "conservation": 1.0
+        },
+        {
+          "position": 167,
+          "residue": "S",
+          "block": "retained",
+          "dcs": 8.131025957972806,
+          "rmsf_A": 1.41,
+          "conservation": 0.845
+        },
+        {
+          "position": 379,
+          "residue": "D",
+          "block": "deleted",
+          "dcs": 7.784881620233906,
+          "rmsf_A": 3.164,
+          "conservation": 0.29600000000000004
+        },
+        {
+          "position": 165,
+          "residue": "F",
+          "block": "retained",
+          "dcs": 7.663782447466007,
+          "rmsf_A": 1.204,
+          "conservation": 1.0
+        },
+        {
+          "position": 430,
+          "residue": "P",
+          "block": "deleted",
+          "dcs": 7.47361414852144,
+          "rmsf_A": 1.184,
+          "conservation": 1.0
+        },
+        {
+          "position": 168,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 7.207378529999048,
+          "rmsf_A": 1.156,
+          "conservation": 1.0
+        },
+        {
+          "position": 6,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 7.15498716363982,
+          "rmsf_A": 3.185,
+          "conservation": 0.27
+        },
+        {
+          "position": 151,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 5.888932205001427,
+          "rmsf_A": 1.119,
+          "conservation": 0.8590000000000001
+        },
+        {
+          "position": 194,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 5.660549586383948,
+          "rmsf_A": 1.85,
+          "conservation": 0.41
+        },
+        {
+          "position": 300,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 5.638965484453741,
+          "rmsf_A": 1.216,
+          "conservation": 0.725
+        },
+        {
+          "position": 105,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 5.629932490253874,
+          "rmsf_A": 1.353,
+          "conservation": 0.62
+        },
+        {
+          "position": 382,
+          "residue": "A",
+          "block": "deleted",
+          "dcs": 5.545802034800799,
+          "rmsf_A": 3.789,
+          "conservation": 0.172
+        },
+        {
+          "position": 101,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 5.156812779309687,
+          "rmsf_A": 1.125,
+          "conservation": 0.746
+        },
+        {
+          "position": 102,
+          "residue": "H",
+          "block": "retained",
+          "dcs": 5.091185699343919,
+          "rmsf_A": 1.174,
+          "conservation": 0.69
+        },
+        {
+          "position": 94,
+          "residue": "W",
+          "block": "retained",
+          "dcs": 5.087001996767139,
+          "rmsf_A": 0.933,
+          "conservation": 1.0
+        },
+        {
+          "position": 383,
+          "residue": "T",
+          "block": "deleted",
+          "dcs": 5.055548160121709,
+          "rmsf_A": 2.632,
+          "conservation": 0.23800000000000002
+        },
+        {
+          "position": 164,
+          "residue": "A",
+          "block": "retained",
+          "dcs": 4.882856327850148,
+          "rmsf_A": 1.288,
+          "conservation": 0.5770000000000001
+        },
+        {
+          "position": 196,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 4.856755728820005,
+          "rmsf_A": 1.653,
+          "conservation": 0.40700000000000003
+        },
+        {
+          "position": 313,
+          "residue": "R",
+          "block": "deleted",
+          "dcs": 4.806237520205382,
+          "rmsf_A": 1.116,
+          "conservation": 0.7040000000000001
+        },
+        {
+          "position": 305,
+          "residue": "W",
+          "block": "substituted",
+          "dcs": 4.430921365408386,
+          "rmsf_A": 0.864,
+          "conservation": 1.0
+        },
+        {
+          "position": 193,
+          "residue": "R",
+          "block": "retained",
+          "dcs": 4.417989921080156,
+          "rmsf_A": 1.358,
+          "conservation": 0.484
+        },
+        {
+          "position": 198,
+          "residue": "T",
+          "block": "retained",
+          "dcs": 4.290624702862032,
+          "rmsf_A": 1.403,
+          "conservation": 0.449
+        },
+        {
+          "position": 180,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 4.278938860891889,
+          "rmsf_A": 1.054,
+          "conservation": 0.6859999999999999
+        },
+        {
+          "position": 170,
+          "residue": "Y",
+          "block": "retained",
+          "dcs": 4.2663782447466,
+          "rmsf_A": 0.929,
+          "conservation": 0.845
+        },
+        {
+          "position": 304,
+          "residue": "G",
+          "block": "substituted",
+          "dcs": 4.1646857468859935,
+          "rmsf_A": 0.836,
+          "conservation": 1.0
+        },
+        {
+          "position": 192,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 4.147380431682038,
+          "rmsf_A": 1.17,
+          "conservation": 0.565
+        },
+        {
+          "position": 384,
+          "residue": "K",
+          "block": "deleted",
+          "dcs": 4.143805267661881,
+          "rmsf_A": 1.977,
+          "conservation": 0.276
+        },
+        {
+          "position": 378,
+          "residue": "K",
+          "block": "deleted",
+          "dcs": 4.1152039555006175,
+          "rmsf_A": 2.776,
+          "conservation": 0.182
+        },
+        {
+          "position": 179,
+          "residue": "H",
+          "block": "retained",
+          "dcs": 4.034078159170867,
+          "rmsf_A": 1.122,
+          "conservation": 0.586
+        },
+        {
+          "position": 199,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 3.992469335361795,
+          "rmsf_A": 1.042,
+          "conservation": 0.652
+        },
+        {
+          "position": 152,
+          "residue": "T",
+          "block": "retained",
+          "dcs": 3.972511172387562,
+          "rmsf_A": 1.159,
+          "conservation": 0.5489999999999999
+        },
+        {
+          "position": 155,
+          "residue": "R",
+          "block": "retained",
+          "dcs": 3.7609489398117324,
+          "rmsf_A": 0.837,
+          "conservation": 0.9009999999999999
+        },
+        {
+          "position": 19,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 3.73680707426072,
+          "rmsf_A": 1.398,
+          "conservation": 0.39299999999999996
+        },
+        {
+          "position": 108,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 3.7091946372539697,
+          "rmsf_A": 0.902,
+          "conservation": 0.774
+        },
+        {
+          "position": 161,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 3.674194161833222,
+          "rmsf_A": 0.863,
+          "conservation": 0.831
+        },
+        {
+          "position": 257,
+          "residue": "N",
+          "block": "retained",
+          "dcs": 3.6080251022154615,
+          "rmsf_A": 0.937,
+          "conservation": 0.7040000000000001
+        },
+        {
+          "position": 244,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 3.606741466197584,
+          "rmsf_A": 0.819,
+          "conservation": 0.9009999999999999
+        },
+        {
+          "position": 283,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 3.5674812208804783,
+          "rmsf_A": 0.784,
+          "conservation": 0.972
+        },
+        {
+          "position": 39,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 3.536160502044308,
+          "rmsf_A": 0.824,
+          "conservation": 0.873
+        },
+        {
+          "position": 7,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 3.529371493771988,
+          "rmsf_A": 2.07,
+          "conservation": 0.222
+        },
+        {
+          "position": 109,
+          "residue": "W",
+          "block": "retained",
+          "dcs": 3.5191594561186648,
+          "rmsf_A": 0.836,
+          "conservation": 0.845
+        },
+        {
+          "position": 91,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 3.435979842160312,
+          "rmsf_A": 0.856,
+          "conservation": 0.789
+        },
+        {
+          "position": 59,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 3.299419986688219,
+          "rmsf_A": 1.092,
+          "conservation": 0.5
+        }
+      ],
+      "rigid_conserved": [
+        {
+          "position": 276,
+          "residue": "K",
+          "block": "retained",
+          "rcs": 10.0,
+          "rmsf_A": 0.408,
+          "conservation": 1.0
+        },
+        {
+          "position": 70,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 9.992418498862776,
+          "rmsf_A": 0.416,
+          "conservation": 1.0
+        },
+        {
+          "position": 434,
+          "residue": "R",
+          "block": "deleted",
+          "rcs": 9.98483699772555,
+          "rmsf_A": 0.424,
+          "conservation": 1.0
+        },
+        {
+          "position": 77,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.97915087187263,
+          "rmsf_A": 0.43,
+          "conservation": 1.0
+        },
+        {
+          "position": 275,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 9.96683093252464,
+          "rmsf_A": 0.443,
+          "conservation": 1.0
+        },
+        {
+          "position": 130,
+          "residue": "E",
+          "block": "retained",
+          "rcs": 9.93650492797574,
+          "rmsf_A": 0.475,
+          "conservation": 1.0
+        },
+        {
+          "position": 75,
+          "residue": "S",
+          "block": "retained",
+          "rcs": 9.933661865049281,
+          "rmsf_A": 0.478,
+          "conservation": 1.0
+        },
+        {
+          "position": 273,
+          "residue": "C",
+          "block": "retained",
+          "rcs": 9.927028051554208,
+          "rmsf_A": 0.485,
+          "conservation": 1.0
+        },
+        {
+          "position": 270,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 9.918498862774829,
+          "rmsf_A": 0.494,
+          "conservation": 1.0
+        },
+        {
+          "position": 228,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.89764973464746,
+          "rmsf_A": 0.516,
+          "conservation": 1.0
+        },
+        {
+          "position": 426,
+          "residue": "D",
+          "block": "deleted",
+          "rcs": 9.891015921152388,
+          "rmsf_A": 0.523,
+          "conservation": 1.0
+        },
+        {
+          "position": 140,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 9.888172858225929,
+          "rmsf_A": 0.526,
+          "conservation": 1.0
+        },
+        {
+          "position": 268,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.886277482941622,
+          "rmsf_A": 0.528,
+          "conservation": 1.0
+        },
+        {
+          "position": 250,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.869219105382866,
+          "rmsf_A": 0.546,
+          "conservation": 1.0
+        },
+        {
+          "position": 73,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.854056103108416,
+          "rmsf_A": 0.562,
+          "conservation": 1.0
+        },
+        {
+          "position": 76,
+          "residue": "L",
+          "block": "retained",
+          "rcs": 9.833836239575435,
+          "rmsf_A": 0.436,
+          "conservation": 0.986
+        },
+        {
+          "position": 365,
+          "residue": "T",
+          "block": "deleted",
+          "rcs": 9.803000379075057,
+          "rmsf_A": 0.469,
+          "conservation": 0.986
+        },
+        {
+          "position": 393,
+          "residue": "P",
+          "block": "deleted",
+          "rcs": 9.786770280515542,
+          "rmsf_A": 0.633,
+          "conservation": 1.0
+        },
+        {
+          "position": 158,
+          "residue": "I",
+          "block": "retained",
+          "rcs": 9.771607278241092,
+          "rmsf_A": 0.649,
+          "conservation": 1.0
+        },
+        {
+          "position": 253,
+          "residue": "H",
+          "block": "retained",
+          "rcs": 9.762130401819562,
+          "rmsf_A": 0.659,
+          "conservation": 1.0
+        },
+        {
+          "position": 441,
+          "residue": "Y",
+          "block": "deleted",
+          "rcs": 9.735595147839271,
+          "rmsf_A": 0.687,
+          "conservation": 1.0
+        },
+        {
+          "position": 428,
+          "residue": "R",
+          "block": "deleted",
+          "rcs": 9.693896891584533,
+          "rmsf_A": 0.731,
+          "conservation": 1.0
+        },
+        {
+          "position": 304,
+          "residue": "G",
+          "block": "substituted",
+          "rcs": 9.594389689158454,
+          "rmsf_A": 0.836,
+          "conservation": 1.0
+        },
+        {
+          "position": 400,
+          "residue": "G",
+          "block": "deleted",
+          "rcs": 9.5910386656558,
+          "rmsf_A": 0.548,
+          "conservation": 0.972
+        },
+        {
+          "position": 399,
+          "residue": "R",
+          "block": "deleted",
+          "rcs": 9.586432903714936,
+          "rmsf_A": 0.553,
+          "conservation": 0.972
+        },
+        {
+          "position": 305,
+          "residue": "W",
+          "block": "substituted",
+          "rcs": 9.567854435178166,
+          "rmsf_A": 0.864,
+          "conservation": 1.0
+        },
+        {
+          "position": 277,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 9.550947687642154,
+          "rmsf_A": 0.44,
+          "conservation": 0.958
+        },
+        {
+          "position": 279,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 9.53369787717968,
+          "rmsf_A": 0.459,
+          "conservation": 0.958
+        },
+        {
+          "position": 49,
+          "residue": "P",
+          "block": "retained",
+          "rcs": 9.52537433661865,
+          "rmsf_A": 0.735,
+          "conservation": 0.983
+        },
+        {
+          "position": 256,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.524715693707353,
+          "rmsf_A": 0.62,
+          "conservation": 0.972
+        },
+        {
+          "position": 281,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.507213798332069,
+          "rmsf_A": 0.639,
+          "conservation": 0.972
+        },
+        {
+          "position": 94,
+          "residue": "W",
+          "block": "retained",
+          "rcs": 9.502463987869598,
+          "rmsf_A": 0.933,
+          "conservation": 1.0
+        },
+        {
+          "position": 125,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.491554207733131,
+          "rmsf_A": 0.656,
+          "conservation": 0.972
+        },
+        {
+          "position": 74,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 9.478316906747535,
+          "rmsf_A": 0.52,
+          "conservation": 0.958
+        },
+        {
+          "position": 216,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 9.47773692191054,
+          "rmsf_A": 0.671,
+          "conservation": 0.972
+        },
+        {
+          "position": 46,
+          "residue": "F",
+          "block": "retained",
+          "rcs": 9.426703942380591,
+          "rmsf_A": 0.566,
+          "conservation": 0.9570000000000001
+        },
+        {
+          "position": 346,
+          "residue": "L",
+          "block": "deleted",
+          "rcs": 9.382744503411676,
+          "rmsf_A": 0.472,
+          "conservation": 0.9440000000000001
+        },
+        {
+          "position": 283,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 9.373646702047004,
+          "rmsf_A": 0.784,
+          "conservation": 0.972
+        },
+        {
+          "position": 37,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.361675511751328,
+          "rmsf_A": 0.755,
+          "conservation": 0.968
+        },
+        {
+          "position": 168,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.291129643669446,
+          "rmsf_A": 1.156,
+          "conservation": 1.0
+        },
+        {
+          "position": 430,
+          "residue": "P",
+          "block": "deleted",
+          "rcs": 9.26459438968916,
+          "rmsf_A": 1.184,
+          "conservation": 1.0
+        },
+        {
+          "position": 126,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 9.253025018953753,
+          "rmsf_A": 0.617,
+          "conservation": 0.9440000000000001
+        },
+        {
+          "position": 165,
+          "residue": "F",
+          "block": "retained",
+          "rcs": 9.245640636846096,
+          "rmsf_A": 1.204,
+          "conservation": 1.0
+        },
+        {
+          "position": 34,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.222027103866564,
+          "rmsf_A": 0.749,
+          "conservation": 0.953
+        },
+        {
+          "position": 440,
+          "residue": "L",
+          "block": "deleted",
+          "rcs": 9.168931008339653,
+          "rmsf_A": 0.711,
+          "conservation": 0.9440000000000001
+        },
+        {
+          "position": 314,
+          "residue": "F",
+          "block": "deleted",
+          "rcs": 9.133813495072024,
+          "rmsf_A": 1.322,
+          "conservation": 1.0
+        }
+      ],
+      "hinge_fraction_in_dynamic": 0.2826086956521739,
+      "hinge_fraction_in_chain": 0.11428571428571428,
+      "hydrophobic_fraction_in_rigid": 0.2826086956521739,
+      "hydrophobic_fraction_in_chain": 0.4175824175824176
+    },
+    "mixed_sub2": {
+      "build": "mixed",
+      "chain": "sub2",
+      "segment": "B",
+      "residues": 307,
+      "scored": 296,
+      "novel_sequence_positions": [
+        302,
+        303,
+        304,
+        305,
+        306,
+        307
+      ],
+      "no_conservation": [],
+      "outside_scored_span": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "rmsf_A": {
+        "mean": 2.275661237785016,
+        "min": 0.775,
+        "max": 6.845
+      },
+      "top_n": 30,
+      "dynamic_conserved": [
+        {
+          "position": 30,
+          "residue": "A",
+          "block": "retained",
+          "dcs": 10.0,
+          "rmsf_A": 4.851,
+          "conservation": 0.917
+        },
+        {
+          "position": 34,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 8.901008964890632,
+          "rmsf_A": 4.266,
+          "conservation": 0.953
+        },
+        {
+          "position": 37,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 7.8264768739639345,
+          "rmsf_A": 3.797,
+          "conservation": 0.968
+        },
+        {
+          "position": 25,
+          "residue": "T",
+          "block": "retained",
+          "dcs": 6.999977526238117,
+          "rmsf_A": 5.693,
+          "conservation": 0.532
+        },
+        {
+          "position": 33,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 6.839841271030361,
+          "rmsf_A": 4.258,
+          "conservation": 0.7340000000000001
+        },
+        {
+          "position": 24,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 6.564216634222403,
+          "rmsf_A": 5.413,
+          "conservation": 0.529
+        },
+        {
+          "position": 39,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 6.320312107043598,
+          "rmsf_A": 3.481,
+          "conservation": 0.873
+        },
+        {
+          "position": 27,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 6.21500112903899,
+          "rmsf_A": 5.847,
+          "conservation": 0.45799999999999996
+        },
+        {
+          "position": 19,
+          "residue": "E",
+          "block": "retained",
+          "dcs": 5.774568905089024,
+          "rmsf_A": 6.267,
+          "conservation": 0.39299999999999996
+        },
+        {
+          "position": 65,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 5.403816044767732,
+          "rmsf_A": 5.185,
+          "conservation": 0.45799999999999996
+        },
+        {
+          "position": 294,
+          "residue": "H",
+          "block": "retained",
+          "dcs": 5.249204589356213,
+          "rmsf_A": 3.136,
+          "conservation": 0.831
+        },
+        {
+          "position": 109,
+          "residue": "W",
+          "block": "retained",
+          "dcs": 5.0414801433611975,
+          "rmsf_A": 3.005,
+          "conservation": 0.845
+        },
+        {
+          "position": 18,
+          "residue": "A",
+          "block": "retained",
+          "dcs": 4.857904289599036,
+          "rmsf_A": 6.038,
+          "conservation": 0.345
+        },
+        {
+          "position": 228,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 4.810455222099628,
+          "rmsf_A": 2.573,
+          "conservation": 1.0
+        },
+        {
+          "position": 21,
+          "residue": "K",
+          "block": "retained",
+          "dcs": 4.742070775227065,
+          "rmsf_A": 6.845,
+          "conservation": 0.292
+        },
+        {
+          "position": 227,
+          "residue": "T",
+          "block": "retained",
+          "dcs": 4.7263685718352395,
+          "rmsf_A": 3.014,
+          "conservation": 0.789
+        },
+        {
+          "position": 54,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 4.36090774734783,
+          "rmsf_A": 3.042,
+          "conservation": 0.7190000000000001
+        },
+        {
+          "position": 49,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 4.294733220393763,
+          "rmsf_A": 2.408,
+          "conservation": 0.983
+        },
+        {
+          "position": 229,
+          "residue": "Q",
+          "block": "retained",
+          "dcs": 4.20047986832516,
+          "rmsf_A": 2.633,
+          "conservation": 0.845
+        },
+        {
+          "position": 108,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 4.079469362376569,
+          "rmsf_A": 2.745,
+          "conservation": 0.774
+        },
+        {
+          "position": 11,
+          "residue": "D",
+          "block": "retained",
+          "dcs": 3.832014515909819,
+          "rmsf_A": 3.842,
+          "conservation": 0.467
+        },
+        {
+          "position": 31,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 3.8176099047219507,
+          "rmsf_A": 5.06,
+          "conservation": 0.33299999999999996
+        },
+        {
+          "position": 75,
+          "residue": "S",
+          "block": "retained",
+          "dcs": 3.7429515326570515,
+          "rmsf_A": 2.174,
+          "conservation": 1.0
+        },
+        {
+          "position": 195,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 3.655464388183938,
+          "rmsf_A": 2.877,
+          "conservation": 0.65
+        },
+        {
+          "position": 74,
+          "residue": "N",
+          "block": "retained",
+          "dcs": 3.6446983860628435,
+          "rmsf_A": 2.197,
+          "conservation": 0.958
+        },
+        {
+          "position": 20,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 3.631759920293058,
+          "rmsf_A": 6.431,
+          "conservation": 0.24
+        },
+        {
+          "position": 9,
+          "residue": "P",
+          "block": "retained",
+          "dcs": 3.5935143933743072,
+          "rmsf_A": 3.04,
+          "conservation": 0.593
+        },
+        {
+          "position": 43,
+          "residue": "R",
+          "block": "retained",
+          "dcs": 3.3587839768498853,
+          "rmsf_A": 2.44,
+          "conservation": 0.754
+        },
+        {
+          "position": 125,
+          "residue": "G",
+          "block": "retained",
+          "dcs": 3.357291076953371,
+          "rmsf_A": 2.066,
+          "conservation": 0.972
+        },
+        {
+          "position": 59,
+          "residue": "L",
+          "block": "retained",
+          "dcs": 3.344309804018095,
+          "rmsf_A": 3.275,
+          "conservation": 0.5
+        }
+      ],
+      "rigid_conserved": [
+        {
+          "position": 158,
+          "residue": "I",
+          "block": "retained",
+          "rcs": 10.0,
+          "rmsf_A": 0.78,
+          "conservation": 1.0
+        },
+        {
+          "position": 250,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.78070898598516,
+          "rmsf_A": 0.913,
+          "conservation": 1.0
+        },
+        {
+          "position": 140,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 9.625721352019784,
+          "rmsf_A": 1.007,
+          "conservation": 1.0
+        },
+        {
+          "position": 273,
+          "residue": "C",
+          "block": "retained",
+          "rcs": 9.472382522671063,
+          "rmsf_A": 1.1,
+          "conservation": 1.0
+        },
+        {
+          "position": 168,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 9.46578730420445,
+          "rmsf_A": 1.104,
+          "conservation": 1.0
+        },
+        {
+          "position": 165,
+          "residue": "F",
+          "block": "retained",
+          "rcs": 9.36850783182193,
+          "rmsf_A": 1.163,
+          "conservation": 1.0
+        },
+        {
+          "position": 270,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 9.365210222588622,
+          "rmsf_A": 1.165,
+          "conservation": 1.0
+        },
+        {
+          "position": 166,
+          "residue": "P",
+          "block": "retained",
+          "rcs": 9.305853256389119,
+          "rmsf_A": 1.201,
+          "conservation": 1.0
+        },
+        {
+          "position": 275,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 9.23330585325639,
+          "rmsf_A": 1.245,
+          "conservation": 1.0
+        },
+        {
+          "position": 276,
+          "residue": "K",
+          "block": "retained",
+          "rcs": 9.154163231657048,
+          "rmsf_A": 1.293,
+          "conservation": 1.0
+        },
+        {
+          "position": 253,
+          "residue": "H",
+          "block": "retained",
+          "rcs": 9.068425391591097,
+          "rmsf_A": 1.345,
+          "conservation": 1.0
+        },
+        {
+          "position": 216,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 8.909065127782359,
+          "rmsf_A": 1.286,
+          "conservation": 0.972
+        },
+        {
+          "position": 94,
+          "residue": "W",
+          "block": "retained",
+          "rcs": 8.888705688375927,
+          "rmsf_A": 1.454,
+          "conservation": 1.0
+        },
+        {
+          "position": 268,
+          "residue": "D",
+          "block": "retained",
+          "rcs": 8.806265457543281,
+          "rmsf_A": 1.504,
+          "conservation": 1.0
+        },
+        {
+          "position": 277,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 8.486948062654575,
+          "rmsf_A": 1.472,
+          "conservation": 0.958
+        },
+        {
+          "position": 283,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 8.426671063478977,
+          "rmsf_A": 1.587,
+          "conservation": 0.972
+        },
+        {
+          "position": 279,
+          "residue": "N",
+          "block": "retained",
+          "rcs": 8.370061005770815,
+          "rmsf_A": 1.546,
+          "conservation": 0.958
+        },
+        {
+          "position": 130,
+          "residue": "E",
+          "block": "retained",
+          "rcs": 8.288540807914263,
+          "rmsf_A": 1.818,
+          "conservation": 1.0
+        },
+        {
+          "position": 272,
+          "residue": "W",
+          "block": "retained",
+          "rcs": 8.22290189612531,
+          "rmsf_A": 0.943,
+          "conservation": 0.845
+        },
+        {
+          "position": 256,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 8.18627535037098,
+          "rmsf_A": 1.737,
+          "conservation": 0.972
+        },
+        {
+          "position": 77,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 8.179719703215168,
+          "rmsf_A": 1.884,
+          "conservation": 1.0
+        },
+        {
+          "position": 70,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 8.176422093981863,
+          "rmsf_A": 1.886,
+          "conservation": 1.0
+        },
+        {
+          "position": 46,
+          "residue": "F",
+          "block": "retained",
+          "rcs": 8.100969497114592,
+          "rmsf_A": 1.711,
+          "conservation": 0.9570000000000001
+        },
+        {
+          "position": 281,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 8.088514427040396,
+          "rmsf_A": 1.798,
+          "conservation": 0.972
+        },
+        {
+          "position": 73,
+          "residue": "G",
+          "block": "retained",
+          "rcs": 8.062654575432811,
+          "rmsf_A": 1.955,
+          "conservation": 1.0
+        },
+        {
+          "position": 252,
+          "residue": "A",
+          "block": "retained",
+          "rcs": 8.045960428689199,
+          "rmsf_A": 1.07,
+          "conservation": 0.845
+        },
+        {
+          "position": 175,
+          "residue": "Q",
+          "block": "retained",
+          "rcs": 7.991624072547403,
+          "rmsf_A": 1.109,
+          "conservation": 0.845
+        },
+        {
+          "position": 170,
+          "residue": "Y",
+          "block": "retained",
+          "rcs": 7.9721187139323995,
+          "rmsf_A": 1.123,
+          "conservation": 0.845
+        },
+        {
+          "position": 161,
+          "residue": "E",
+          "block": "retained",
+          "rcs": 7.964720527617477,
+          "rmsf_A": 1.032,
+          "conservation": 0.831
+        },
+        {
+          "position": 167,
+          "residue": "S",
+          "block": "retained",
+          "rcs": 7.914995877988458,
+          "rmsf_A": 1.164,
+          "conservation": 0.845
+        }
+      ],
+      "hinge_fraction_in_dynamic": 0.23333333333333334,
+      "hinge_fraction_in_chain": 0.11486486486486487,
+      "hydrophobic_fraction_in_rigid": 0.3,
+      "hydrophobic_fraction_in_chain": 0.42567567567567566
+    }
+  },
+  "canonical_against_mixed": {
+    "chain": "sub1, the canonical subunit in both builds",
+    "positions": 455,
+    "dcs_rank_correlation": 0.9332513764927398,
+    "rmsf_correlation": 0.9036935248464477,
+    "delta_rmsf_A_mean": 0.06528131868131866,
+    "delta_rmsf_A_mean_abs": 0.12896923076923106,
+    "blocks": [
+      {
+        "label": "retained",
+        "positions": 296,
+        "rmsf_A_canonical": 0.769091216216216,
+        "rmsf_A_mixed": 0.8214324324324318,
+        "delta_rmsf_A_mean": 0.052341216216216215,
+        "delta_rmsf_A_mean_abs": 0.13709121621621642,
+        "delta_rmsf_A_max": -0.8899999999999999,
+        "rank_shift_mean": 37.55067567567568
+      },
+      {
+        "label": "substituted",
+        "positions": 6,
+        "rmsf_A_canonical": 0.7745000000000001,
+        "rmsf_A_mixed": 0.8063333333333333,
+        "delta_rmsf_A_mean": 0.031833333333333304,
+        "delta_rmsf_A_mean_abs": 0.09716666666666667,
+        "delta_rmsf_A_max": 0.14800000000000002,
+        "rank_shift_mean": 25.333333333333332
+      },
+      {
+        "label": "deleted",
+        "positions": 153,
+        "rmsf_A_canonical": 0.7559738562091506,
+        "rmsf_A_mixed": 0.8476013071895424,
+        "delta_rmsf_A_mean": 0.09162745098039213,
+        "delta_rmsf_A_mean_abs": 0.11450326797385613,
+        "delta_rmsf_A_max": 1.1079999999999999,
+        "rank_shift_mean": 29.50980392156863
+      }
+    ],
+    "interface_entries": [
+      "2HZP",
+      "3E9K",
+      "7S3V"
+    ],
+    "interface_consensus": {
+      "label": "interface in all 3 structures",
+      "positions": 75,
+      "rmsf_A_canonical": 0.7384266666666668,
+      "rmsf_A_mixed": 0.8263600000000001,
+      "delta_rmsf_A_mean": 0.08793333333333328,
+      "delta_rmsf_A_mean_abs": 0.15846666666666667,
+      "delta_rmsf_A_max": -0.813,
+      "rank_shift_mean": 36.50666666666667
+    },
+    "interface_consensus_positions": [
+      47,
+      48,
+      49,
+      53,
+      54,
+      55,
+      56,
+      70,
+      72,
+      75,
+      76,
+      77,
+      78,
+      79,
+      83,
+      84,
+      87,
+      88,
+      91,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      102,
+      104,
+      109,
+      135,
+      136,
+      138,
+      139,
+      142,
+      143,
+      146,
+      163,
+      164,
+      165,
+      166,
+      167,
+      169,
+      170,
+      171,
+      173,
+      174,
+      175,
+      178,
+      225,
+      275,
+      280,
+      281,
+      282,
+      283,
+      301,
+      302,
+      303,
+      304,
+      305,
+      308,
+      313,
+      316,
+      318,
+      320,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      341,
+      419,
+      424
+    ],
+    "moved_most": [
+      {
+        "position": 378,
+        "residue": "K",
+        "block": "deleted",
+        "rmsf_A_canonical": 1.668,
+        "rmsf_A_mixed": 2.776,
+        "delta_rmsf_A": 1.1079999999999999
+      },
+      {
+        "position": 60,
+        "residue": "S",
+        "block": "retained",
+        "rmsf_A_canonical": 2.142,
+        "rmsf_A_mixed": 1.252,
+        "delta_rmsf_A": -0.8899999999999999
+      },
+      {
+        "position": 164,
+        "residue": "A",
+        "block": "retained",
+        "rmsf_A_canonical": 2.101,
+        "rmsf_A_mixed": 1.288,
+        "delta_rmsf_A": -0.813
+      },
+      {
+        "position": 163,
+        "residue": "K",
+        "block": "retained",
+        "rmsf_A_canonical": 2.0,
+        "rmsf_A_mixed": 1.218,
+        "delta_rmsf_A": -0.782
+      },
+      {
+        "position": 59,
+        "residue": "L",
+        "block": "retained",
+        "rmsf_A_canonical": 1.808,
+        "rmsf_A_mixed": 1.092,
+        "delta_rmsf_A": -0.716
+      },
+      {
+        "position": 380,
+        "residue": "K",
+        "block": "deleted",
+        "rmsf_A_canonical": 3.993,
+        "rmsf_A_mixed": 3.357,
+        "delta_rmsf_A": -0.6359999999999997
+      },
+      {
+        "position": 381,
+        "residue": "A",
+        "block": "deleted",
+        "rmsf_A_canonical": 3.455,
+        "rmsf_A_mixed": 4.086,
+        "delta_rmsf_A": 0.6310000000000002
+      },
+      {
+        "position": 382,
+        "residue": "A",
+        "block": "deleted",
+        "rmsf_A_canonical": 3.158,
+        "rmsf_A_mixed": 3.789,
+        "delta_rmsf_A": 0.6310000000000002
+      },
+      {
+        "position": 62,
+        "residue": "V",
+        "block": "retained",
+        "rmsf_A_canonical": 1.7,
+        "rmsf_A_mixed": 1.089,
+        "delta_rmsf_A": -0.611
+      },
+      {
+        "position": 383,
+        "residue": "T",
+        "block": "deleted",
+        "rmsf_A_canonical": 2.067,
+        "rmsf_A_mixed": 2.632,
+        "delta_rmsf_A": 0.565
+      }
+    ],
+    "cofactor_contacts_withheld": {
+      "positions": [
+        305,
+        332,
+        333
+      ],
+      "reason": "the cofactor left its site in both runs, which kill_criterion.json records as leaving the pocket arm unscored, so the fluctuation of the residues that coordinate it is measured against a cofactor in an undetermined position"
+    }
+  },
+  "two_copies_in_one_build": {
+    "build": "canonical",
+    "what": "the two copies of the same chain in one box, as the size of difference a second copy gives with no truncation",
+    "positions": 455,
+    "dcs_rank_correlation": 0.9373110427712793,
+    "rmsf_correlation": 0.8743884133671427,
+    "delta_rmsf_A_mean": -0.01998021978021975,
+    "delta_rmsf_A_mean_abs": 0.10575604395604397,
+    "blocks": [
+      {
+        "label": "retained",
+        "positions": 296,
+        "delta_rmsf_A_mean": -0.041966216216216205,
+        "delta_rmsf_A_mean_abs": 0.10675675675675676
+      },
+      {
+        "label": "substituted",
+        "positions": 6,
+        "delta_rmsf_A_mean": -0.07316666666666666,
+        "delta_rmsf_A_mean_abs": 0.0775
+      },
+      {
+        "label": "deleted",
+        "positions": 153,
+        "delta_rmsf_A_mean": 0.02464052287581699,
+        "delta_rmsf_A_mean_abs": 0.10492810457516338
+      }
+    ],
+    "interface_consensus": {
+      "label": "interface in all 3 structures",
+      "positions": 75,
+      "delta_rmsf_A_mean": -0.06110666666666667,
+      "delta_rmsf_A_mean_abs": 0.10564
+    }
+  },
+  "isoform_against_full_partner": {
+    "what": "the retained block of the isoform chain against the same residues of a full length partner, each the partner copy of its own dimer",
+    "positions": 296,
+    "first_position": 6,
+    "last_position": 301,
+    "isoform_rmsf_A_mean": 2.213334459459459,
+    "partner_rmsf_A_mean": 0.7271249999999995,
+    "ratio": 3.0439531847474104,
+    "positions_isoform_higher": 296,
+    "baseline": {
+      "what": "the other copy of the canonical build over the same residues",
+      "rmsf_A_mean": 0.769091216216216,
+      "ratio": 1.057715270711661,
+      "positions_higher": 169
+    }
+  }
+}

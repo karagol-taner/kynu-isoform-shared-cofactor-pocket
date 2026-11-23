@@ -1,0 +1,111 @@
+{
+ "probe_radius": 1.4,
+ "n_points": 960,
+ "isoform_mimic": "per entry, see each entry's own isoform_mimic field",
+ "entries": {
+  "KYNU 2HZP": {
+   "protein": "KYNU",
+   "partner_chain": "B",
+   "retained_end": 301,
+   "retained_block": "1-301",
+   "lost_block": "302-465",
+   "isoform_mimic": "partner chain truncated to residues 1 to 301, its cofactor removed",
+   "cofactor": "PLP",
+   "cofactor_residue": 544,
+   "atoms_in_models": {
+    "monomer_A": 3571,
+    "dimer_full": 7142,
+    "dimer_isoform_mimic": 5914,
+    "dimer_isoform_mimic_with_partner_cofactor": 5929
+   },
+   "cofactor_sasa_monomer": 73.96,
+   "cofactor_sasa_dimer": 15.37,
+   "cofactor_sasa_isoform_mimic": 73.96,
+   "buried_by_whole_partner": 58.59,
+   "buried_by_retained_block": 0.0,
+   "buried_by_lost_block": 58.59,
+   "fraction_of_partner_burial_lost": 1.0,
+   "partner_cofactor_control_sasa": 73.96,
+   "phosphate_group_burial_lost": 50.43,
+   "phosphate_share_of_lost_burial": 0.8607
+  },
+  "KYNU 3E9K": {
+   "protein": "KYNU",
+   "partner_chain": "B",
+   "retained_end": 301,
+   "retained_block": "1-301",
+   "lost_block": "302-465",
+   "isoform_mimic": "partner chain truncated to residues 1 to 301, its cofactor removed",
+   "cofactor": "PLP",
+   "cofactor_residue": 466,
+   "atoms_in_models": {
+    "monomer_A": 3576,
+    "dimer_full": 7152,
+    "dimer_isoform_mimic": 5919,
+    "dimer_isoform_mimic_with_partner_cofactor": 5934
+   },
+   "cofactor_sasa_monomer": 60.42,
+   "cofactor_sasa_dimer": 6.39,
+   "cofactor_sasa_isoform_mimic": 60.42,
+   "buried_by_whole_partner": 54.04,
+   "buried_by_retained_block": 0.0,
+   "buried_by_lost_block": 54.04,
+   "fraction_of_partner_burial_lost": 1.0,
+   "partner_cofactor_control_sasa": 60.42,
+   "phosphate_group_burial_lost": 50.22,
+   "phosphate_share_of_lost_burial": 0.9293
+  },
+  "SCLY 3GZC": {
+   "protein": "SCLY",
+   "partner_chain": "B",
+   "retained_end": 307,
+   "retained_block": "1-307",
+   "lost_block": "308-445",
+   "isoform_mimic": "partner chain truncated to residues 1 to 307, its cofactor removed",
+   "cofactor": "PLR",
+   "cofactor_residue": 500,
+   "atoms_in_models": {
+    "monomer_A": 3118,
+    "dimer_full": 6227,
+    "dimer_isoform_mimic": 5156,
+    "dimer_isoform_mimic_with_partner_cofactor": 5171
+   },
+   "cofactor_sasa_monomer": 61.32,
+   "cofactor_sasa_dimer": 19.85,
+   "cofactor_sasa_isoform_mimic": 19.85,
+   "buried_by_whole_partner": 41.47,
+   "buried_by_retained_block": 41.47,
+   "buried_by_lost_block": 0.0,
+   "fraction_of_partner_burial_lost": 0.0,
+   "partner_cofactor_control_sasa": 19.85,
+   "phosphate_group_burial_lost": 0.0,
+   "phosphate_share_of_lost_burial": null
+  },
+  "SCLY 3GZD": {
+   "protein": "SCLY",
+   "partner_chain": "B",
+   "retained_end": 307,
+   "retained_block": "1-307",
+   "lost_block": "308-445",
+   "isoform_mimic": "partner chain truncated to residues 1 to 307, its cofactor removed",
+   "cofactor": "PLR",
+   "cofactor_residue": 500,
+   "atoms_in_models": {
+    "monomer_A": 3070,
+    "dimer_full": 6107,
+    "dimer_isoform_mimic": 5094,
+    "dimer_isoform_mimic_with_partner_cofactor": 5109
+   },
+   "cofactor_sasa_monomer": 49.67,
+   "cofactor_sasa_dimer": 8.97,
+   "cofactor_sasa_isoform_mimic": 8.97,
+   "buried_by_whole_partner": 40.7,
+   "buried_by_retained_block": 40.7,
+   "buried_by_lost_block": 0.0,
+   "fraction_of_partner_burial_lost": 0.0,
+   "partner_cofactor_control_sasa": 8.97,
+   "phosphate_group_burial_lost": 0.0,
+   "phosphate_share_of_lost_burial": null
+  }
+ }
+}

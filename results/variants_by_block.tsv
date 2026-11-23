@@ -1,0 +1,4 @@
+block	start	end	residues	variants	variants_per_residue	clinical_significance_tally
+retained	1	301	301	418	1.389	{'Variant of uncertain significance': 48, 'Benign': 3, 'Likely benign': 1, 'Pathogenic': 8, 'Likely pathogenic': 4}
+substituted	302	307	6	1	0.167	none
+deleted	308	465	158	201	1.272	{'Variant of uncertain significance': 19, 'Pathogenic': 5, 'Benign': 1, 'Likely benign': 1}

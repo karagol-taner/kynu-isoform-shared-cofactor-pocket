@@ -1,0 +1,27 @@
+peptide	length	canonical_start	within_isoform	after_residue_307	on_isoform_entry	on_canonical_entry	panel_role
+AFPSDHYAIESQLQLHGLNIEESMR	25	164	True	False	True	True	shared_detection_control
+DENAIYFLGNSLGLQPK	17	65	True	False	True	True	shared_detection_control
+DVFQELEK	8	413	False	True	False	True	canonical_specific_control
+DVFQELEKR	9	413	False	True	False	True	canonical_specific_control
+EGDSIAVILFSGVHFYTGQHFNIPAITK	28	211	True	False	True	True	
+FTNLLTSILDSAETK	15	450	False	True	False	True	canonical_specific_control
+FTNLLTSILDSAETKN	16	450	False	True	False	True	
+GCQLTITFSVPNK	13	400	False	True	False	True	
+GCQLTITFSVPNKDVFQELEK	21	400	False	True	False	True	
+GCQLTITFSVPNKDVFQELEKR	22	400	False	True	False	True	
+HAHTIKPALVGWFGHELSTR	20	294	False	False	False	True	
+IAAYGHEVGK	10	97	True	False	True	True	
+IEDILEVIEK	10	201	True	False	True	True	
+IQDLPPVDLSLVNK	14	51	True	False	True	True	
+IQDLPPVDLSLVNKDENAIYFLGNSLGLQPK	31	51	True	False	True	True	
+ISNPPILLVCSLHASLEIFK	20	331	False	True	False	True	
+KPVVNIITPSHVEER	15	385	False	True	False	True	
+MEPSSLELPADTVQR	15	1	True	False	True	True	
+RPWITGDESIVGLMK	15	107	True	False	True	True	
+SVLLTGYLEYLIK	13	361	False	True	False	True	
+TYLEEELDK	9	85	True	False	True	True	
+TYLEEELDKWAK	12	85	True	False	True	True	
+VALHLDEEDK	10	29	True	False	True	True	
+VALHLDEEDKLR	12	29	True	False	True	True	
+VAPVPLYNSFHDVYK	15	435	False	True	False	True	
+YLNAGAGGIAGAFIHEK	17	277	True	False	True	True	

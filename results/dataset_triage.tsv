@@ -1,0 +1,180 @@
+accession	curated_tissue	tissue_source	organisms	experiment_types	files	total_gb	mzml_files	raw_files	d_files	smallest_mzml_mb	title
+PXD045733	liver	free text only	Homo sapiens (human)	Shotgun proteomics	181	172.16	108	66	0	666.3	OCT1 (SLC22A1) transporter kinetics and regulation in primary human hepatocyte 3D spheroids
+PXD060175	liver	free text only	Homo sapiens (human)	Data-independent acquisition	61	72.91	20	20	0	1284.7	A multi-omic approach reveals iron availability influences hepatocyte cell fate
+PXD064121	liver	free text only	Homo sapiens (human)	Data-independent acquisition	19	13.49	18	0	0	447.0	Inhibiting FOXM1 Promotes Polyploidization and Metabolic Maturation in Human iPSC-Derived Hepatocytes by Modulating the 
+PXD082765	kidney	free text only	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	32	9.71	12	12	0	412.9	Salivary proline-rich proteins are non-canonical serum biomarkers of chronic kidney disease
+PXD064255	kidney	free text only	Homo sapiens (human)	Affinity purification coupled with mass spectrometry proteomics	20	14.22	6	6	0	267.7	TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin
+PXD053837	kidney	free text only	Homo sapiens (human)	Bottom-up proteomics;Data-dependent acquisition	73	120.89	3	65	0	9016.7	Unbiased Proteomic Analysis for Real-Life Identification of Podocyte Antigens and Disease Mechanisms in Membranous Nephr
+PXD072858	kidney	free text only	Homo sapiens (human)	Affinity purification coupled with mass spectrometry proteomics	31	29.36	1	24	0	13499.8	TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin
+PXD065216	kidney	free text only	Homo sapiens (human)	Data-independent acquisition	54	35.05	1	50	0	1154.7	Serum Proteome Analysis of IgA Nephropathy  
+PXD055241	kidney	free text only	Homo sapiens (human)	Data-independent acquisition	68	37.54	1	64	0	2379.3	Longitudinal Serum Proteomics in Hypertensive Kidney Disease Progression
+PXD063438	liver	free text only	Homo sapiens (human)	Bottom-up proteomics	54	82.44	1	48	0	1577.9	Dynamic Proteomic Analysis of Human Liver Organoids: Optimal Maturation Stage for Drug Metabolism and Toxicology Applica
+PXD064523	kidney	free text only	Homo sapiens (human)	Bottom-up proteomics;Data-dependent acquisition	36	177.17	1	32	0	11930.2	Biopsy proteome-based classification of T-cell-mediated kidney allograft rejection
+PXD053154		neither	Homo sapiens (human);Mus musculus (mouse)	Data-independent acquisition;Data-dependent acquisition	0	0.0	0	0	0		Protein restriction reprograms the multi-organ proteomic landscape of mouse aging
+PXD055605		neither	Homo sapiens (human)	Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics;Data-dependent acquisition	0	0.0	0	0	0		Interaction proteomics of the human solute carrier (SLC) transporter superfamily
+PXD028593		neither	Homo sapiens (human)	Shotgun proteomics	0	0.0	0	0	0		(Phospho)-proteomic characterization of longitudinal biopsies from HCC patients treated with sorafenib
+PXD059640		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		Inferring the composition of the blood plasma proteome by a human proteome distribution atlas
+PXD054596		neither	Rattus norvegicus (rat);Homo sapiens (human)	SWATH MS;Data-independent acquisition;Bottom-up proteomics;Data-dependent acquisition	0	0.0	0	0	0		The effect of storage time and temperature on the proteomic analysis of FFPE tissue sections
+PXD027439		neither	Homo sapiens (human)	Shotgun proteomics	0	0.0	0	0	0		High temporal resolution proteome and phosphoproteome profiling of stem cell-derived hepatocyte development
+PXD062869		neither	Escherichia coli;Homo sapiens (human);Mus musculus (mouse)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		High-throughput peptide-centric local stability assay extends protein-ligand identification to membrane proteins, tissue
+PXD067895		neither	Homo sapiens (human)	Data-dependent acquisition	0	0.0	0	0	0		Affinity purification–mass spectrometry of 16 endogenously tagged proteins in HEK293T cells
+PXD086822		neither	Homo sapiens (human);Mus musculus (mouse)	Data-independent acquisition;Data-dependent acquisition	0	0.0	0	0	0		Prioritized mass spectrometry increases the depth, sensitivity and data completeness of single-cell proteomics (pSCoPE)
+PXD079319		neither	Homo sapiens (human)	Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics;Data-dependent acquisition	0	0.0	0	0	0		Assembly of the catalytic module and the rotor of human ATP synthase Pt V
+PXD056457		neither	Homo sapiens (human);Mus musculus (mouse)	Data-independent acquisition	0	0.0	0	0	0		C-COMPASS: A user-friendly neural network tool profiles cell compartments at protein and lipid levels
+PXD065579		neither	Homo sapiens (human);Mus musculus (mouse)	Data-independent acquisition;Bottom-up proteomics;Data-dependent acquisition	0	0.0	0	0	0		Expanding the global map of protein post translational modifications with PTMScan enrichment and nDIA analysis on the Or
+PXD072114		neither	Homo sapiens (human);Mus musculus (mouse);Arabidopsis thaliana (mouse-ear cress)	Data-independent acquisition	0	0.0	0	0	0		Limited impact of column chemistry and length on proteome coverage under high-speed DIA
+PXD069201		neither	Homo sapiens (human)	Data-independent acquisition	0	0.0	0	0	0		SHP2 lysates to identify SHP2 interactors and co-localized protein (total proteome)
+PXD059245		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		Integrated multiomic analysis of cholangiocarcinoma defines novel molecular subtypes associated with clinical outcome an
+PXD054514		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		End-to-end Throughput Chemical Proteomics for Photoaffinity Labeling Target Engagement and Deconvolution
+PXD065279		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics;Data-dependent acquisition;Immunopeptidomics	0	0.0	0	0	0		MHC1-TIP: scalable multimodal immunopeptidome profiling of low-input samples
+PXD079310		neither	Homo sapiens (human)	Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics;Data-dependent acquisition	0	0.0	0	0	0		Assembly of the catalytic module and the rotor of human ATP synthase Pt IV
+PXD077960		neither	Homo sapiens (human)	Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics;Data-dependent acquisition	0	0.0	0	0	0		Assembly of the catalytic module and the rotor of human ATP synthase.
+PXD062785		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		Impact of Sample Preparation Strategies on The Quantitative Accuracy of Low-Abundance Serum Proteins in Shotgun Proteomi
+PXD031323		neither	Homo sapiens (human)	Shotgun proteomics	0	0.0	0	0	0		Characterization of tumor heterogeneity in beta-catenin mutated hepatocellular adenomas
+PXD055141		neither	Homo sapiens (human)	Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics;Data-dependent acquisition	0	0.0	0	0	0		Interaction proteomics of wildtype SLC16A6 (MCT7) and phospho-variants
+PXD078983		neither	Homo sapiens (human)	SRM/MRM;Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		Urinary multi-omics reveal non-invasive diagnostic biomarkers in clear cell renal cell carcinoma
+PXD064185		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		Supercharging-Enhanced nDIA-MS Enables Global Profiling of Drug-Induced Proteome Solubility Shifts (solubility proteomic
+PXD073798		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		Global analysis of cancer cell responses to USP9X inhibition
+PXD077924		neither	Homo sapiens (human)	Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics;Data-dependent acquisition	0	0.0	0	0	0		Assembly of the catalytic module and the rotor of human ATP synthase.
+PXD063935		neither	Homo sapiens (human)	Bottom-up proteomics;Data-dependent acquisition	0	0.0	0	0	0		Time-Resolved Analysis of Protein-Protein Ensembles using a Destabilizing Domain (TRAPPED) to resolve dynamic interactio
+PXD054890		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics;diaPASEF	0	0.0	0	0	0		Integrative Proximal-Ubiquitomics Profiling for Deubiquitinase and E3 Ligase Substrate Discovery Applied to USP30
+PXD057165		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		Laser microdissection and mass spectrometry shows loss of podocyte proteins in minimal change disease and focal segmenta
+PXD067414		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		Structural basis for binding of RILPL1 to TMEM55B reveals a  lysosomal platform for adaptor assembly through a conserved
+PXD054297		neither	Homo sapiens (human)	Data-dependent acquisition	0	0.0	0	0	0		"Exploring BICC1 interactome: Insights into 
+RNA-mediated protein networks and biomolecular condensates
+"
+PXD076462		neither	Homo sapiens (human)	Bottom-up proteomics;Data-dependent acquisition	0	0.0	0	0	0		Hepatitis B virus proteome analysis identifies apolipoprotein C1 facilitating particle production and virus entry
+PXD073754		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		Global analysis of cancer cell responses to USP9X inhibition
+PXD069894		neither	Rattus norvegicus (rat);Homo sapiens (human)	Data-dependent acquisition	0	0.0	0	0	0		Suppression of pain transmission and behavior by inhibition of peripheral diacylglycerol metabolism
+PXD079916		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		USP9X promotes the degradation of trapped translation factors on collided ribosomes
+PXD044530		neither	Homo sapiens (human);Mus musculus (mouse)	SRM/MRM;Shotgun proteomics;Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		Distinct phases of cellular signaling revealed by time-resolved protein synthesis
+PXD067856		neither	Homo sapiens (human)	Data-independent acquisition;Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		Human RNA ligase 1 as a novel regulator of ribosome function and translation under oxidative stress
+PXD069999		neither	Homo sapiens (human)	Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		Coordinated regulation of metabolic plasticity by the Hsp90 chaperones
+PXD073954		neither	Homo sapiens (human);Mus musculus (mouse)	Bottom-up proteomics	0	0.0	0	0	0		Simultaneous profiling of native-state proteomes and transcriptomes of brain cell types using proximity labeling
+PXD053510		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		Molecular insights into THUMPD2-mediated m2G methylation of the U6 snRNA
+PXD053701		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		Biocompatible 'ligand balancing' in transition metal coordination allows benign in-cell protein arylation - 90 min 1f-la
+PXD053749		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		Biocompatible 'ligand balancing' in transition metal coordination allows benign in-cell protein arylation - 90 min 1f-la
+PXD075266		neither	Homo sapiens (human)	Data-dependent acquisition	0	0.0	0	0	0		ALR Couples IMS Redox and Heme Biosynthesis Beyond the Disulfide Relay
+PXD055192		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		Quantitative proteome profiling in HEK293 to validate RNAi targets
+PXD064241		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics;Data-dependent acquisition	0	0.0	0	0	0		The structure and composition of native human nucleosomes
+PXD067431		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		Mechanism of ORMDL proteins turnover via proteasome and autophagy is cell-type dependent and tied to ceramide homeostasi
+PXD075247		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		Competitive kinobead profiling of RAF inhibitors
+PXD041166		neither	Homo sapiens (human)	Shotgun proteomics	0	0.0	0	0	0		The histone deacetylase inhibitor romidepsin sensitizes HCC to receptor tyrosine kinase inhibitors in vitro and in vivo.
+PXD060317		neither	Homo sapiens (human)	Bottom-up proteomics;Data-dependent acquisition	0	0.0	0	0	0		ARMC1 shuttling regulates cellular mitochondrial distribution - whole cell proteome
+PXD061867		neither	Homo sapiens (human)	Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics;Data-dependent acquisition	0	0.0	0	0	0		Defining the interactome of ARID5B by AviTag protein pull-down coupled to quantitative mass spectrometry.
+PXD062976		neither	Homo sapiens (human)	Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		Heme acts as a molecular degrader linking CRL2-FEM1B to substrate proteolysis and ferroptosis regulation in lung cancer
+PXD064221		neither	Homo sapiens (human)	Data-independent acquisition;Data-dependent acquisition	0	0.0	0	0	0		The BRD4-nucleosome interaction is enhanced modestly and non-selectively by histone acetylation
+PXD074627		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		RelB function in lipid metabolism
+PXD064850		neither	Homo sapiens (human)	Data-independent acquisition	0	0.0	0	0	0		RPL6 interacts with HMGCS1 to stabilize HIF-1α by promoting cholesterol production in hepatocellular carcinoma.
+PXD065445		neither	Homo sapiens (human)	Data-independent acquisition	0	0.0	0	0	0		SMARCA2/4 degradation tails mediate recruitment of two different E3 ligases 
+PXD065523		neither	Homo sapiens (human)	Data-independent acquisition	0	0.0	0	0	0		SMARCA2/4 degradation tails mediate recruitment of two different E3 ligases 
+PXD053619		neither	Homo sapiens (human)	Data-dependent acquisition	0	0.0	0	0	0		Molecular insights into THUMPD2-mediated m2G methylation of the U6 snRNA
+PXD059843		neither	Homo sapiens (human)	Gel-based experiment	0	0.0	0	0	0		DNA2 and MSH2 activities collectively mediate environmental chemical compound stabilized G4 for efficient telomere repli
+PXD043719		neither	Homo sapiens (human)	Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		Cullin-associated and neddylation-dissociated protein 1 (CAND1) alleviates NAFLD by reducing ubiquitinated degradation o
+PXD057960		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		Ubiquitinome Profiling: Optimizing the enrichment and Data-Independent Analysis for Deeper Insights into Targeted Protei
+PXD071371		neither	Homo sapiens (human)	SWATH MS;SRM/MRM	0	0.0	0	0	0		Scube2 primes Dispatched and ADAM10-mediated Shh release by recruiting HDL acceptors to the plasma membrane
+PXD077594		neither	Homo sapiens (human)	Data-independent acquisition	0	0.0	0	0	0		Ubiquitinome Profiling: Optimizing the enrichment and Data-Independent Analysis for Deeper Insights into Targeted Protei
+PXD077916		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics;Data-dependent acquisition	0	0.0	0	0	0		Dysfunction of a SET3C-like complex underlies a family of related neurological disorders
+PXD040208		neither	Homo sapiens (human)	Shotgun proteomics	0	0.0	0	0	0		Kinase Selectivity Profiling of anti-MRSA Diarylimidazoles in HEK293 Cells
+PXD057889		neither	Homo sapiens (human)	Data-independent acquisition	0	0.0	0	0	0		CASK phosphorylation pattern in the presence of constitutively active HCK
+PXD067039		neither	Homo sapiens (human)	Gel-based experiment;Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		p38β-mediated BiP phosphorylation drives stemness and chemoresistance by suppressing UPR activation in hepatocellular ca
+PXD080574		neither	Homo sapiens (human)	Data-independent acquisition	0	0.0	0	0	0		Proteomic analysis of fibrosis staging in a case of IgG4-related tubulointerstitial nephritis
+PXD056884		neither	Homo sapiens (human)	Gel-based experiment	0	0.0	0	0	0		Carbonic anhydrase 2 facilitates sorafenib resistance by counteracting MCT4-mediated intracellular pH dysregulation in h
+PXD066332		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		March5-mediated Trim28 degradation preserves islet β-cell function in mice
+PXD030304		neither	Homo sapiens (human)	SWATH MS	0	0.0	0	0	0		Pan-cancer proteomic map of 949 human cell lines (ProCan-DepMapSanger)
+PXD041412		neither	Homo sapiens (human);Mus musculus (mouse)	SWATH MS;Shotgun proteomics	0	0.0	0	0	0		Filter-aided expansion proteomics
+PXD042367		neither	Homo sapiens (human);Mus musculus (mouse)	Shotgun proteomics	0	0.0	0	0	0		A framework for ultra-low input spatial tissue proteomics
+PXD047762		neither	Homo sapiens (human);Mus musculus (mouse)	Bottom-up proteomics	0	0.0	0	0	0		An automated and fast sample preparation workflow for laser microdissection guided ultrasensitive proteomics
+PXD057148		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		Immunoprecipitation/Pull-down of ATP6AP1-FLAG in HEK293 WT cells treated with and without a mitochondrial translation in
+PXD060086		neither	Homo sapiens (human)	Bottom-up proteomics;Data-dependent acquisition	0	0.0	0	0	0		Plectin-mediated cytoskeletal crosstalk as a target for inhibition of hepatocellular carcinoma growth and metastasis – s
+PXD060464		neither	Homo sapiens (human)	Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		Targeting chaperone-mediated autophagy inhibits properties of glioblastoma stem cells and restores anti-tumor immunity
+PXD061011		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		Deep visual multi-omics profiling reveals mechanisms that underly cancer cell differentiation and aggressiveness in clea
+PXD062492		neither	Homo sapiens (human)	Bottom-up proteomics	0	0.0	0	0	0		Proteome-guided drug development of effective androgen receptor degraders for prostate cancer
+PXD066110		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		PROTAC repurposing uncovers a noncanonical binding surface that mediates chemical degradation of nuclear receptors
+PXD066262		neither	Homo sapiens (human)	Bottom-up proteomics;diaPASEF	0	0.0	0	0	0		Novel CDK-independent function of CDC25 phosphatases in mRNA translation
+PXD069877		neither	Homo sapiens (human);Mus musculus (mouse)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		An ultrasensitive spatial tissue proteomics workflow exceeding 100 proteomes per day
+PXD070121		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics;diaPASEF	0	0.0	0	0	0		Design and evaluation of  universal control antisense oligonucleotides  across cellular models
+PXD070247		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	0	0.0	0	0	0		"Proteomics data for ""A single-amino-acid cleavage controls global mitochondrial complex integrity"""
+PXD071391		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		A reference map of the ERK pathway interactome. Systematic and combinatorial (TurboID-MS) mapping of protein-protein int
+PXD071453		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		A reference map of the ERK pathway interactome. Systematic and combinatorial (AP-MS) mapping of protein-protein interact
+PXD074164		neither	Homo sapiens (human)	Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		Identification of MELK-mediated Cofilin-1 T70 phosphorylation by IP-LC-MS/MS analysis
+PXD075459		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics;diaPASEF	0	0.0	0	0	0		Uncovering the Role of Proteasome Activator PA200 in Regulating the Immunoproteasome
+PXD076703		neither	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics;Affinity purification coupled with mass spectrometry proteomics	0	0.0	0	0	0		Anti-FLAG co-immunoprecipitation of N- or C-terminally FLAG-HA-tagged FAM98A, FAM98B and FAM98C, from HEK Flp-In T-REx 2
+PXD076863		neither	Homo sapiens (human)	Data-dependent acquisition	0	0.0	0	0	0		Tripartite motif 46 aggravates MASLD progression by suppressing SGPL1- mediated hepatic lipophagy
+PXD078417		neither	Trichoplusia ni;Homo sapiens (human)	Bottom-up proteomics;Data-dependent acquisition;Glycoproteomics	0	0.0	0	0	0		Site-specific Glycan Pattern Characterization of GPR55 Using LC-IMS-MS/MS
+PXD081638		neither	Homo sapiens (human)	Bottom-up proteomics;diaPASEF	0	0.0	0	0	0		Batten disease protein CLN8 enables a non-canonical phospholipid synthesis pathway
+PXD083885		neither	Homo sapiens (human)	Chemical cross-linking coupled with mass spectrometry proteomics;Top-down proteomics;Data-independent acquisition	0	0.0	0	0	0		Nuclear TRiC states captured in situ
+PXD085732		neither	Saccharomyces cerevisiae (baker's yeast);Escherichia coli;Homo sapiens (human)	Data-independent acquisition	0	0.0	0	0	0		quantmsdiann reanalysis of public single-cell, spatial, phosphoproteomics and bulk DIA datasets
+PXD066482	liver	free text only	Homo sapiens (human)	SRM/MRM;Bottom-up proteomics	11	0.47	0	0	0		Interindividual Variability in Imatinib Metabolism in Human Liver Microsomes and Primary Human Hepatocytes: Impact of CY
+PXD042218	liver	free text only	Homo sapiens (human)	Affinity purification coupled with mass spectrometry proteomics	3	0.73	0	1	0		PC4-mediated Ku PARylation facilitates NHEJ-dependent DNA damage repair
+PXD056392	liver	free text only	Homo sapiens (human)	Data-independent acquisition	21	0.74	0	0	0		VARS1 overexpression in hepatocellular carcinoma cell lines
+PXD083895	kidney	free text only	Homo sapiens (human)	Data-dependent acquisition	4	1.39	0	2	0		First-in-human study of readthrough therapy in nonsense mutation Alport syndrome
+PXD079002	kidney	free text only	Homo sapiens (human)	Data-independent acquisition	2	3.15	0	0	0		HK2 cells DDX18-LC-MS/MS analysis
+PXD064301	liver	free text only	Homo sapiens (human)	Bottom-up proteomics	6	3.24	0	3	0		Molecular Regulation and Physiological Role of GOLPH3-mediated Golgi retention
+PXD083842	liver	free text only	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	3	3.75	0	0	0		Proteomic Profiling of Liver and Plasma Uncovers Biomarkers and Mechanisms in Patients with Primary Biliary Cholangitis
+PXD054937	kidney	free text only	Homo sapiens (human)	Data-dependent acquisition	8	3.86	0	4	0		Proteome of renal tubuli and serum differentiate pre-existing type 2 diabetes and post-transplant diabetes in kidney tra
+PXD061033	kidney	free text only	Homo sapiens (human)	Bottom-up proteomics	22	5.09	0	18	0		Deciphering the impact of ectopic SNAI1 expression on renal tubular cell proteome and functions
+PXD062924	liver	free text only	Homo sapiens (human)	Bottom-up proteomics	22	6.26	0	0	0		Metabolomic and Proteomic Analysis of Renal Function After Liver Transplantation
+PXD066039	liver	free text only	Homo sapiens (human)	Data-independent acquisition	8	6.52	0	6	0		Identification of Khib substrates of histone regulated by NAT10
+PXD058685	kidney	free text only	Homo sapiens (human)	Data-independent acquisition	16	6.62	0	9	0		MS analysis of human kidney eRIC (enhanced RNA interactome capture)
+PXD027496	liver	free text only	Homo sapiens (human)	Shotgun proteomics	13	7.62	0	11	0		Global Lysine Acetylome Analysis of LPS-Stimulated HepG2 Cells Identifies Hyperacetylation of PKM2 as a Metabolic Reg-ul
+PXD065380	kidney	free text only	Homo sapiens (human)	Data-independent acquisition	13	7.69	0	0	0		Protein Expression Profiling in Urinary Extracellular Vesicles Isolated from Patients with Chronic Kidney Disease and Re
+PXD036977	liver	free text only	Homo sapiens (human)	Shotgun proteomics	14	8.94	0	13	0		Proteomic of huh7 grown in normal and glucose-deficient conditions
+PXD055559	kidney	free text only	Homo sapiens (human)	Bottom-up proteomics	19	9.2	0	9	0		Fat1 is atarget antigen in de novo allograft membranous nephropoathy associated with antibody mediated rejection.
+PXD067737	liver	free text only	Homo sapiens (human)	SRM/MRM	21	10.43	0	18	0		Targeted quantitative analysis of specific proteins in cytosolic, mitochondrial, and nuclear fractions using PRM
+PXD060960	liver	free text only	Homo sapiens (human)	Bottom-up proteomics;Data-dependent acquisition	15	10.47	0	4	0		Characterization of a new variant of SERPINA1 Gene Causing Alpha-1 Antitrypsin Deficiency
+PXD057361	kidney	free text only	Homo sapiens (human)	SWATH MS	122	13.33	0	118	0		Urine proteomics as a source of biological information and outcome predictor in living kidney transplantation
+PXD052062	liver	free text only	Homo sapiens (human)	Bottom-up proteomics	17	13.78	0	8	0		E cadherin appears to be an important  on/off switch for initiating bile canaliculi formation
+PXD030383	liver	free text only	Homo sapiens (human);Mus musculus (mouse)	SWATH MS;SRM/MRM;Shotgun proteomics	26	15.59	0	23	0		Depletion of Mitochondrial Methionine Adenosyltransferase α1 Triggers Mitochondrial Dysfunction in Alcohol-Associated Li
+PXD072220	kidney	free text only	Homo sapiens (human)	Data-independent acquisition	14	16.3	0	9	0		Copper-responsive proteome changes in human kidney proximal tubule epithelial cells
+PXD059613	liver	free text only	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	25	17.02	0	24	0		Liver tumor tissues extracted from a mouse model of hepatocellular carcinoma were subjected to proteomics
+PXD075232	liver	free text only	Homo sapiens (human)	Data-independent acquisition	13	17.52	0	12	0		Utility of monocyte-derived cells to investigate immune-mediated drug-induced liver injury
+PXD067456	liver	free text only	Homo sapiens (human)	Data-independent acquisition	7	17.83	0	6	0		Aptamer Drug Conjugates Inhibits Pancreatic Cancer Liver Metastasis Driven by SERBP1-TNF Signaling Pathway
+PXD065687	kidney	free text only	Homo sapiens (human)	Bottom-up proteomics	12	19.5	0	0	0		Shiga toxin-positive extracellular vesicles induce higher mortality and more kidney injury than free toxin 
+PXD052837	liver	free text only	Homo sapiens (human)	Data-independent acquisition	11	24.6	0	10	0		Human liver cancer cell Huh7 LC-MS/MS
+PXD071468	kidney	free text only	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	106	25.58	0	96	0		Urine proteomics as a source of biological information and outcome predictor in living kidney transplantation - Validati
+PXD055348	kidney;liver	free text only	Homo sapiens (human)	Data-independent acquisition;Data-dependent acquisition	11	26.16	0	6	0		A HEV ORF2 protein-mediated mechanism of hepatitis E-associated kidney disease
+PXD054062	kidney	free text only	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	46	27.88	0	41	0		Unbiased Proteomic Unbiased Proteomic Analysis for Real-Life Identification of Podocyte Antigens and Disease Mechanisms 
+PXD054961	kidney	free text only	Homo sapiens (human)	Data-independent acquisition	26	29.66	0	23	0		Proteome of renal tubuli and serum differentiate pre-existing type 2 diabetes and post-transplant diabetes in kidney tra
+PXD075370	liver	free text only	Homo sapiens (human)	Data-dependent acquisition	41	30.07	0	40	0		Glycoproteome Profiling of Human Serum for Hepatocellular Carcinoma Biomarker Discovery
+PXD060653	liver	free text only	Homo sapiens (human)	Bottom-up proteomics;Data-dependent acquisition	93	32.85	0	91	0		Effects of Chronic Alcohol Intake on the Composition of the Ensemble of Drug-Metabolizing Enzymes and Transporters in th
+PXD076533	kidney	free text only	Homo sapiens (human)	Bottom-up proteomics	17	33.13	0	16	0		Multi-Omics Analysis of PBMCs Highlights IRF8 Upregulation and Senescence Pathways in Hemodialysis Versus Peritoneal Dia
+PXD060847	kidney	free text only	Homo sapiens (human)	SRM/MRM;Bottom-up proteomics	39	33.33	0	16	0		Comparative Analysis and Correlation of Cancer Hotspot Proteins and Cell Markers in Tumor-Normal Adjacent Breast and Kid
+PXD053109	liver	free text only	Homo sapiens (human)	Bottom-up proteomics	12	34.09	0	10	0		Alcohol-associated hepatitis induces hepatocyte senescence which is reduced following disease resolution
+PXD063833	liver	free text only	Homo sapiens (human)	mass spectrometry imaging	171	36.91	0	0	0		Serological paroteomic biomarkers for monitoring liver fibrosis regression in on-treatment hepatities b patients
+PXD060743	liver	free text only	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	39	37.34	0	35	0		Amniotic Fluid Reduces Liver Fibrosis By Attenuating Hepatic Stellate Cell Activation
+PXD046714	liver	free text only	Homo sapiens (human)	Affinity purification coupled with mass spectrometry proteomics	31	38.69	0	28	0		ZHX3 interacts with CEBPB to repress hepatic gluconeogenic gene expression and uric acid secretion
+PXD052321	liver	free text only	Homo sapiens (human)	diaPASEF	11	39.44	0	0	0		Protein and metabolic profiles of liver cancer cells
+PXD060483	liver	free text only	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	60	44.49	0	58	0		The ontogeny and inter-individual variability of drug- metabolizing enzymes and transporters in human liver.
+PXD043007	liver	free text only	Homo sapiens (human)	SWATH MS	21	44.6	0	14	0		Increased Basal MET phosphorylation is a Hallmark of Hepatocyte Dysregulation in Liver Disease: Human
+PXD054759	liver	free text only	Homo sapiens (human)	Data-independent acquisition	21	48.25	0	18	0		Diclofenac and acetaminophen dim the acute phase response but amplify expression of the iron regulator hepcidin in liver
+PXD054756	liver	free text only	Homo sapiens (human)	Data-independent acquisition	21	48.9	0	18	0		Diclofenac and acetaminophen dim the acute phase response but amplify expression of the iron regulator hepcidin in liver
+PXD074969	kidney	free text only	Homo sapiens (human)	Data-dependent acquisition	30	51.64	0	24	0		Galectin-1 Modulates Cell Adhesions, Caveolae, and Vascular Permeability in Kidney Endothelial Cells - Insights from Pho
+PXD074919	kidney	free text only	Homo sapiens (human)	Data-dependent acquisition	28	58.94	0	24	0		Galectin-1 Modulates Cell Adhesions, Caveolae, and Vascular Permeability in Kidney Endothelial Cells - Insights from Pro
+PXD072091	liver	free text only	Homo sapiens (human)	Data-independent acquisition	29	61.79	0	26	0		Proteomics analysis of iPSCs and iPSCs-derived hepatocytes carrying MIC13 pathogenic variant.
+PXD074900	liver	free text only	Homo sapiens (human)	Data-independent acquisition	68	62.69	0	57	0		Sup:EasySCP Unveils Extensive Liver Zonation at Single-cell Proteomics Resolution
+PXD066805	liver	free text only	Homo sapiens (human)	Data-independent acquisition	63	62.71	0	61	0		Proteomics profiling of serum and liver in GSD Ia and Ib patients: insights into complication mechanisms and circulation
+PXD034257	liver	free text only	Homo sapiens (human)	SWATH MS;SRM/MRM	36	70.3	0	30	0		Toxicoproteomics reveals an effect of Clozapine on autophagy in human liver spheroids
+PXD076470	liver	free text only	Homo sapiens (human)	Bottom-up proteomics	27	88.17	0	24	0		Genetic and pharmacologic inhibition of Keap1 dampens the pro-fibrotic program in human hepatic stellate cells
+PXD033550	liver	free text only	Homo sapiens (human)	Shotgun proteomics	69	91.93	0	61	0		Hepatocyte thorns, a novel drug-induced stress response in human and mouse liver spheroids
+PXD052895	liver	free text only	Homo sapiens (human)	Data-independent acquisition	7	120.51	0	0	0		Pharmacological and toxicological investigations of cystobactamids reveal binding and inhibition of HCV entry receptor S
+PXD068873	liver	free text only	Homo sapiens (human)	Data-independent acquisition	19	125.59	0	0	0		RAB1A is a novel vulnerability in uveal melanoma revealed by  dual inhibition of MNK1/2 and mTOR
+PXD071538	liver	free text only	Homo sapiens (human)	Bottom-up proteomics	20	127.15	0	16	0		Liver-metastases restrict IL18-driven γδ T cell activity and immunotherapy responsiveness in colorectal cancer
+PXD070837	liver	free text only	Homo sapiens (human)	Data-independent acquisition	23	139.04	0	0	0		Iron Toxicity targeting mitochondrial Iron-Sulfur cluster enzymes
+PXD056692	kidney	free text only	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	4	162.65	0	0	0		Quantitative proteomics analysis reveals a protein concentration effect of neat urine compared to urine EVs
+PXD065892	liver	free text only	Homo sapiens (human)	Bottom-up proteomics	8	209.82	0	0	0		Diagnostics of autoimmune hepatitis enabled by non-invasive clinical proteomics
+PXD062358	kidney	free text only	Homo sapiens (human)	Bottom-up proteomics;Data-dependent acquisition	260	220.8	0	255	0		Nephrin-associated phospho-protein network necessary for filtration at the slit-diaphragm and podocyte adhesion
+PXD054170	kidney	free text only	Homo sapiens (human)	SWATH MS;Bottom-up proteomics	395	257.77	0	0	0		Proteomic analysis identifies dysregulated proteins in albuminuria: a South African pilot study
+PXD061721	liver	free text only	Homo sapiens (human)	SRM/MRM;Data-dependent acquisition	90	280.13	0	89	0		Low-Abundance Serum Protein Biomarker Candidates for HCC in Patients with Liver Cirrhosis
+PXD067356	liver	free text only	Homo sapiens (human);Mus musculus (mouse)	Bottom-up proteomics	91	285.51	0	80	0		JMJD5 regulates metabolism by inhibiting the Arginine Methyltransferase PRMT6
+PXD054588	kidney	free text only	Homo sapiens (human)	Top-down proteomics	52	331.81	0	50	0		Tumour sampling conditions perturb the metabolic landscape of clear cell renal cell carcinoma
+PXD043761	liver	free text only	Homo sapiens (human)	Shotgun proteomics	41	360.82	0	39	0		Tumour cells can escape antiproliferative pressure by type I interferon through immunoediting of interferon receptor exp
+PXD052479	liver	free text only	Homo sapiens (human)	Data-independent acquisition	42	360.82	0	39	0		Integrin beta 1 facilitates non-enveloped hepatitis E virus cell entry through the recycling endosome
+PXD085290	liver	free text only	Homo sapiens (human)	Shotgun proteomics;Data-independent acquisition	148	411.65	0	144	0		Deep plasma proteome profiling by Orbitrap Astral DIA-MS reveals candidate protein signatures of liver fibrosis stage in
+PXD059174	liver	free text only	Homo sapiens (human)	Data-independent acquisition	285	589.97	0	0	0		Serological paroteomic biomarkers for monitoring liver fibrosis regression in on-treatment hepatities b patients
+PXD062231	liver	free text only	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	813	620.19	0	792	0		Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue archit
+PXD070185	liver	free text only	Homo sapiens (human);Mus musculus (mouse)	Data-independent acquisition	667	662.91	0	650	0		EasySCP Unveils Extensive Liver Zonation at Single-cell Proteomics Resolution
+PXD061392	kidney	free text only	Homo sapiens (human)	Data-independent acquisition	5	710.17	0	0	0		Proteomic insights into age-related changes in laser capture microdissected glomeruli of human kidney
+PXD027722	liver	free text only	Homo sapiens (human)	Shotgun proteomics	369	931.98	0	365	0		Dynamic human liver proteome atlas reveals functional insights into disease pathways
+PXD054440	liver	free text only	Homo sapiens (human)	Data-independent acquisition;Bottom-up proteomics	9	1023.8	0	0	0		The proteomic landscape of proteotoxic stress in a fibrogenic liver disease
+PXD083370	liver	free text only	Saccharomyces cerevisiae (baker's yeast);Homo sapiens (human);Mus musculus (mouse)	Data-independent acquisition;Bottom-up proteomics	531	3850.56	0	515	0		JMod: Joint modeling of mass spectra for empowering multiplexed DIA proteomics

@@ -1,0 +1,66 @@
+{
+ "dataset": "PXD010154",
+ "sample": "P012502_Liver_fullproteome_RNAseq",
+ "database": "transcript-derived, Ensembl protein identifiers with _RNA suffix",
+ "isoform_entry": "ENSP00000364928",
+ "canonical_entry": "ENSP00000386731",
+ "diagnostic_peptides_searched": [
+  "HAHTIKPAR",
+  "HAHTIKPARSEFFN",
+  "YLNAGAGGIAGAFIHEKHAHTIKPAR",
+  "YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN"
+ ],
+ "tables": {
+  "txt/msms.txt": {
+   "data_rows": 443786,
+   "diagnostic_in_sequence_column": 0,
+   "canonical_specific_peptides": [
+    "DVFQELEK",
+    "DVFQELEKR",
+    "FTNLLTSILDSAETK"
+   ],
+   "shared_peptides": [
+    "AFPSDHYAIESQLQLHGLNIEESMR",
+    "DENAIYFLGNSLGLQPK"
+   ],
+   "rows_on_isoform_entry": 74,
+   "rows_on_canonical_entry": 187,
+   "distinct_peptides_on_isoform_entry": 14,
+   "distinct_peptides_on_canonical_entry": 26
+  },
+  "txt/evidence.txt": {
+   "data_rows": 288472,
+   "diagnostic_in_sequence_column": 0,
+   "canonical_specific_peptides": [
+    "DVFQELEK",
+    "DVFQELEKR",
+    "FTNLLTSILDSAETK"
+   ],
+   "shared_peptides": [
+    "AFPSDHYAIESQLQLHGLNIEESMR",
+    "DENAIYFLGNSLGLQPK"
+   ],
+   "rows_on_isoform_entry": 46,
+   "rows_on_canonical_entry": 122,
+   "distinct_peptides_on_isoform_entry": 14,
+   "distinct_peptides_on_canonical_entry": 26
+  },
+  "txt/peptides.txt": {
+   "data_rows": 80741,
+   "diagnostic_in_sequence_column": 0,
+   "canonical_specific_peptides": [
+    "DVFQELEK",
+    "DVFQELEKR",
+    "FTNLLTSILDSAETK"
+   ],
+   "shared_peptides": [
+    "AFPSDHYAIESQLQLHGLNIEESMR",
+    "DENAIYFLGNSLGLQPK"
+   ],
+   "rows_on_isoform_entry": 14,
+   "rows_on_canonical_entry": 26,
+   "distinct_peptides_on_isoform_entry": 14,
+   "distinct_peptides_on_canonical_entry": 26
+  }
+ }
+}

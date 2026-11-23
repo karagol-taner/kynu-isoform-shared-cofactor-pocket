@@ -1,0 +1,265 @@
+peptide	role	length	neutral_mass	precursor_charge	precursor_mz	fragment	fragment_mz	note
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	2	515.7989	y8	893.5315	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	2	515.7989	b8	856.4788	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	2	515.7989	y7	822.4944	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	2	515.7989	b7	785.4417	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	2	515.7989	b6	688.3889	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	2	515.7989	y6	685.4355	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	3	344.2017	y8	893.5315	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	3	344.2017	b8	856.4788	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	3	344.2017	y7	822.4944	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	3	344.2017	b7	785.4417	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	3	344.2017	b6	688.3889	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAR	isoform_diagnostic	9	1029.5832	3	344.2017	y6	685.4355	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	2	827.926	b13	1522.7913	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	2	827.926	y13	1517.7859	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	2	827.926	y12	1446.7488	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	2	827.926	b12	1375.7229	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	2	827.926	y11	1309.6899	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	2	827.926	b11	1228.6545	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	3	552.2865	b13	1522.7913	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	3	552.2865	y13	1517.7859	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	3	552.2865	y12	1446.7488	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	3	552.2865	b12	1375.7229	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	3	552.2865	y11	1309.6899	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPARSEFFN	isoform_diagnostic	14	1653.8375	3	552.2865	b11	1228.6545	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	2	1350.7277	y15	1755.9765	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	2	1350.7277	y14	1684.9394	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	2	1350.7277	b17	1670.8649	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	2	1350.7277	b16	1542.7699	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	2	1350.7277	y13	1537.871	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	2	1350.7277	y12	1424.7869	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	3	900.8209	y15	1755.9765	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	3	900.8209	y14	1684.9394	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	3	900.8209	b17	1670.8649	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	3	900.8209	b16	1542.7699	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	3	900.8209	y13	1537.871	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPAR	isoform_diagnostic	26	2699.4408	3	900.8209	y12	1424.7869	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	2	1662.8548	y15	1782.9398	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	2	1662.8548	b17	1670.8649	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	2	1662.8548	y14	1654.8448	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	2	1662.8548	b16	1542.7699	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	2	1662.8548	y13	1517.7859	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	2	1662.8548	y12	1446.7488	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	3	1108.9057	y15	1782.9398	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	3	1108.9057	b17	1670.8649	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	3	1108.9057	y14	1654.8448	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	3	1108.9057	b16	1542.7699	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	3	1108.9057	y13	1517.7859	unique to Q16719-2 across the reviewed human proteome
+YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN	isoform_diagnostic	31	3323.6951	3	1108.9057	y12	1446.7488	unique to Q16719-2 across the reviewed human proteome
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	2	827.926	y13	1517.7859	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	2	827.926	b13	1480.7331	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	2	827.926	y12	1446.7488	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	2	827.926	b12	1333.6647	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	2	827.926	y11	1309.6899	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	2	827.926	b11	1219.6218	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	y13	1517.7859	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	b13	1480.7331	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	y12	1446.7488	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	b12	1333.6647	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	y11	1309.6899	novel tail permuted to ESFNFR, empirical null
+HAHTIKPAESFNFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	b11	1219.6218	novel tail permuted to ESFNFR, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	2	827.926	y13	1517.7859	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	2	827.926	b13	1489.7658	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	2	827.926	y12	1446.7488	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	2	827.926	b12	1375.7229	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	2	827.926	y11	1309.6899	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	2	827.926	b11	1219.6218	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	3	552.2865	y13	1517.7859	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	3	552.2865	b13	1489.7658	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	3	552.2865	y12	1446.7488	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	3	552.2865	b12	1375.7229	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	3	552.2865	y11	1309.6899	novel tail permuted to SFERNF, empirical null
+HAHTIKPASFERNF	scrambled_tail_decoy	14	1653.8375	3	552.2865	b11	1219.6218	novel tail permuted to SFERNF, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	2	827.926	y13	1517.7859	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	2	827.926	b13	1480.7331	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	2	827.926	y12	1446.7488	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	2	827.926	b12	1366.6902	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	2	827.926	y11	1309.6899	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	2	827.926	b11	1219.6218	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	3	552.2865	y13	1517.7859	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	3	552.2865	b13	1480.7331	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	3	552.2865	y12	1446.7488	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	3	552.2865	b12	1366.6902	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	3	552.2865	y11	1309.6899	novel tail permuted to FSEFNR, empirical null
+HAHTIKPAFSEFNR	scrambled_tail_decoy	14	1653.8375	3	552.2865	b11	1219.6218	novel tail permuted to FSEFNR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	2	827.926	y13	1517.7859	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	2	827.926	b13	1480.7331	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	2	827.926	y12	1446.7488	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	2	827.926	b12	1333.6647	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	2	827.926	y11	1309.6899	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	2	827.926	y10	1208.6422	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	y13	1517.7859	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	b13	1480.7331	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	y12	1446.7488	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	b12	1333.6647	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	y11	1309.6899	novel tail permuted to NSFEFR, empirical null
+HAHTIKPANSFEFR	scrambled_tail_decoy	14	1653.8375	3	552.2865	y10	1208.6422	novel tail permuted to NSFEFR, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	2	827.926	y13	1517.7859	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	2	827.926	b13	1507.7917	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	2	827.926	y12	1446.7488	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	2	827.926	b12	1351.6906	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	2	827.926	y11	1309.6899	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	2	827.926	y10	1208.6422	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	3	552.2865	y13	1517.7859	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	3	552.2865	b13	1507.7917	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	3	552.2865	y12	1446.7488	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	3	552.2865	b12	1351.6906	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	3	552.2865	y11	1309.6899	novel tail permuted to SNFFRE, empirical null
+HAHTIKPASNFFRE	scrambled_tail_decoy	14	1653.8375	3	552.2865	y10	1208.6422	novel tail permuted to SNFFRE, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	2	827.926	b13	1549.8022	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	2	827.926	y13	1517.7859	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	2	827.926	y12	1446.7488	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	2	827.926	b12	1435.7593	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	2	827.926	y11	1309.6899	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	2	827.926	b11	1288.6909	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	3	552.2865	b13	1549.8022	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	3	552.2865	y13	1517.7859	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	3	552.2865	y12	1446.7488	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	3	552.2865	b12	1435.7593	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	3	552.2865	y11	1309.6899	novel tail permuted to EFRFNS, empirical null
+HAHTIKPAEFRFNS	scrambled_tail_decoy	14	1653.8375	3	552.2865	b11	1288.6909	novel tail permuted to EFRFNS, empirical null
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	2	1045.0918	b17	1786.0221	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	2	1045.0918	y15	1717.9595	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	2	1045.0918	b16	1656.9795	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	2	1045.0918	y14	1589.8646	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	2	1045.0918	b15	1557.9111	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	2	1045.0918	y13	1492.8118	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	3	697.0636	b17	1786.0221	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	3	697.0636	y15	1717.9595	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	3	697.0636	b16	1656.9795	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	3	697.0636	y14	1589.8646	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	3	697.0636	b15	1557.9111	present only in the canonical
+AATKKPVVNIITPSHVEER	canonical_specific_control	19	2088.1691	3	697.0636	y13	1492.8118	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	2	1739.4479	b17	1786.0221	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	2	1739.4479	y15	1692.8738	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	2	1739.4479	b16	1656.9795	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	2	1739.4479	y14	1563.8312	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	2	1739.4479	b15	1557.9111	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	2	1739.4479	b14	1420.8522	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	3	1159.9677	b17	1786.0221	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	3	1159.9677	y15	1692.8738	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	3	1159.9677	b16	1656.9795	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	3	1159.9677	y14	1563.8312	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	3	1159.9677	b15	1557.9111	present only in the canonical
+AATKKPVVNIITPSHVEERGCQLTITFSVPNK	canonical_specific_control	32	3476.8813	3	1159.9677	b14	1420.8522	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	2	1166.6528	y15	1717.9595	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	2	1166.6528	b16	1663.9741	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	2	1166.6528	y14	1589.8646	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	2	1166.6528	b15	1576.9421	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	2	1166.6528	y13	1492.8118	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	2	1166.6528	b14	1479.8893	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	3	778.1043	y15	1717.9595	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	3	778.1043	b16	1663.9741	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	3	778.1043	y14	1589.8646	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	3	778.1043	b15	1576.9421	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	3	778.1043	y13	1492.8118	present only in the canonical
+DKAATKKPVVNIITPSHVEER	canonical_specific_control	21	2331.291	3	778.1043	b14	1479.8893	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	2	504.2558	y7	892.4774	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	2	504.2558	b7	861.3989	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	2	504.2558	y6	793.409	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	2	504.2558	b6	732.3563	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	2	504.2558	y5	646.3406	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	2	504.2558	b5	619.2722	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	3	336.5063	y7	892.4774	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	3	336.5063	b7	861.3989	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	3	336.5063	y6	793.409	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	3	336.5063	b6	732.3563	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	3	336.5063	y5	646.3406	present only in the canonical
+DVFQELEK	canonical_specific_control	8	1006.4971	3	336.5063	b5	619.2722	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	2	582.3064	y8	1048.5786	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	2	582.3064	b8	989.4938	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	2	582.3064	y7	949.5101	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	2	582.3064	b7	861.3989	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	2	582.3064	y6	802.4417	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	2	582.3064	b6	732.3563	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	3	388.54	y8	1048.5786	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	3	388.54	b8	989.4938	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	3	388.54	y7	949.5101	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	3	388.54	b7	861.3989	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	3	388.54	y6	802.4417	present only in the canonical
+DVFQELEKR	canonical_specific_control	9	1162.5982	3	388.54	b6	732.3563	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	2	882.9511	y14	1649.8679	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	2	882.9511	b14	1618.7893	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	2	882.9511	y13	1550.7995	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	2	882.9511	b13	1503.7624	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	2	882.9511	y12	1403.7311	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	2	882.9511	b12	1400.7532	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	3	588.9698	y14	1649.8679	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	3	588.9698	b14	1618.7893	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	3	588.9698	y13	1550.7995	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	3	588.9698	b13	1503.7624	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	3	588.9698	y12	1403.7311	present only in the canonical
+DVFQELEKRGVVCDK	canonical_specific_control	15	1763.8876	3	588.9698	b12	1400.7532	present only in the canonical
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	2	1443.198	y15	1754.8854	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	2	1443.198	b15	1700.8278	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	2	1443.198	y14	1667.8534	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	2	1443.198	b14	1587.7438	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	2	1443.198	y13	1539.7948	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	2	1443.198	b13	1459.6852	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	3	962.4677	y15	1754.8854	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	3	962.4677	b15	1700.8278	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	3	962.4677	y14	1667.8534	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	3	962.4677	b14	1587.7438	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	3	962.4677	y13	1539.7948	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMR	shared_detection_control	25	2884.3814	3	962.4677	b13	1459.6852	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	2	1755.8846	b15	1700.8278	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	2	1755.8846	y14	1673.8825	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	2	1755.8846	y13	1616.8611	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	2	1755.8846	b14	1587.7438	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	2	1755.8846	y12	1503.777	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	2	1755.8846	b13	1459.6852	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	3	1170.9255	b15	1700.8278	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	3	1170.9255	y14	1673.8825	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	3	1170.9255	y13	1616.8611	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	3	1170.9255	b14	1587.7438	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	3	1170.9255	y12	1503.777	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPR	shared_detection_control	30	3509.7547	3	1170.9255	b13	1459.6852	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	2	2163.0757	y14	1745.9149	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	2	2163.0757	b15	1700.8278	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	2	2163.0757	y13	1614.8744	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	2	2163.0757	b14	1587.7438	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	2	2163.0757	b13	1459.6852	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	2	2163.0757	y12	1458.7733	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	3	1442.3862	y14	1745.9149	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	3	1442.3862	b15	1700.8278	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	3	1442.3862	y13	1614.8744	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	3	1442.3862	b14	1587.7438	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	3	1442.3862	b13	1459.6852	present in both forms, tests whether KYNU is detected
+AFPSDHYAIESQLQLHGLNIEESMRMIKPREGEETLR	shared_detection_control	37	4324.1368	3	1442.3862	y12	1458.7733	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	2	2096.9607	b18	1745.8428	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	2	2096.9607	y14	1716.6933	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	2	2096.9607	b17	1688.8213	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	2	2096.9607	b16	1589.7529	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	2	2096.9607	y13	1579.6344	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	2	2096.9607	b15	1518.7158	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	3	1398.3096	b18	1745.8428	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	3	1398.3096	y14	1716.6933	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	3	1398.3096	b17	1688.8213	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	3	1398.3096	b16	1589.7529	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	3	1398.3096	y13	1579.6344	present in both forms, tests whether KYNU is detected
+AGQAKGCYVGFDLAHAVGNVELYLHDWGVDFACWCSYK	shared_detection_control	38	4191.9069	3	1398.3096	b15	1518.7158	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	2	429.1821	y6	754.3478	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	2	429.1821	b6	683.2453	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	2	429.1821	y5	617.2889	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	2	429.1821	b5	554.2028	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	2	429.1821	y4	520.2362	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	2	429.1821	b4	439.1758	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	3	286.4572	y6	754.3478	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	3	286.4572	b6	683.2453	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	3	286.4572	y5	617.2889	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	3	286.4572	b5	554.2028	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	3	286.4572	y4	520.2362	present in both forms, tests whether KYNU is detected
+CHPTDER	shared_detection_control	7	856.3497	3	286.4572	b4	439.1758	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	2	1003.9654	y15	1766.8555	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	2	1003.9654	b15	1745.7911	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	2	1003.9654	y14	1669.8027	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	2	1003.9654	b14	1616.7485	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	2	1003.9654	y13	1568.7551	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	2	1003.9654	b13	1487.7059	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	3	669.646	y15	1766.8555	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	3	669.646	b15	1745.7911	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	3	669.646	y14	1669.8027	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	3	669.646	b14	1616.7485	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	3	669.646	y13	1568.7551	present in both forms, tests whether KYNU is detected
+CHPTDERVALHLDEEDK	shared_detection_control	17	2005.9163	3	669.646	b13	1487.7059	present in both forms, tests whether KYNU is detected

@@ -1,0 +1,9 @@
+job	chain_a	chain_b	role
+canonical__canonical	canonical	canonical	reference homodimer
+isoform2__isoform2	isoform2	isoform2	isoform homodimer, reference
+canonical__isoform2	canonical	isoform2	the claim
+canonical__trunc_cterm	canonical	trunc_cterm	length-matched, novel tail absent
+canonical__trunc_nterm	canonical	trunc_nterm	length-matched, N-terminal interface face removed
+canonical__tail_scramble_01	canonical	tail_scramble_01	length-matched, tail permuted
+canonical__tail_scramble_02	canonical	tail_scramble_02	length-matched, tail permuted
+canonical__tail_scramble_03	canonical	tail_scramble_03	length-matched, tail permuted

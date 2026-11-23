@@ -1,0 +1,133 @@
+{
+ "dataset": "PXD010154",
+ "ensembl_protein_identifiers": {
+  "ENSP00000264170": "Q16719-1",
+  "ENSP00000364928": "Q16719-2",
+  "ENSP00000386731": "Q16719-1",
+  "ENSP00000522139": "Q16719-1",
+  "ENSP00000522140": "Q16719-1",
+  "ENSP00000522141": "Q16719-1",
+  "ENSP00000522142": "Q16719-1",
+  "ENSP00000522144": "Q16719-1",
+  "ENSP00000522147": "Q16719-1"
+ },
+ "diagnostic_peptides_searched": [
+  "HAHTIKPAR",
+  "HAHTIKPARSEFFN",
+  "YLNAGAGGIAGAFIHEKHAHTIKPAR",
+  "YLNAGAGGIAGAFIHEKHAHTIKPARSEFFN"
+ ],
+ "tables": {
+  "liver::msms.txt": {
+   "search_database": "ZZZ_HPA_RNA_P012502_20170203.fasta\r",
+   "isoform_entry_in_results": true,
+   "data_rows": 443786,
+   "diagnostic_peptides_found": [],
+   "decoy_peptides_found": [],
+   "canonical_specific_found": [
+    "DVFQELEK",
+    "DVFQELEKR",
+    "FTNLLTSILDSAETK"
+   ],
+   "shared_found": [
+    "AFPSDHYAIESQLQLHGLNIEESMR",
+    "DENAIYFLGNSLGLQPK"
+   ],
+   "distinct_peptides_per_entry": {
+    "ENSP00000364928": 14,
+    "ENSP00000386731": 26
+   }
+  },
+  "liver::evidence.txt": {
+   "search_database": "ZZZ_HPA_RNA_P012502_20170203.fasta\r",
+   "isoform_entry_in_results": true,
+   "data_rows": 288472,
+   "diagnostic_peptides_found": [],
+   "decoy_peptides_found": [],
+   "canonical_specific_found": [
+    "DVFQELEK",
+    "DVFQELEKR",
+    "FTNLLTSILDSAETK"
+   ],
+   "shared_found": [
+    "AFPSDHYAIESQLQLHGLNIEESMR",
+    "DENAIYFLGNSLGLQPK"
+   ],
+   "distinct_peptides_per_entry": {
+    "ENSP00000364928": 14,
+    "ENSP00000386731": 26
+   }
+  },
+  "liver::peptides.txt": {
+   "search_database": "ZZZ_HPA_RNA_P012502_20170203.fasta\r",
+   "isoform_entry_in_results": true,
+   "data_rows": 80741,
+   "diagnostic_peptides_found": [],
+   "decoy_peptides_found": [],
+   "canonical_specific_found": [
+    "DVFQELEK",
+    "DVFQELEKR",
+    "FTNLLTSILDSAETK"
+   ],
+   "shared_found": [
+    "AFPSDHYAIESQLQLHGLNIEESMR",
+    "DENAIYFLGNSLGLQPK"
+   ],
+   "distinct_peptides_per_entry": {
+    "ENSP00000364928": 14,
+    "ENSP00000386731": 26
+   }
+  },
+  "kidney::msms.txt": {
+   "search_database": "ZZZ_HPA_RNA_P013560_20170203.fasta\r",
+   "isoform_entry_in_results": false,
+   "data_rows": 312595,
+   "diagnostic_peptides_found": [],
+   "decoy_peptides_found": [],
+   "canonical_specific_found": [
+    "AATKKPVVNIITPSHVEER",
+    "FTNLLTSILDSAETK"
+   ],
+   "shared_found": [
+    "AFPSDHYAIESQLQLHGLNIEESMR"
+   ],
+   "distinct_peptides_per_entry": {
+    "ENSP00000386731": 15
+   }
+  },
+  "kidney::evidence.txt": {
+   "search_database": "ZZZ_HPA_RNA_P013560_20170203.fasta\r",
+   "isoform_entry_in_results": false,
+   "data_rows": 236739,
+   "diagnostic_peptides_found": [],
+   "decoy_peptides_found": [],
+   "canonical_specific_found": [
+    "AATKKPVVNIITPSHVEER",
+    "FTNLLTSILDSAETK"
+   ],
+   "shared_found": [
+    "AFPSDHYAIESQLQLHGLNIEESMR"
+   ],
+   "distinct_peptides_per_entry": {
+    "ENSP00000386731": 15
+   }
+  },
+  "kidney::peptides.txt": {
+   "search_database": "ZZZ_HPA_RNA_P013560_20170203.fasta\r",
+   "isoform_entry_in_results": false,
+   "data_rows": 72730,
+   "diagnostic_peptides_found": [],
+   "decoy_peptides_found": [],
+   "canonical_specific_found": [
+    "AATKKPVVNIITPSHVEER",
+    "FTNLLTSILDSAETK"
+   ],
+   "shared_found": [
+    "AFPSDHYAIESQLQLHGLNIEESMR"
+   ],
+   "distinct_peptides_per_entry": {
+    "ENSP00000386731": 15
+   }
+  }
+ }
+}

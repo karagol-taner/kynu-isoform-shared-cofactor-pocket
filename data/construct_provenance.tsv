@@ -1,0 +1,8 @@
+construct	length	provenance
+canonical	465	UniProt Q16719 displayed sequence
+isoform2	307	canonical 1-301 plus RSEFFN from VSP_042739, with VSP_042740 deleting 308-465
+trunc_cterm	307	canonical 1-307, no novel tail
+trunc_nterm	307	canonical 159-465
+tail_scramble_01	307	canonical 1-301 plus ESFNFR, a permutation of RSEFFN, seed 20261110
+tail_scramble_02	307	canonical 1-301 plus SFERNF, a permutation of RSEFFN, seed 20261110
+tail_scramble_03	307	canonical 1-301 plus FSEFNR, a permutation of RSEFFN, seed 20261110

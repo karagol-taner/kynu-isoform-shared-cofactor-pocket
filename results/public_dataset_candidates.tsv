@@ -1,0 +1,684 @@
+accession	tissues	data_independent_or_targeted	instruments	experiment_types	submission_date	raw_files	title
+PXD053154	kidney;liver;lung	True	timsTOF Pro;Orbitrap Exploris 480;Q Exactive HF	Data-dependent acquisition;Data-independent acquisition	2024-06-17	7026	Protein restriction reprograms the multi-organ proteomic landscape of mouse aging
+PXD055605	kidney	True	Q Exactive	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2024-09-06	3494	Interaction proteomics of the human solute carrier (SLC) transporter superfamily
+PXD028593	liver	True	Q Exactive Plus	Shotgun proteomics	2021-09-17	2647	(Phospho)-proteomic characterization of longitudinal biopsies from HCC patients treated with sorafenib
+PXD068107	lung	True	Orbitrap Astral	Data-independent acquisition	2025-09-05	1544	Systematic evaluation of blood contamination in nanoparticle-based plasma proteomics
+PXD060514	lung	True	Orbitrap Astral;Orbitrap Fusion;Orbitrap Exploris 480	Immunopeptidomics;Bottom-up proteomics	2025-02-05	1487	Histidine to glutamine substitutants, a regulated process that impacts cell survival and pinpoints histidine shortage in cancer
+PXD060710	lung	True	Orbitrap Astral	Data-independent acquisition	2025-02-12	928	Global and specific mechanisms stimulate mistranslation in cancer
+PXD059640	kidney;liver;lung	True	Q Exactive	Bottom-up proteomics	2025-01-10	857	Inferring the composition of the blood plasma proteome by a human proteome distribution atlas
+PXD062231	liver	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2025-03-26	792	Single-cell spatial proteomics maps human liver zonation patterns and their vulnerability to disruption in tissue architecture
+PXD072886	lung	True	Orbitrap Exploris 480	Data-independent acquisition;Bottom-up proteomics	2026-01-10	714	DIA-MS to characterise lung cancer proteomic signature in blood plasma
+PXD070185	kidney;liver	True	Orbitrap Astral	Data-independent acquisition	2025-11-01	650	EasySCP Unveils Extensive Liver Zonation at Single-cell Proteomics Resolution
+PXD054596	kidney;liver	True	TripleTOF 6600	Data-dependent acquisition;SWATH MS;Data-independent acquisition;Bottom-up proteomics	2024-08-05	532	The effect of storage time and temperature on the proteomic analysis of FFPE tissue sections
+PXD083370	liver	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2026-08-28	515	JMod: Joint modeling of mass spectra for empowering multiplexed DIA proteomics
+PXD027439	liver	True	Orbitrap Fusion Lumos	Shotgun proteomics	2022-02-15	480	High temporal resolution proteome and phosphoproteome profiling of stem cell-derived hepatocyte development
+PXD027722	liver	True	Q Exactive HF-X;Orbitrap Exploris 480	Shotgun proteomics	2021-08-05	365	Dynamic human liver proteome atlas reveals functional insights into disease pathways
+PXD061144	lung	True	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2025-02-24	359	In-depth plasma proteomics of patients with suspected lung cancer (lung adenocarcinoma and non-cancer controls) with HiRIEF LC-MS/MS
+PXD062547	lung	True	Orbitrap Exploris 480	Data-independent acquisition;Bottom-up proteomics	2025-04-03	323	A High-Resolution Proteomic Atlas of Extracellular Vesicles and Non-Vesicular Particles
+PXD062869	liver	True	Orbitrap Astral;Orbitrap Exploris 480	Data-independent acquisition;Bottom-up proteomics	2025-04-12	288	High-throughput peptide-centric local stability assay extends protein-ligand identification to membrane proteins, tissues, and bacteria
+PXD068618	lung	True	TripleTOF 6600	Data-dependent acquisition;SWATH MS;Data-independent acquisition;Bottom-up proteomics	2025-09-22	285	Optimising Spectral Reference Library Strategies for Data-Independent Acquisition Proteomics in Cancer Cohorts
+PXD067895	kidney	True	Orbitrap Exploris 480	Data-dependent acquisition	2025-08-30	272	Affinity purification–mass spectrometry of 16 endogenously tagged proteins in HEK293T cells
+PXD051236	placenta	True	TripleTOF 5600	SWATH MS	2024-04-06	266	Placenta-derived Extracellular Vesicles in Maternal Plasma of Hb Bart’s Fetuses
+PXD062358	kidney	True	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2025-03-28	255	Nephrin-associated phospho-protein network necessary for filtration at the slit-diaphragm and podocyte adhesion
+PXD086822	kidney	True	Q Exactive	Data-dependent acquisition;Data-independent acquisition	2026-11-04	250	Prioritized mass spectrometry increases the depth, sensitivity and data completeness of single-cell proteomics (pSCoPE)
+PXD071192	placenta	True	TripleTOF 5600	SWATH MS;Data-independent acquisition;Bottom-up proteomics	2025-11-25	210	Effect of depression and serotonin reuptake inhibitors antidepressant treatment during pregnancy on protein expression in the human placenta: A quantitative pro
+PXD062437	lung	True	Orbitrap Fusion Lumos	Data-independent acquisition	2025-04-01	201	Divergent proteome tolerance against gain and loss of chromosome arms
+PXD079319	kidney	True	Q Exactive	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2026-06-05	200	Assembly of the catalytic module and the rotor of human ATP synthase Pt V
+PXD054170	kidney	True	TripleTOF 5600	SWATH MS;Bottom-up proteomics	2024-07-24	197	Proteomic analysis identifies dysregulated proteins in albuminuria: a South African pilot study
+PXD056457	liver	True	Q Exactive	Data-independent acquisition	2024-10-02	195	C-COMPASS: A user-friendly neural network tool profiles cell compartments at protein and lipid levels
+PXD065579	liver	True	Orbitrap Fusion Lumos;Orbitrap Astral	Data-dependent acquisition;Data-independent acquisition;Bottom-up proteomics	2025-06-28	189	Expanding the global map of protein post translational modifications with PTMScan enrichment and nDIA analysis on the Orbitrap Astral
+PXD072114	liver	True	Orbitrap Astral	Data-independent acquisition	2025-12-17	183	Limited impact of column chemistry and length on proteome coverage under high-speed DIA
+PXD009025	placenta	True	Orbitrap Fusion	SRM/MRM	2018-02-23	179	Quantification of calcyclin and heat shock protein 90 in sera from women with and without preeclampsia by mass spectrometry
+PXD045733	liver	True	Q Exactive HF	Shotgun proteomics	2023-09-27	174	OCT1 (SLC22A1) transporter kinetics and regulation in primary human hepatocyte 3D spheroids
+PXD069201	kidney	True	Q Exactive HF	Data-independent acquisition	2025-10-08	164	SHP2 lysates to identify SHP2 interactors and co-localized protein (total proteome)
+PXD066423	lung	True	Orbitrap Eclipse	Data-independent acquisition	2025-07-22	153	Distinct Plasma Proteomic Profile in Severe Pulmonary Hypertension Associated with Chronic Lung Disease
+PXD059245	liver	True	Orbitrap Eclipse;timsTOF Pro 2	Bottom-up proteomics	2024-12-25	149	Integrated multiomic analysis of cholangiocarcinoma defines novel molecular subtypes associated with clinical outcome and identifies TNK1 as a therapeutic targe
+PXD054514	kidney	True	Orbitrap Fusion Lumos	Data-independent acquisition;Bottom-up proteomics	2024-08-02	144	End-to-end Throughput Chemical Proteomics for Photoaffinity Labeling Target Engagement and Deconvolution
+PXD068866	placenta	True	Orbitrap Astral	Data-independent acquisition	2025-09-26	144	Priming-Dependent Modulation of Secretome in Placenta- and Adipose-Derived Mesenchymal Stromal/Stem cells: Toward Cell-Free Immunoregenerative Therapies for Ost
+PXD085290	liver	True	Orbitrap Astral	Shotgun proteomics;Data-independent acquisition	2026-10-08	144	Deep plasma proteome profiling by Orbitrap Astral DIA-MS reveals candidate protein signatures of liver fibrosis stage in a 144-patient cohort
+PXD065279	kidney	True	Orbitrap Astral;Orbitrap Exploris 480	Immunopeptidomics;Data-dependent acquisition;Data-independent acquisition;Bottom-up proteomics	2025-06-20	142	MHC1-TIP: scalable multimodal immunopeptidome profiling of low-input samples
+PXD068912	lung	True	Orbitrap Astral;Orbitrap Exploris 480	Immunopeptidomics;Data-independent acquisition;Bottom-up proteomics	2025-09-28	138	Arginine deprivation of ASS1-deficient cancers drives mistranslation and shared neoepitope production 
+PXD079310	kidney	True	Q Exactive	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2026-06-05	136	Assembly of the catalytic module and the rotor of human ATP synthase Pt IV
+PXD058891	lung	True	Orbitrap Fusion Lumos	Data-dependent acquisition;Data-independent acquisition	2024-12-16	123	Omics Analysis of Lung Adenocarcinoma with KRAS G12 Mutations
+PXD043480	placenta	True	TripleTOF 5600	Shotgun proteomics	2023-07-03	120	Placental proteomics identified elevated Aldo-keto Reductase 1-B1 level in spontaneous preterm birth
+PXD077960	kidney	True	Q Exactive	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2026-05-03	119	Assembly of the catalytic module and the rotor of human ATP synthase.
+PXD057361	kidney	True	Orbitrap Exploris 480	SWATH MS	2024-10-30	118	Urine proteomics as a source of biological information and outcome predictor in living kidney transplantation
+PXD062785	kidney	True	Orbitrap Exploris 480	Data-independent acquisition;Bottom-up proteomics	2025-04-09	115	Impact of Sample Preparation Strategies on The Quantitative Accuracy of Low-Abundance Serum Proteins in Shotgun Proteomics
+PXD057205	lung	True	Q Exactive HF	Data-dependent acquisition	2024-10-25	109	Mass-spectrometry analysis of secretome and extracellular vesicles derived from lung and colorectal cell lines
+PXD031323	liver	True	Orbitrap Fusion Lumos	Shotgun proteomics	2022-01-30	97	Characterization of tumor heterogeneity in beta-catenin mutated hepatocellular adenomas
+PXD055141	kidney	True	Q Exactive	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2024-08-23	96	Interaction proteomics of wildtype SLC16A6 (MCT7) and phospho-variants
+PXD071468	kidney	True	Orbitrap Exploris 480	Data-independent acquisition;Bottom-up proteomics	2025-12-02	96	Urine proteomics as a source of biological information and outcome predictor in living kidney transplantation - Validation cohort
+PXD060653	liver	True	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2025-02-10	91	Effects of Chronic Alcohol Intake on the Composition of the Ensemble of Drug-Metabolizing Enzymes and Transporters in the Human Liver
+PXD061721	liver	True	Q Exactive	SRM/MRM;Data-dependent acquisition	2025-03-11	89	Low-Abundance Serum Protein Biomarker Candidates for HCC in Patients with Liver Cirrhosis
+PXD063610	lung	True	Orbitrap Exploris 480	Bottom-up proteomics	2025-05-05	88	A flexible end-to-end automated sample preparation workflow enables reproducible large-scale bottom-up proteomics - Part 1
+PXD071187	lung	True	Orbitrap Fusion	Data-independent acquisition	2025-11-25	84	oward biomarker-guided radiotherapy: Multi-omics analysis links ATM status to radioresistance in lung adenocarcinoma
+PXD067356	liver	True	Orbitrap Fusion Lumos	Bottom-up proteomics	2025-08-14	80	JMJD5 regulates metabolism by inhibiting the Arginine Methyltransferase PRMT6
+PXD078983	kidney	True	Orbitrap Eclipse;timsTOF HT;Orbitrap Exploris 480	SRM/MRM;Data-independent acquisition;Bottom-up proteomics	2026-05-28	77	Urinary multi-omics reveal non-invasive diagnostic biomarkers in clear cell renal cell carcinoma
+PXD061871	lung	True	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2025-03-15	72	Chemoselective Characterization of New Extracellular Matrix Deposition in Bioengineered Tumor Tissues
+PXD064185	kidney	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2025-05-22	72	Supercharging-Enhanced nDIA-MS Enables Global Profiling of Drug-Induced Proteome Solubility Shifts (solubility proteomics)
+PXD014083	placenta	True	Orbitrap Fusion Lumos	Shotgun proteomics	2019-05-31	70	Human placental tissue LC-MS/MS
+PXD053837	kidney	True	Orbitrap Exploris 240	Data-dependent acquisition;Bottom-up proteomics	2024-07-10	68	Unbiased Proteomic Analysis for Real-Life Identification of Podocyte Antigens and Disease Mechanisms in Membranous NephropathyUnbiased Proteomic Analysis for Re
+PXD056469	lung	True	Q Exactive HF	Data-independent acquisition	2024-10-03	68	Human whole blood from patients with NSCLC and matching controls processed using VAMS device.
+PXD058009	lung	True	Orbitrap Fusion Lumos	Data-independent acquisition	2024-11-18	68	Phosphoproteomics landscape of lung DTP
+PXD072014	lung	True	Orbitrap Astral;timsTOF HT	Data-independent acquisition	2025-12-15	68	Label-free mass spectrometry-based proteomics of lung cancer FFPE glass slides
+PXD054348	placenta	True	Orbitrap Eclipse	Data-dependent acquisition	2024-07-29	65	Proteome profiling of trophoblasts reveals calcium involvement in syncytialisation and hormone production
+PXD055241	kidney	True	Orbitrap Exploris 480	Data-independent acquisition	2024-08-27	65	Longitudinal Serum Proteomics in Hypertensive Kidney Disease Progression
+PXD067585	lung	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2025-08-21	64	Alterations in proteome and proteostasis networks during replicative senescence
+PXD070627	lung	True	Orbitrap Astral	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2025-11-12	64	Human non-small cell lung cancer cell line NCI-H661 DPPA2-4 rapid immunoprecipitation mass spectrometry (RIME, LC-MSMS)
+PXD033550	liver	True	Q Exactive HF	Shotgun proteomics	2022-04-28	61	Hepatocyte thorns, a novel drug-induced stress response in human and mouse liver spheroids
+PXD066805	liver	True	Orbitrap Exploris 480	Data-independent acquisition	2025-07-31	61	Proteomics profiling of serum and liver in GSD Ia and Ib patients: insights into complication mechanisms and circulation biomarkers
+PXD057211	lung	True	Orbitrap Fusion Lumos;Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2024-10-25	60	Data-driven rescoring meets identification transfer in multi-batch isobaric labeling experiments: the best of both worlds (ProSIMSIt)
+PXD065321	lung	True	Orbitrap Exploris 240	Data-independent acquisition;Bottom-up proteomics	2025-06-23	60	Unraveling the immunosuppressive role of Elastase B produced by cystic fibrosis isolates of Pseudomonas aeruginosa in an organotypic 3-D lung epithelial cell mo
+PXD073798	kidney	True	Orbitrap Astral	Bottom-up proteomics	2026-01-29	60	Global analysis of cancer cell responses to USP9X inhibition
+PXD077257	lung	True	orbitrap	Data-independent acquisition	2026-04-16	60	LC-MSMS measurements of paired human lung tumor/tumor-free tissues with serial dilutions
+PXD077924	kidney	True	Q Exactive	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2026-05-01	60	Assembly of the catalytic module and the rotor of human ATP synthase.
+PXD060483	liver	True	Q Exactive HF	Data-independent acquisition;Bottom-up proteomics	2025-02-04	58	The ontogeny and inter-individual variability of drug- metabolizing enzymes and transporters in human liver.
+PXD074900	liver	True	Orbitrap Astral Zoom	Data-independent acquisition	2026-02-25	57	Sup:EasySCP Unveils Extensive Liver Zonation at Single-cell Proteomics Resolution
+PXD063935	kidney	True	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-05-14	56	Time-Resolved Analysis of Protein-Protein Ensembles using a Destabilizing Domain (TRAPPED) to resolve dynamic interactions of SARS-CoV-2 nsp15
+PXD064170	lung	True	Orbitrap Exploris 480	Data-independent acquisition;Bottom-up proteomics	2025-05-21	52	Untargeted Proteomics to Assess the Impact of Moderate Hyperoxia on Patient Sample-derived Neonatal Airway Epithelial Cells in 3D Culture
+PXD065216	kidney	True	LTQ Orbitrap	Data-independent acquisition	2025-06-19	51	Serum Proteome Analysis of IgA Nephropathy  
+PXD054588	kidney	True	Orbitrap Fusion Lumos	Top-down proteomics	2024-08-05	50	Tumour sampling conditions perturb the metabolic landscape of clear cell renal cell carcinoma
+PXD055080	lung	True	Q Exactive	Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2024-08-22	50	RAS-GTP inhibition overcomes acquired resistance to KRASG12C inhibitors mediated by oncogenic and wildtype RAS activation in NSCLC preclinical models: Lu65 Resi
+PXD055133	lung	True	Q Exactive	Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2024-08-23	50	RAS-GTP inhibition overcomes acquired resistance to KRASG12C inhibitors mediated by oncogenic and wildtype RAS activation in NSCLC preclinical models: LUN156 PD
+PXD055167	lung	True	Q Exactive	Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2024-08-24	50	RAS-GTP inhibition overcomes acquired resistance to KRASG12C inhibitors mediated by oncogenic and wildtype RAS activation in NSCLC preclinical models: Lu65 Cell
+PXD055244	lung	True	Q Exactive	Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2024-08-27	50	RAS-GTP inhibition overcomes acquired resistance to KRASG12C inhibitors mediated by oncogenic and wildtype RAS activation in NSCLC preclinical models: H358 AMG5
+PXD063438	liver	True	Q Exactive	Bottom-up proteomics	2025-04-29	49	Dynamic Proteomic Analysis of Human Liver Organoids: Optimal Maturation Stage for Drug Metabolism and Toxicology Applications
+PXD029966	placenta	True	TripleTOF 6600	Shotgun proteomics	2021-11-26	48	Establishment of fetomaternal tolerance via glycan-mediated B cell suppression
+PXD024759	placenta	True	Q Exactive	Shotgun proteomics	2021-03-16	44	Human chorionic villus proteome
+PXD050049	placenta	True	Q Exactive Plus	Data-dependent acquisition;Bottom-up proteomics	2024-02-23	42	Proteomic studies of human placentas reveal partnerships associated with preeclampsia, diabetes, gravidity, and labor
+PXD054890	kidney	True	Orbitrap Ascend;timsTOF SCP	diaPASEF;Data-independent acquisition;Bottom-up proteomics	2024-08-14	42	Integrative Proximal-Ubiquitomics Profiling for Deubiquitinase and E3 Ligase Substrate Discovery Applied to USP30
+PXD072601	lung	True	Orbitrap Fusion Lumos	Data-dependent acquisition	2026-01-03	42	Targeting peptidyl-arginine deiminase 4 suppresses SARS-CoV-2 replication and modulates the inflammatory response
+PXD054062	kidney	True	Orbitrap Fusion Lumos;Orbitrap Exploris 240	Data-independent acquisition;Bottom-up proteomics	2024-07-19	41	Unbiased Proteomic Unbiased Proteomic Analysis for Real-Life Identification of Podocyte Antigens and Disease Mechanisms in Membranous NephropathyAnalysis for Re
+PXD066092	lung	True	Q Exactive	Data-dependent acquisition	2025-07-13	41	TET1 Functions as a Tumor Suppressor in Lung Adenocarcinoma Through Epigenetic Remodeling and Immune Modulation.
+PXD060175	liver	True	Orbitrap Ascend	Data-independent acquisition	2025-01-25	40	A multi-omic approach reveals iron availability influences hepatocyte cell fate
+PXD069123	lung	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2025-10-03	40	Alterations in proteome and proteostasis networks during replicative senescence
+PXD075370	liver	True	Q Exactive	Data-dependent acquisition	2026-03-09	40	Glycoproteome Profiling of Human Serum for Hepatocellular Carcinoma Biomarker Discovery
+PXD079948	lung	True	ZenoTOF 7600	SWATH MS	2026-06-21	40	SWATH-MS-Based landscape of serum proteins in acute respiratory syndrome
+PXD043761	liver	True	Orbitrap Exploris 480	Shotgun proteomics	2023-07-13	39	Tumour cells can escape antiproliferative pressure by type I interferon through immunoediting of interferon receptor expression
+PXD052479	liver	True	Orbitrap Exploris 480	Data-independent acquisition	2024-05-22	39	Integrin beta 1 facilitates non-enveloped hepatitis E virus cell entry through the recycling endosome
+PXD053739	placenta	True	Q Exactive HF	Shotgun proteomics	2024-07-08	39	Comprehensive proteomic analysis reveals distinct features and diagnostic biomarker panel for early pregnancy loss in histological subtypes
+PXD057165	kidney	True	Q Exactive	Bottom-up proteomics	2024-10-24	37	Laser microdissection and mass spectrometry shows loss of podocyte proteins in minimal change disease and focal segmental glomerulosclerosis.
+PXD055182	placenta	True	Orbitrap Exploris 480	Bottom-up proteomics	2024-08-25	36	Comprehensive proteomic analysis reveals distinct features and diagnostic biomarker panel for early pregnancy loss in histological subtypes
+PXD067414	kidney	True	Orbitrap Exploris 480	Data-independent acquisition;Bottom-up proteomics	2025-08-16	36	Structural basis for binding of RILPL1 to TMEM55B reveals a  lysosomal platform for adaptor assembly through a conserved TBM motif
+PXD054297	kidney	True	LTQ Orbitrap XL ETD	Data-dependent acquisition	2024-07-27	35	"Exploring BICC1 interactome: Insights into 
+RNA-mediated protein networks and biomolecular condensates
+"
+PXD060743	liver	True	Orbitrap Fusion Lumos	Data-independent acquisition;Bottom-up proteomics	2025-02-13	35	Amniotic Fluid Reduces Liver Fibrosis By Attenuating Hepatic Stellate Cell Activation
+PXD063181	lung	True	Q Exactive HF	Data-dependent acquisition	2025-04-22	34	A proteomic study of the dual oncogenic and tumor- suppressive roles of SIRT3 in lung and breast cancer cell lines
+PXD023777	placenta	True	Q Exactive Plus	Shotgun proteomics	2021-01-25	33	Proteomic profiles of ZIKV-positive placentas of fetuses with microcephaly
+PXD047766	placenta	True	Orbitrap Fusion Lumos	Data-independent acquisition;Bottom-up proteomics	2023-12-12	33	O-GlcNAcome analysis in human placenta
+PXD064523	kidney	True	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-06-02	33	Biopsy proteome-based classification of T-cell-mediated kidney allograft rejection
+PXD076462	liver	True	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2026-04-01	32	Hepatitis B virus proteome analysis identifies apolipoprotein C1 facilitating particle production and virus entry
+PXD077923	lung	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2026-05-01	32	Alterations in proteome and proteostasis networks during replicative senescence
+PXD034257	liver	True	Q Exactive HF	SRM/MRM;SWATH MS	2022-06-01	30	Toxicoproteomics reveals an effect of Clozapine on autophagy in human liver spheroids
+PXD055230	lung	True	timsTOF Ultra;Q Exactive HF	Data-dependent acquisition;Data-independent acquisition;Bottom-up proteomics	2024-08-27	30	Global Lysine Lactylation Dynamics during HCMV and HSV-1 Infections
+PXD073754	kidney	True	Orbitrap Astral	Bottom-up proteomics	2026-01-29	30	Global analysis of cancer cell responses to USP9X inhibition
+PXD046714	liver	True	Q Exactive	Affinity purification coupled with mass spectrometry proteomics	2023-11-07	28	ZHX3 interacts with CEBPB to repress hepatic gluconeogenic gene expression and uric acid secretion
+PXD069129	lung	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2025-10-04	28	Alterations in proteome and proteostasis networks during replicative senescence
+PXD069894	kidney	True	Orbitrap Fusion Lumos;LTQ Orbitrap Elite	Data-dependent acquisition	2025-10-25	28	Suppression of pain transmission and behavior by inhibition of peripheral diacylglycerol metabolism
+PXD006654	placenta	True	LTQ Orbitrap	Shotgun proteomics	2017-06-05	26	Human placenta tissue LC-MS -  Detergent-insoluble proteome analysis revealed aberrantly aggregated proteins in human preeclampsia placentas
+PXD071948	lung	True	Orbitrap Astral;timsTOF HT;Orbitrap Exploris 480	Data-independent acquisition	2025-12-13	26	Label-free mass spectrometry-based proteomics of lung cancer FFPE scrolls
+PXD072091	liver	True	Orbitrap Exploris 480	Data-independent acquisition	2025-12-17	26	Proteomics analysis of iPSCs and iPSCs-derived hepatocytes carrying MIC13 pathogenic variant.
+PXD072858	kidney	True	Orbitrap Exploris 480	Affinity purification coupled with mass spectrometry proteomics	2026-01-09	25	TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin
+PXD057122	lung	True	Orbitrap Exploris 480	Data-dependent acquisition;SWATH MS;Data-independent acquisition	2024-10-24	24	Proteome profiling followng targeting eIF4E
+PXD059613	liver	True	LTQ Orbitrap Elite	Data-independent acquisition;Bottom-up proteomics	2025-01-10	24	Liver tumor tissues extracted from a mouse model of hepatocellular carcinoma were subjected to proteomics
+PXD064138	lung	True	Orbitrap Exploris 240	Bottom-up proteomics	2025-05-21	24	Salivary Proteomics as a Potential Tool for Early Lung Cancer Detection: Insights from the East Khasi Hills, Meghalaya, India
+PXD066995	lung	True	Orbitrap Exploris 480	Immunopeptidomics;Data-independent acquisition	2025-08-06	24	A therapeutically tractable dependency on nonsense-mediated decay for cellular homeostasis and immune control in small cell lung cancer
+PXD074919	kidney	True	Q Exactive HF	Data-dependent acquisition	2026-02-26	24	Galectin-1 Modulates Cell Adhesions, Caveolae, and Vascular Permeability in Kidney Endothelial Cells - Insights from Proteomics
+PXD074969	kidney	True	Q Exactive HF	Data-dependent acquisition	2026-02-27	24	Galectin-1 Modulates Cell Adhesions, Caveolae, and Vascular Permeability in Kidney Endothelial Cells - Insights from Phosphoproteomics
+PXD076470	liver	True	Q Exactive	Bottom-up proteomics	2026-04-01	24	Genetic and pharmacologic inhibition of Keap1 dampens the pro-fibrotic program in human hepatic stellate cells
+PXD079916	kidney	True	Orbitrap Fusion Lumos;timsTOF HT	Bottom-up proteomics	2026-06-19	24	USP9X promotes the degradation of trapped translation factors on collided ribosomes
+PXD082765	kidney	True	Orbitrap Exploris 480	Data-independent acquisition;Bottom-up proteomics	2026-08-18	24	Salivary proline-rich proteins are non-canonical serum biomarkers of chronic kidney disease
+PXD030383	liver	True	Orbitrap Fusion Lumos	SRM/MRM;Shotgun proteomics;SWATH MS	2021-12-14	23	Depletion of Mitochondrial Methionine Adenosyltransferase α1 Triggers Mitochondrial Dysfunction in Alcohol-Associated Liver Disease
+PXD039930	placenta	True	Synapt MS	Shotgun proteomics	2023-02-07	23	Inhibition of diacylglycerol lipase β modulates lipid and endocannabinoid levels in the ex vivo human placenta
+PXD054961	kidney	True	Orbitrap Exploris 480	Data-independent acquisition	2024-08-16	23	Proteome of renal tubuli and serum differentiate pre-existing type 2 diabetes and post-transplant diabetes in kidney transplant recipients
+PXD067850	lung	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2025-08-28	21	PRC2 loss impairs small cell lung cancer tumorigenesis and enhances sensitivity to G9a/GLP inhibition
+PXD078568	lung	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2026-05-19	21	Systematic Discovery of Pathogen Effector Functions across Human Pathogens and Pathways
+PXD044530	kidney;liver	True	Orbitrap Fusion Lumos	SRM/MRM;Affinity purification coupled with mass spectrometry proteomics;Shotgun proteomics	2023-08-13	20	Distinct phases of cellular signaling revealed by time-resolved protein synthesis
+PXD057576	lung	True	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2024-11-06	20	Proteome changes associated with effect of high-dose single-fractionation radiation on lung adenocarcinoma cell lines
+PXD070581	lung	True	Orbitrap Fusion Lumos	Affinity purification coupled with mass spectrometry proteomics;Data-independent acquisition;Bottom-up proteomics	2025-11-11	20	Human non-small cell lung cancer cell line NCI-H661 DPPA2-4 immunoprecipitation mass spectrometry (LC-MSMS)
+PXD054759	liver	True	Orbitrap Exploris 480	Data-independent acquisition	2024-08-09	18	Diclofenac and acetaminophen dim the acute phase response but amplify expression of the iron regulator hepcidin in liver cancer cells - PHH
+PXD054756	liver	True	Orbitrap Exploris 480	Data-independent acquisition	2024-08-09	18	Diclofenac and acetaminophen dim the acute phase response but amplify expression of the iron regulator hepcidin in liver cancer cells - HepG2
+PXD060829	lung	True	Q Exactive HF	Data-independent acquisition;Bottom-up proteomics	2025-02-14	18	Combination of in vivo and in vitro phosphoproteomics determines the PP2A target repertoire on proteome scale
+PXD061033	kidney	True	LTQ Orbitrap XL	Bottom-up proteomics	2025-02-21	18	Deciphering the impact of ectopic SNAI1 expression on renal tubular cell proteome and functions
+PXD064121	liver	True	Synapt MS	Data-independent acquisition	2025-05-20	18	Inhibiting FOXM1 Promotes Polyploidization and Metabolic Maturation in Human iPSC-Derived Hepatocytes by Modulating the Wnt/β-Catenin Pathway
+PXD064448	lung	True	Q Exactive HF	Data-independent acquisition;Bottom-up proteomics	2025-05-30	18	Tetrandrine-Driven Autophagy Suppresses SARS-CoV-2 Replication by Modulating Cholesterol and IGF Signaling Pathways: A Proteomic Analysis
+PXD067737	liver	True	Orbitrap Exploris 240	SRM/MRM	2025-08-26	18	Targeted quantitative analysis of specific proteins in cytosolic, mitochondrial, and nuclear fractions using PRM
+PXD067856	kidney	True	Q Exactive HF	Affinity purification coupled with mass spectrometry proteomics;Data-independent acquisition	2025-08-28	18	Human RNA ligase 1 as a novel regulator of ribosome function and translation under oxidative stress
+PXD071008	lung	True	Orbitrap Exploris 240	Bottom-up proteomics	2025-11-20	18	Lipid metabolism drives osimertinib resistance in non-small cell lung cancer
+PXD076503	placenta	True	Orbitrap Fusion Lumos	Data-independent acquisition;Bottom-up proteomics	2026-04-02	18	Identifying membrane-bound transcriptional regulatory proteins from rare but evolutionarily conserved domain combinations
+PXD058514	lung	True	Q Exactive HF	Data-independent acquisition	2024-12-03	17	Development of polyvalent folate receptor-targeting chimeras (FRTACs) for lysosomal degradation of membrane proteins
+PXD069999	kidney	True	Orbitrap Fusion Lumos	Affinity purification coupled with mass spectrometry proteomics	2025-10-29	17	Coordinated regulation of metabolic plasticity by the Hsp90 chaperones
+PXD073954	kidney	True	Orbitrap Exploris 480	Bottom-up proteomics	2026-02-03	17	Simultaneous profiling of native-state proteomes and transcriptomes of brain cell types using proximity labeling
+PXD052342	placenta	True	Q Exactive HF	Top-down proteomics	2024-05-17	16	TFEB controls syncytiotrophoblast formation and hormones production in placenta
+PXD053510	kidney	True	Orbitrap Exploris 480	Affinity purification coupled with mass spectrometry proteomics;Data-independent acquisition;Bottom-up proteomics	2024-06-29	16	Molecular insights into THUMPD2-mediated m2G methylation of the U6 snRNA
+PXD053701	kidney	True	Orbitrap Ascend	Bottom-up proteomics	2024-07-05	16	Biocompatible 'ligand balancing' in transition metal coordination allows benign in-cell protein arylation - 90 min 1f-labelling EXPT - Fragpipe offset search fo
+PXD053749	kidney	True	Orbitrap Ascend	Bottom-up proteomics	2024-07-08	16	Biocompatible 'ligand balancing' in transition metal coordination allows benign in-cell protein arylation - 90 min 1f-labelling EXPT - Maxquant for site idenfic
+PXD060847	kidney	True	Orbitrap Exploris 480	SRM/MRM;Bottom-up proteomics	2025-02-15	16	Comparative Analysis and Correlation of Cancer Hotspot Proteins and Cell Markers in Tumor-Normal Adjacent Breast and Kidney Samples Using RPPA and LC-MS – PRM d
+PXD061729	lung	True	Orbitrap Fusion;timsTOF SCP	Data-dependent acquisition;Data-independent acquisition;Bottom-up proteomics	2025-03-12	16	Revealing the unexpected interplay between the Proteasome Activator PA200 and the immunoproteasome
+PXD071538	liver	True	Orbitrap Astral	Bottom-up proteomics	2025-12-03	16	Liver-metastases restrict IL18-driven γδ T cell activity and immunotherapy responsiveness in colorectal cancer
+PXD073928	lung	True	Q Exactive HF	Data-independent acquisition	2026-02-02	16	AI-based digital pathology and spatial proteomics enable precision oncology: A case report of recurrent melanoma in a young patient
+PXD075266	kidney	True	Orbitrap Exploris 480	Data-dependent acquisition	2026-03-05	16	ALR Couples IMS Redox and Heme Biosynthesis Beyond the Disulfide Relay
+PXD076533	kidney	True	Q Exactive	Bottom-up proteomics	2026-04-03	16	Multi-Omics Analysis of PBMCs Highlights IRF8 Upregulation and Senescence Pathways in Hemodialysis Versus Peritoneal Dialysis.
+PXD077854	lung	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2026-04-30	16	Alterations in proteome and proteostasis networks during replicative senescence
+PXD014572	placenta	True	Q Exactive Plus	Shotgun proteomics	2019-07-11	15	Extracellular vesicles from therapeutic grade allogeneic human placental stromal cells induce angiogenesis and modulate immunity
+PXD055192	kidney	True	Orbitrap Fusion Lumos	Data-independent acquisition;Bottom-up proteomics	2024-08-26	15	Quantitative proteome profiling in HEK293 to validate RNAi targets
+PXD064241	kidney	True	Q Exactive HF-X	Data-dependent acquisition;Data-independent acquisition;Bottom-up proteomics	2025-05-23	15	The structure and composition of native human nucleosomes
+PXD067431	kidney	True	Orbitrap Exploris 480	Data-independent acquisition;Bottom-up proteomics	2025-08-18	15	Mechanism of ORMDL proteins turnover via proteasome and autophagy is cell-type dependent and tied to ceramide homeostasis
+PXD075247	kidney	True	Orbitrap Fusion Lumos	Data-independent acquisition;Bottom-up proteomics	2026-03-05	15	Competitive kinobead profiling of RAF inhibitors
+PXD019331	placenta	True	LTQ Orbitrap Elite	Shotgun proteomics	2020-05-22	14	H. sapiens First trimester placental villous explant 0conditioned media; galectin-7/BSA treatment; 2% O2
+PXD043007	liver	True	Orbitrap Exploris 480	SWATH MS	2023-06-15	14	Increased Basal MET phosphorylation is a Hallmark of Hepatocyte Dysregulation in Liver Disease: Human
+PXD036977	liver	True	Q Exactive	Shotgun proteomics	2022-09-25	13	Proteomic of huh7 grown in normal and glucose-deficient conditions
+PXD041166	liver	True	Orbitrap Fusion Lumos	Shotgun proteomics	2023-03-28	12	The histone deacetylase inhibitor romidepsin sensitizes HCC to receptor tyrosine kinase inhibitors in vitro and in vivo.
+PXD058272	lung	True	LCQ Classic	Bottom-up proteomics	2024-11-26	12	An endophyte-derived small molecule targets LIC1 to suppress lung tumor growth by inducing autophagy
+PXD060317	kidney	True	Orbitrap Eclipse	Data-dependent acquisition;Bottom-up proteomics	2025-01-29	12	ARMC1 shuttling regulates cellular mitochondrial distribution - whole cell proteome
+PXD061867	kidney	True	Orbitrap Fusion Lumos	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2025-03-14	12	Defining the interactome of ARID5B by AviTag protein pull-down coupled to quantitative mass spectrometry.
+PXD062976	kidney;lung	True	Q Exactive Plus	Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2025-04-15	12	Heme acts as a molecular degrader linking CRL2-FEM1B to substrate proteolysis and ferroptosis regulation in lung cancer
+PXD064255	kidney	True	Orbitrap Exploris 480	Affinity purification coupled with mass spectrometry proteomics	2025-05-24	12	TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin
+PXD068676	lung	True	Orbitrap Exploris 480	Data-independent acquisition;Bottom-up proteomics	2025-09-22	12	Exosomal Proteomics Reveals Fatty Acid Metabolism Linked to Gefitinib Resistance in Non-Small Cell Lung Cancer
+PXD072837	placenta	True	Orbitrap Fusion Lumos	Data-independent acquisition;Bottom-up proteomics	2026-01-09	12	Bioprinted 3D vascularized human placenta models recapitulate early and late stages of pregnancy
+PXD075232	liver	True	Orbitrap Exploris 480	Data-independent acquisition	2026-03-04	12	Utility of monocyte-derived cells to investigate immune-mediated drug-induced liver injury
+PXD027496	liver	True	LTQ Orbitrap Velos	Shotgun proteomics	2021-07-22	11	Global Lysine Acetylome Analysis of LPS-Stimulated HepG2 Cells Identifies Hyperacetylation of PKM2 as a Metabolic Reg-ulator in Sepsis
+PXD055250	lung	True	Orbitrap Exploris 480	Bottom-up proteomics	2024-08-27	11	The exosomal CD44 from bronchoalveolar lavage fluid as a biomarker for pulmonary fibrosis in diffuse parenchymal lung diseases
+PXD052837	liver	True	Q Exactive HF	Data-independent acquisition	2024-06-04	10	Human liver cancer cell Huh7 LC-MS/MS
+PXD053109	liver	True	Orbitrap Fusion Lumos	Bottom-up proteomics	2024-06-14	10	Alcohol-associated hepatitis induces hepatocyte senescence which is reduced following disease resolution
+PXD062924	liver	True	6520A Quadrupole Time-of-Flight LC/MS	Bottom-up proteomics	2025-04-14	10	Metabolomic and Proteomic Analysis of Renal Function After Liver Transplantation
+PXD064221	kidney	True	Q Exactive HF-X	Data-dependent acquisition;Data-independent acquisition	2025-05-23	10	The BRD4-nucleosome interaction is enhanced modestly and non-selectively by histone acetylation
+PXD074627	liver	True	Orbitrap Astral	Bottom-up proteomics	2026-02-19	10	RelB function in lipid metabolism
+PXD082163	lung	True	Q Exactive	Data-independent acquisition	2026-08-04	10	High-dose radiotherapy promotes tumor progression of lung adenocarcinoma by activating epithelial-mesenchymal transition via ZNF460-NBL1 axis
+PXD055559	kidney	True	Q Exactive	Bottom-up proteomics	2024-09-04	9	Fat1 is atarget antigen in de novo allograft membranous nephropoathy associated with antibody mediated rejection.
+PXD057963	placenta	True	Orbitrap Fusion	Data-independent acquisition	2024-11-16	9	Mass Spectrometric Analysis of Clomiphene Citrate-induced Changes in the Secretome Profile of PAX8-positive Human Fallopian Tube Secretory Epithelial Cells and 
+PXD058539	lung	True	Q Exactive HF	Data-independent acquisition	2024-12-03	9	Development of polyvalent folate receptor-targeting chimeras (FRTACs) for lysosomal degradation of membrane proteins
+PXD058523	lung	True	Q Exactive HF	Data-independent acquisition	2024-12-03	9	Development of polyvalent folate receptor-targeting chimeras (FRTACs) for lysosomal degradation of membrane proteins
+PXD058685	kidney	True	Orbitrap Exploris 480	Data-independent acquisition	2024-12-09	9	MS analysis of human kidney eRIC (enhanced RNA interactome capture)
+PXD064850	liver	True	Orbitrap Exploris 480	Data-independent acquisition	2025-06-11	9	RPL6 interacts with HMGCS1 to stabilize HIF-1α by promoting cholesterol production in hepatocellular carcinoma.
+PXD065445	kidney	True	Orbitrap Ascend	Data-independent acquisition	2025-06-25	9	SMARCA2/4 degradation tails mediate recruitment of two different E3 ligases 
+PXD065523	kidney	True	Orbitrap Astral	Data-independent acquisition	2025-06-26	9	SMARCA2/4 degradation tails mediate recruitment of two different E3 ligases 
+PXD068292	lung	True	Orbitrap Exploris 480	Data-independent acquisition	2025-09-11	9	Extracellular Vesicles from Human Induced Pluripotent Stem Cells Reduce Lung Ischemia Reperfusion Injury via Cytoprotective Mechanisms in 2D and 3D human in vit
+PXD072220	kidney	True	Orbitrap Exploris 240	Data-independent acquisition	2025-12-19	9	Copper-responsive proteome changes in human kidney proximal tubule epithelial cells
+PXD052062	liver	True	Q Exactive HF	Bottom-up proteomics	2024-05-07	8	E cadherin appears to be an important  on/off switch for initiating bile canaliculi formation
+PXD053619	kidney	True	Orbitrap Exploris 480	Data-dependent acquisition	2024-07-03	8	Molecular insights into THUMPD2-mediated m2G methylation of the U6 snRNA
+PXD058259	lung	True	LCQ Classic	Bottom-up proteomics	2024-11-26	8	LIC1(DYNC1LI1) IP–MS analysis in H1975 and HCC827
+PXD059843	kidney	True	Orbitrap Fusion	Gel-based experiment	2025-01-16	8	DNA2 and MSH2 activities collectively mediate environmental chemical compound stabilized G4 for efficient telomere replication
+PXD077797	lung	True	Orbitrap Astral	Data-independent acquisition	2026-04-29	8	Alterations in proteome and proteostasis networks during replicative senescence
+PXD063051	lung	True	Orbitrap Fusion	Bottom-up proteomics	2025-04-17	7	lung cancer sEV uptake by T cells
+PXD043719	liver	True	LTQ Orbitrap Elite	Affinity purification coupled with mass spectrometry proteomics	2023-07-12	6	Cullin-associated and neddylation-dissociated protein 1 (CAND1) alleviates NAFLD by reducing ubiquitinated degradation of ACAA2
+PXD051697	placenta	True	Q Exactive	Data-dependent acquisition;Gel-based experiment	2024-04-24	6	Placental growth factor mediates pathological uterine vasculature by activating the NFAT5-SGK1 mechano-signaling axis in the endometrium: Implications for pre-e
+PXD055348	kidney;liver	True	timsTOF Pro;Orbitrap Exploris 480	Data-dependent acquisition;Data-independent acquisition	2024-08-29	6	A HEV ORF2 protein-mediated mechanism of hepatitis E-associated kidney disease
+PXD057960	kidney	True	Orbitrap Exploris 480	Bottom-up proteomics	2024-11-16	6	Ubiquitinome Profiling: Optimizing the enrichment and Data-Independent Analysis for Deeper Insights into Targeted Protein Degradation
+PXD058027	lung	True	Orbitrap Eclipse	Data-independent acquisition;Bottom-up proteomics	2024-11-19	6	Proteomic analysis of BEAS-2B lung epithelial cells after the introduction of the BRAF V600E mutation using CRISPR/Cas9
+PXD066039	liver	True	Orbitrap Fusion	Data-independent acquisition	2025-07-11	6	Identification of Khib substrates of histone regulated by NAT10
+PXD067456	liver	True	Orbitrap Fusion	Data-independent acquisition	2025-08-18	6	Aptamer Drug Conjugates Inhibits Pancreatic Cancer Liver Metastasis Driven by SERBP1-TNF Signaling Pathway
+PXD071042	lung	True	Q Exactive HF	Data-independent acquisition	2025-11-21	6	TMEM160 Promotes Tumor Growth in Lung Adenocarcinoma and Cervical Adenocarcinoma Cell Lines
+PXD071371	kidney	True	Orbitrap Exploris 480	SRM/MRM;SWATH MS	2025-11-28	6	Scube2 primes Dispatched and ADAM10-mediated Shh release by recruiting HDL acceptors to the plasma membrane
+PXD075518	lung	True	Orbitrap Exploris 480	Data-independent acquisition	2026-03-11	6	Light-Controlled Disruption of Cancer Cell Dormancy via Photoswitchable Stress Hormone Receptor Degraders
+PXD077594	kidney	True	Orbitrap Astral	Data-independent acquisition	2026-04-24	6	Ubiquitinome Profiling: Optimizing the enrichment and Data-Independent Analysis for Deeper Insights into Targeted Protein Degradation
+PXD077916	kidney	True	Orbitrap Fusion Lumos;Orbitrap Exploris 480	Data-dependent acquisition;Data-independent acquisition;Bottom-up proteomics	2026-05-01	6	Dysfunction of a SET3C-like complex underlies a family of related neurological disorders
+PXD040208	kidney	True	Q Exactive HF	Shotgun proteomics	2023-02-16	5	Kinase Selectivity Profiling of anti-MRSA Diarylimidazoles in HEK293 Cells
+PXD054937	kidney	True	Orbitrap Exploris 480	Data-dependent acquisition	2024-08-15	4	Proteome of renal tubuli and serum differentiate pre-existing type 2 diabetes and post-transplant diabetes in kidney transplant recipients
+PXD060960	liver	True	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-02-19	4	Characterization of a new variant of SERPINA1 Gene Causing Alpha-1 Antitrypsin Deficiency
+PXD070855	lung	True	Orbitrap Exploris 240	Data-independent acquisition	2025-11-17	4	Extracellular Particles Derived from Mesenchymal Stromal Cells Reduce Pseudomonas aeruginosa Lung Infection and Inflammation in Mice
+PXD057889	kidney	True	Orbitrap Fusion	Data-independent acquisition	2024-11-14	3	CASK phosphorylation pattern in the presence of constitutively active HCK
+PXD061178	lung	True	timsTOF;Q Exactive HF	Data-dependent acquisition	2025-02-25	3	TCR targeting of KRAS G12V/C neoantigens is enhanced by lymphodepleting chemotherapy
+PXD064301	liver	True	Orbitrap Fusion Lumos;Orbitrap Fusion	Bottom-up proteomics	2025-05-26	3	Molecular Regulation and Physiological Role of GOLPH3-mediated Golgi retention
+PXD066482	liver	True	Q TRAP	SRM/MRM;Bottom-up proteomics	2025-07-23	3	Interindividual Variability in Imatinib Metabolism in Human Liver Microsomes and Primary Human Hepatocytes: Impact of CYP2C8 and CYP3A Phenotypes
+PXD067039	liver	True	Orbitrap Fusion Lumos	Affinity purification coupled with mass spectrometry proteomics;Gel-based experiment;Bottom-up proteomics	2025-08-07	3	p38β-mediated BiP phosphorylation drives stemness and chemoresistance by suppressing UPR activation in hepatocellular carcinoma
+PXD080574	kidney	True	Orbitrap Exploris 240	Data-independent acquisition	2026-07-06	3	Proteomic analysis of fibrosis staging in a case of IgG4-related tubulointerstitial nephritis
+PXD056884	liver	True	Q Exactive	Gel-based experiment	2024-10-17	2	Carbonic anhydrase 2 facilitates sorafenib resistance by counteracting MCT4-mediated intracellular pH dysregulation in hepatocellular carcinoma
+PXD057743	lung	True	Orbitrap Exploris 480	Top-down proteomics	2024-11-11	2	FGF13 in septic lung injury: A regulator of the ERK/aerobic glycolysis axis in the inflammatory state
+PXD063682	lung	True	Q Exactive	Data-independent acquisition	2025-05-07	2	DNAJC5 facilitates the proliferation and migration of lung adenocarcinoma cells by augmenting EGFR trafficking
+PXD066332	kidney	True	LTQ Orbitrap Elite	Bottom-up proteomics	2025-07-20	2	March5-mediated Trim28 degradation preserves islet β-cell function in mice
+PXD075393	placenta	True	Q Exactive	Shotgun proteomics	2026-03-09	2	Proteomic profiling of conditioned medium from rotational trophoblast organoids (hTOr)
+PXD083895	kidney	True	Orbitrap Fusion Lumos	Data-dependent acquisition	2026-09-09	2	First-in-human study of readthrough therapy in nonsense mutation Alport syndrome
+PXD042218	liver	True	Orbitrap Fusion	Affinity purification coupled with mass spectrometry proteomics	2023-05-15	1	PC4-mediated Ku PARylation facilitates NHEJ-dependent DNA damage repair
+PXD032981	placenta	True	autoflex	Shotgun proteomics	2022-04-03	0	Integrating multi-omics analyses unveil protein features of gestational diabetes mellitus and preeclampsia
+PXD030304	kidney;liver;lung;placenta	True	TripleTOF 6600	SWATH MS	2022-07-06	0	Pan-cancer proteomic map of 949 human cell lines (ProCan-DepMapSanger)
+PXD041412	liver	True	timsTOF Pro	Shotgun proteomics;SWATH MS	2023-04-08	0	Filter-aided expansion proteomics
+PXD042367	liver	True	timsTOF Pro 2;timsTOF SCP	Shotgun proteomics	2023-05-20	0	A framework for ultra-low input spatial tissue proteomics
+PXD047762	liver	True	timsTOF SCP	Bottom-up proteomics	2023-12-12	0	An automated and fast sample preparation workflow for laser microdissection guided ultrasensitive proteomics
+PXD052321	liver	True	6220 Time-of-Flight LC/MS	diaPASEF	2024-05-16	0	Protein and metabolic profiles of liver cancer cells
+PXD052895	kidney;liver	True	maXis	Data-independent acquisition	2024-06-06	0	Pharmacological and toxicological investigations of cystobactamids reveal binding and inhibition of HCV entry receptor SCARB1
+PXD054440	liver	True	Orbitrap Astral	Data-independent acquisition;Bottom-up proteomics	2024-07-31	0	The proteomic landscape of proteotoxic stress in a fibrogenic liver disease
+PXD054919	lung	True	timsTOF Pro	Data-independent acquisition;Bottom-up proteomics	2024-08-15	0	Global Profiling of Protein Lactylation, Crotonylation, Succinylation and Phosphorylation in Lung Adenocarcinoma Cell.
+PXD055635	lung	True	timsTOF Pro	Data-independent acquisition;Bottom-up proteomics	2024-09-06	0	Divergent molecular responses of bronchial human airway epithelium to SARS-CoV-2 infection in relation to pre-existing respiratory disease states
+PXD056392	liver	True	TripleTOF 5600	Data-independent acquisition	2024-09-30	0	VARS1 overexpression in hepatocellular carcinoma cell lines
+PXD056692	kidney	True	timsTOF Pro	Data-independent acquisition;Bottom-up proteomics	2024-10-10	0	Quantitative proteomics analysis reveals a protein concentration effect of neat urine compared to urine EVs
+PXD056702	lung	True	timsTOF Pro 2	Data-independent acquisition	2024-10-10	0	SARS-CoV-2 nsp15 enhances viral virulence by subverting host antiviral defenses
+PXD057148	kidney	True	timsTOF Pro 2	Bottom-up proteomics	2024-10-24	0	Immunoprecipitation/Pull-down of ATP6AP1-FLAG in HEK293 WT cells treated with and without a mitochondrial translation inhibitor
+PXD058457	lung	True	timsTOF SCP	Data-independent acquisition;Bottom-up proteomics	2024-12-02	0	High throughput single-cell proteomics of in-vivo cells
+PXD059015	lung	True	timsTOF HT	diaPASEF	2024-12-19	0	Proteomics and phosphoproteomics analysis primary human airway epithelial cells exposed to unflavored electronic cigarette smoke
+PXD059174	liver	True	timsTOF Pro	Data-independent acquisition	2024-12-23	0	Serological paroteomic biomarkers for monitoring liver fibrosis regression in on-treatment hepatities b patients
+PXD060086	liver	True	timsTOF Pro	Data-dependent acquisition;Bottom-up proteomics	2025-01-22	0	Plectin-mediated cytoskeletal crosstalk as a target for inhibition of hepatocellular carcinoma growth and metastasis – subcellular in vitro profiling
+PXD060464	kidney	True	TripleTOF 5600	Affinity purification coupled with mass spectrometry proteomics	2025-02-04	0	Targeting chaperone-mediated autophagy inhibits properties of glioblastoma stem cells and restores anti-tumor immunity
+PXD060921	placenta	True	timsTOF fleX	Data-independent acquisition;Bottom-up proteomics	2025-02-18	0	HCMV infection mitigate the ability of placental EVs to potentiate neurogenesis by altering their miRNA landscape
+PXD061011	kidney	True	timsTOF Pro	Data-independent acquisition;Bottom-up proteomics	2025-02-20	0	Deep visual multi-omics profiling reveals mechanisms that underly cancer cell differentiation and aggressiveness in clear cell renal cell carcinoma
+PXD061392	kidney	True	timsTOF Pro	Data-independent acquisition	2025-03-03	0	Proteomic insights into age-related changes in laser capture microdissected glomeruli of human kidney
+PXD061610	lung	True	timsTOF HT	Data-independent acquisition	2025-03-08	0	GAPDH inhibition in A549 and H358 lung cancer cells
+PXD062227	lung	True	timsTOF Pro	Affinity purification coupled with mass spectrometry proteomics;diaPASEF;Data-independent acquisition;Bottom-up proteomics	2025-03-25	0	Covalent inhibitor design confers activity against both GDP- and GTP-bound forms of KRAS G12C
+PXD062492	liver	True	Orbitrap Astral	Bottom-up proteomics	2025-04-02	0	Proteome-guided drug development of effective androgen receptor degraders for prostate cancer
+PXD062503	lung	True	timsTOF HT	Data-independent acquisition	2025-04-02	0	Effects of hypoxia on lung cancer cells
+PXD063833	liver	True	timsTOF Pro 2	mass spectrometry imaging	2025-05-10	0	Serological paroteomic biomarkers for monitoring liver fibrosis regression in on-treatment hepatities b patients
+PXD065380	kidney	True	timsTOF Pro 2	Data-independent acquisition	2025-06-24	0	Protein Expression Profiling in Urinary Extracellular Vesicles Isolated from Patients with Chronic Kidney Disease and Renal Transplantation
+PXD065687	kidney	True	maXis	Bottom-up proteomics	2025-07-02	0	Shiga toxin-positive extracellular vesicles induce higher mortality and more kidney injury than free toxin 
+PXD065892	liver	True	timsTOF	Bottom-up proteomics	2025-07-08	0	Diagnostics of autoimmune hepatitis enabled by non-invasive clinical proteomics
+PXD066110	kidney	True	timsTOF HT	Data-independent acquisition;Bottom-up proteomics	2025-07-14	0	PROTAC repurposing uncovers a noncanonical binding surface that mediates chemical degradation of nuclear receptors
+PXD066262	kidney	True	timsTOF HT	diaPASEF;Bottom-up proteomics	2025-07-17	0	Novel CDK-independent function of CDC25 phosphatases in mRNA translation
+PXD068733	placenta	True	maXis	Data-dependent acquisition	2025-09-23	0	Proteomic Epithelial-To-Mesenchymal Transition Signature in Fetoplacental Small Extracellular Vesicles of Early-Onset Preeclampsia
+PXD068873	liver	True	timsTOF	Data-independent acquisition	2025-09-26	0	RAB1A is a novel vulnerability in uveal melanoma revealed by  dual inhibition of MNK1/2 and mTOR
+PXD068995	lung	True	timsTOF Pro	Bottom-up proteomics	2025-09-30	0	PROTAC Mediated Structure-Function Disruption of CD26 A Therapeutic Strategy for Driver Negative NSCLC
+PXD069074	lung;placenta	True	Bruker Daltonics timsTOF series	Data-independent acquisition	2025-10-02	0	Lung adenocarcinoma surfaceome remodeling with EGFR inhibitors uncovers placental alkaline phosphatase as a target for combination therapy
+PXD069877	liver	True	timsUltra AIP	Data-independent acquisition;Bottom-up proteomics	2025-10-24	0	An ultrasensitive spatial tissue proteomics workflow exceeding 100 proteomes per day
+PXD070121	kidney	True	timsTOF Ultra	diaPASEF;Data-independent acquisition;Bottom-up proteomics	2025-10-30	0	Design and evaluation of  universal control antisense oligonucleotides  across cellular models
+PXD070147	lung	True	Bruker Daltonics timsTOF series	Data-independent acquisition	2025-10-31	0	Proteomic Analysis of Patient-Derived Lung Tumoroids and Matched Organoids Compared to Parental Tumors and Tissues
+PXD070247	kidney	True	impact II	Data-independent acquisition;Bottom-up proteomics	2025-11-03	0	"Proteomics data for ""A single-amino-acid cleavage controls global mitochondrial complex integrity"""
+PXD070837	liver	True	timsTOF HT	Data-independent acquisition	2025-11-17	0	Iron Toxicity targeting mitochondrial Iron-Sulfur cluster enzymes
+PXD071391	kidney	True	timsTOF HT	Affinity purification coupled with mass spectrometry proteomics;Data-independent acquisition;Bottom-up proteomics	2025-11-30	0	A reference map of the ERK pathway interactome. Systematic and combinatorial (TurboID-MS) mapping of protein-protein interactions in the ERK pathway and their p
+PXD071453	kidney	True	timsTOF HT	Affinity purification coupled with mass spectrometry proteomics;Data-independent acquisition;Bottom-up proteomics	2025-12-02	0	A reference map of the ERK pathway interactome. Systematic and combinatorial (AP-MS) mapping of protein-protein interactions in the ERK pathway and their pertur
+PXD071497	placenta	True	timsTOF fleX	HDMSE	2025-12-03	0	BAP1 dysregulation impairs trophoblast differentiation and contributes to placental dysfunction in preeclampsia
+PXD072882	lung;placenta	True	timsTOF Ultra;timsTOF Ultra 2	diaPASEF;Data-independent acquisition;Bottom-up proteomics	2026-01-10	0	OpenDVP: An experimental and computational framework for community-empowered deep visual proteomics
+PXD073256	lung	True	timsTOF Pro	Data-dependent acquisition	2026-01-20	0	Pharmacological inhibition of nonsense-mediated mRNA decay enhances anti-tumor immunity
+PXD074164	kidney	True	timsTOF Pro	Affinity purification coupled with mass spectrometry proteomics	2026-02-06	0	Identification of MELK-mediated Cofilin-1 T70 phosphorylation by IP-LC-MS/MS analysis
+PXD074792	placenta	True	timsTOF HT	Data-independent acquisition;Bottom-up proteomics	2026-02-24	0	Multi-omic profiling of early pregnancy small and large plasma extracellular vesicles reveals placental, metabolic, and structural adaptation signatures
+PXD074780	placenta	True	ZenoTOF 7600	Data-dependent acquisition;SWATH MS;Data-independent acquisition	2026-02-24	0	An integrated proteome and phospho-proteome approach to study BPA toxicity on placenta.
+PXD075459	kidney	True	timsTOF SCP	diaPASEF;Data-independent acquisition;Bottom-up proteomics	2026-03-10	0	Uncovering the Role of Proteasome Activator PA200 in Regulating the Immunoproteasome
+PXD076103	lung	True	timsTOF Pro	Data-independent acquisition	2026-03-25	0	Functional diversity of natural human IFNB1 variants in innate immunity
+PXD076703	kidney	True	timsTOF HT	Affinity purification coupled with mass spectrometry proteomics;Data-independent acquisition;Bottom-up proteomics	2026-04-07	0	Anti-FLAG co-immunoprecipitation of N- or C-terminally FLAG-HA-tagged FAM98A, FAM98B and FAM98C, from HEK Flp-In T-REx 293 cells.
+PXD076863	liver	True	LTQ Orbitrap Elite	Data-dependent acquisition	2026-04-10	0	Tripartite motif 46 aggravates MASLD progression by suppressing SGPL1- mediated hepatic lipophagy
+PXD078417	kidney	True	timsTOF Ultra	Data-dependent acquisition;Glycoproteomics;Bottom-up proteomics	2026-05-15	0	Site-specific Glycan Pattern Characterization of GPR55 Using LC-IMS-MS/MS
+PXD078554	lung	True	timsTOF Pro	diaPASEF;Bottom-up proteomics	2026-05-19	0	Qualitative assessment of nasopharyngeal aspirates as an alternative to tracheal aspirates in extremely preterm infants
+PXD079002	kidney	True	timsTOF Pro 2	Data-independent acquisition	2026-05-28	0	HK2 cells DDX18-LC-MS/MS analysis
+PXD080067	lung	True	timsTOF HT	Data-dependent acquisition;diaPASEF;Data-independent acquisition;Bottom-up proteomics	2026-06-23	0	Whole-proteome profiling of human lung cancer brain metastasis-associated fibroblasts
+PXD081638	kidney	True	timsTOF Pro	diaPASEF;Bottom-up proteomics	2026-07-25	0	Batten disease protein CLN8 enables a non-canonical phospholipid synthesis pathway
+PXD083842	liver	True	timsTOF	Data-independent acquisition;Bottom-up proteomics	2026-09-08	0	Proteomic Profiling of Liver and Plasma Uncovers Biomarkers and Mechanisms in Patients with Primary Biliary Cholangitis
+PXD083885	kidney	True	timsTOF HT	Chemical cross-linking coupled with mass spectrometry proteomics;Top-down proteomics;Data-independent acquisition	2026-09-09	0	Nuclear TRiC states captured in situ
+PXD085732	kidney;liver;lung;placenta	True	Orbitrap Eclipse;timsTOF Pro;TripleTOF 5600;TripleTOF 6600;Orbitrap Astral;ZenoTOF 8600;timsTOF HT;Q Exactive Plus;Orbitrap Exploris 480;timsTOF SCP;Q Exactive	Data-independent acquisition	2026-10-16	0	quantmsdiann reanalysis of public single-cell, spatial, phosphoproteomics and bulk DIA datasets
+PXD015087	placenta	False	Orbitrap Fusion Lumos;Q Exactive HF-X;Q Exactive HF	Affinity purification coupled with mass spectrometry proteomics;Shotgun proteomics	2019-08-23	2368	High-flow chromatography for reproducible and high-throughput quantification of proteomes
+PXD000561	kidney;liver;lung;placenta	False	LTQ Orbitrap Velos;LTQ Orbitrap Elite	Bottom-up proteomics	2014-02-25	2212	A draft map of the human proteome
+PXD039339	kidney;liver;lung;placenta	False	LTQ Orbitrap Velos;LTQ Orbitrap Elite	Shotgun proteomics	2023-01-09	2210	Tissue expression of N-terminal proteoforms.
+PXD059303	liver;lung	False	Orbitrap Fusion Lumos	Data-dependent acquisition	2024-12-30	2160	Regulation of protein abundance in normal human tissues
+PXD010899	placenta	False	Q Exactive	Shotgun proteomics	2018-08-28	2097	Plasma Hirief -  In-depth human plasma proteome analysis captures tissue proteins and transfer of protein variants across the placenta
+PXD010154	kidney;liver;lung;placenta	False	Orbitrap Fusion Lumos;Q Exactive Plus;Q Exactive HF	Shotgun proteomics	2019-07-10	1809	A deep proteome and transcriptome abundance atlas of 29 healthy human tissues
+PXD074569	liver	False	Synapt MS	Bottom-up proteomics	2026-02-18	879	Glycoproteomic and genetic analysis of N-glycosylation of complement component C3 reveals immune pathway regulation
+PXD021391	kidney;liver;lung;placenta	False	Q Exactive	Shotgun proteomics	2020-10-29	723	Identification of missing proteins in the proteome atlas of multiple healthy human tissues
+PXD058436	kidney;liver;lung	False	timsTOF Pro 2	Bottom-up proteomics	2024-11-30	639	MHCquant2 refines immunopeptidomics tumor antigen discovery
+PXD006291	kidney;liver;placenta	False	Q Exactive	Shotgun proteomics	2017-04-13	618	HiRIEFII proteomics and proteogenomics of A431 cells and five histologically normal tissues
+PXD052447	kidney;liver	False	Orbitrap Fusion Lumos;Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2024-05-21	468	Deep quantitative glycoproteomics reveals gut microbiome induced remodeling of the brain glycoproteome
+PXD041694	placenta	False	Orbitrap Fusion Lumos	All-ion fragmentation	2023-04-20	411	Prenatal Exposure to Metals Alters the Placental Inflammatory Proteome in a Sex-Dependent Manner in Extremely Low Gestational Age Newborns
+PXD061075	kidney	False	Orbitrap Eclipse;LTQ Orbitrap Elite	Data-dependent acquisition;Bottom-up proteomics	2025-02-22	407	Clear Cell Renal Cell Carcinoma Serum and Tissue Proteomics
+PXD072437	kidney	False	Q Exactive HF	Immunopeptidomics	2025-12-26	358	Mass Spectrometry-Based Profiling of Personalized Immunopeptidomes in Thai Renal Cell Carcinoma
+PXD069065	kidney	False	TripleTOF 5600	Data-dependent acquisition;Bottom-up proteomics	2025-10-02	330	Proteomic profiling of saliva, salivary stones and kidney stones reveals candidate biomarkers of pathological calcification
+PXD079659	kidney	False	Orbitrap Eclipse	Bottom-up proteomics	2026-06-13	291	Cysteine reactivity profiling links metabolic rewiring to the dysfunctional human T cell proteome.
+PXD010630	placenta	False	Orbitrap Fusion Lumos	Shotgun proteomics	2018-07-31	240	Improvement of Peptide Separation for Exploring the Missing Proteins Localized on Membranes
+PXD064195	liver	False	Q Exactive HF-X	Bottom-up proteomics	2025-05-22	205	A H2O2-Free Proximity Proteomics Technology for Exploring Dynamic Protein Complexes in Living Systems
+PXD067975	lung	False	Orbitrap Fusion	Bottom-up proteomics	2025-09-02	192	Integrated phenotypic screening and chemical proteomics identifies ETF1 ligands that modulate viral translation and replication
+PXD002967	kidney;liver;lung;placenta	False	LTQ Orbitrap Velos;LTQ Orbitrap Elite	Shotgun proteomics;Gel-based experiment	2015-09-24	189	Improving Human Genome Annotation Using a High-Stringency Proteogenomics Workflow
+PXD060076	lung	False	Q Exactive HF	Bottom-up proteomics	2025-01-22	185	Ultrafast proteomics revealed everolimus-induced inhibition of 20S proteasome subunit
+PXD079508	kidney	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2026-06-10	165	Optimised haemoglobin depletion improves clinical proteomics from dried blood spots C4PR_LIV
+PXD036643	liver	False	Q Exactive HF	Shotgun proteomics	2022-09-12	162	Proteome of Human hepatocellular carcinoma cell lines
+PXD055643	lung	False	Q Exactive Plus	Bottom-up proteomics	2024-09-06	158	Paralog protein compensation preserves protein-protein interaction networks following gene loss cancer
+PXD086821	kidney	False	Q Exactive	Data-dependent acquisition	2026-11-04	146	SCoPE2 (preprint): High-throughput single-cell proteomics quantifies the emergence of macrophage heterogeneity
+PXD071583	lung	False	Orbitrap Fusion Lumos	Bottom-up proteomics	2025-12-04	144	Hexosamine Biosynthetic Pathway-Induced Cytoskeletal Remodeling: A Potential Driver for Early-Stage Non-Small Cell Lung Cancer
+PXD053494	kidney	False	Q Exactive	Chemical cross-linking coupled with mass spectrometry proteomics	2024-06-28	141	irCLIP-RNP reveals patterns of dynamic protein associations on RNA
+PXD036306	placenta	False	Orbitrap Fusion	Top-down proteomics	2022-08-25	139	Global microRNA and protein expression in human term placenta
+PXD056096	kidney	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2024-09-23	126	Dynamic multi-omics and mechanistic modeling approach uncovers novel mechanisms of kidney fibrosis progression
+PXD003419	placenta	False	LTQ	SRM/MRM;Shotgun proteomics	2016-01-05	120	Expression changes of proteins associated with the development of preeclampsia in maternal plasma: a case control study
+PXD053362	kidney	False	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2024-06-24	113	Proteomic profiling of kidney biopsies in nephrotic syndrome
+PXD057034	liver	False	Orbitrap Eclipse	Bottom-up proteomics	2024-10-21	111	Human zinc binding cysteine proteome
+PXD063763	lung	False	Q Exactive HF-X;Q Exactive HF	Bottom-up proteomics	2025-05-08	110	Cholesterol Regulates Airway Epithelial Cell Differentiation by Inhibiting p53 Nuclear Translocation
+PXD077096	lung	False	Orbitrap Exploris 480	Data-dependent acquisition;Gel-based experiment;Bottom-up proteomics	2026-04-14	110	Lung cancer patients display increased expression of Bovine Meat and Milk Factor (BMMF) proteins in peritumor alveolar macrophages
+PXD048968	liver	False	Q Exactive	Data-dependent acquisition	2024-01-29	109	A multi-omics approach to elucidate okadaic acid-induced changes in human HepaRG hepatocarcinoma cells
+PXD075520	lung	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2026-03-11	108	Surface proteomics of cancer-derived extracellular vesicles reveals universal heat shock proteins and cancer signatures
+PXD068296	kidney	False	Orbitrap Exploris 480	Data-dependent acquisition	2025-09-11	104	Mass spectrometry analysis of protein interactions with engineered CRISPR activators
+PXD062999	liver	False	Orbitrap Fusion	Gel-based experiment	2025-04-15	101	Comprehensive Proteome Profiling of Cytochrome P450 Isoforms in Cancer Models
+PXD059194	liver	False	Q Exactive Plus	Bottom-up proteomics	2024-12-23	99	Quantitative reactivity profiling of functional arginines in the human proteome
+PXD056666	kidney	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2024-10-09	96	Deep phosphoproteomic analaysis of the response to EGF in HEK293 cells
+PXD063448	lung	False	Q Exactive HF	Bottom-up proteomics	2025-04-29	95	Phosphoproteomics of cellular mechanosensing reveals NFATC4 as a regulator of myofibroblast activity
+PXD043683	liver	False	Q Exactive Plus	Shotgun proteomics	2023-07-11	93	Determination of the mechanisms of hepatotoxicity induced by chlordecone and chlordecol from HepaRG cells and proteomic analyzes
+PXD020192	kidney;liver;lung;placenta	False	Q Exactive HF	Shotgun proteomics	2020-07-04	92	Proteomic Profiling of the Human Tissue and Biological Fluid Proteome
+PXD081656	lung	False	Orbitrap Fusion	Data-dependent acquisition;Bottom-up proteomics	2026-07-25	90	Dual-species proteomic analysis of Pseudomonas aeruginosa and human airway epithelial cells during bacterial adhesion and intracellular infection
+PXD064675	kidney	False	Q Exactive	Bottom-up proteomics	2025-06-05	89	Complex II assembly drives metabolic adaptation to OXPHOS dysfunction.
+PXD038776	liver	False	Q Exactive HF	Shotgun proteomics	2022-12-13	88	Quantitative LC-MS/MS Proteomics of human liver microsomes (healthy controls and normal-tumour from cancer patients)
+PXD011443	placenta	False	LTQ Orbitrap Elite	Shotgun proteomics	2018-10-22	86	Effects of vitamin D on the placental proteomic profile
+PXD057705	lung	False	Orbitrap Fusion	Bottom-up proteomics	2024-11-10	82	Prosit-XL: enhanced cross-linked peptide identification by accurate fragment intensity prediction to study protein-protein interactions and protein structures
+PXD056281	kidney	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2024-09-26	81	A patient-derived 3D cyst model of polycystic kidney disease that mimics disease development, expresses relevant drug targets and responds to repurposing candid
+PXD081942	liver	False	Q Exactive HF	Data-dependent acquisition	2026-07-31	81	Integrated Proteome and Phosphoproteome Profiling to Investigate Reveals Abundance-Independent Phosphorylation Remodeling in Hepatocellular Carcinoma
+PXD053236	kidney	False	Q Exactive	Affinity purification coupled with mass spectrometry proteomics;Gel-based experiment	2024-06-19	80	Flnc d18-21/d1-3 pulldown experiments
+PXD063660	kidney	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2025-05-06	72	Identification of drug repurposing candidates for the treatment of polycystic kidney disease - Bardoxolone methyl
+PXD063666	kidney	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2025-05-06	72	Identification of drug repurposing candidates for the treatment of polycystic kidney disease - Salicylic acid
+PXD063662	kidney	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2025-05-06	72	Identification of drug repurposing candidates for the treatment of polycystic kidney disease - Birinapant
+PXD064751	lung	False	Orbitrap Fusion Lumos	Data-dependent acquisition	2025-06-09	72	Quantitative proteomics of MYDGF knockdown in lung adenocarcinoma cells
+PXD066683	lung	False	Orbitrap Exploris 480	Bottom-up proteomics	2025-07-28	72	New proteomic signature in circulating extracellular vesicles from tumor-draining and peripheral veins of patients with lung adenocarcinoma
+PXD071440	kidney	False	Orbitrap Ascend	Bottom-up proteomics	2025-12-01	72	Dose-Dependent Inhibition of Protein Glycosylation Reveals Crosstalk Between Glycosylation and Phosphorylation in EGF Signaling Pathways
+PXD076643	lung	False	Q Exactive	Data-dependent acquisition;Bottom-up proteomics	2026-04-07	72	Comparison of arsenite and cadmium: Metal homeostasis and cellular stress response in human bronchial cells
+PXD080006	placenta	False	ZenoTOF 7600	SRM/MRM	2026-06-22	72	An integrated proteome and phospho-proteome approach to study BPA toxicity on placenta.
+PXD044031	liver	False	Q Exactive Plus	Shotgun proteomics	2023-07-24	71	YAP overexpression in hepatocytes influences a specific fibrosis profile in alcohol-related hepatitis
+PXD028927	liver	False	Orbitrap Eclipse	Shotgun proteomics	2021-10-04	69	Normalization of Organ-on-a-Chip Samples for Mass Spectrometry Based Proteomics and Metabolomics via Dansylation-based Assay
+PXD056224	kidney	False	Orbitrap Fusion	Data-dependent acquisition	2024-09-25	68	Development of a capillary electrophoresis coupled to mass spectrometry pipeline for comparable assessment of the plasma peptidome
+PXD028343	placenta	False	Orbitrap Fusion	Shotgun proteomics	2021-09-09	63	PROTEOMIC PROFILING OF AMNIOS FOR PRETERM BIRTH BIOMARKER DISCOVERY
+PXD064658	kidney	False	Q Exactive	Gel-based experiment	2025-06-05	60	Complex II assembly drives metabolic adaptation to OXPHOS dysfunction
+PXD027268	lung	False	Orbitrap Fusion Lumos	Affinity purification coupled with mass spectrometry proteomics;Gel-based experiment	2021-07-13	56	Nuclear-capture of endosomes drives depletion of nuclear G-actin to promote SRF/MRTF gene expression and cancer cell invasiveness (part 2: Surface and Nuclear P
+PXD067225	lung	False	Orbitrap Fusion	Data-dependent acquisition;Bottom-up proteomics	2025-08-11	56	Effect of heat-shock on total, poly-ubiquitylated, and insoluble proteomes of human IMR-90 fibroblasts in different proliferation states
+PXD009825	placenta	False	LTQ Orbitrap Elite	Shotgun proteomics	2018-05-18	55	The effect of bile acids on human placental proteome
+PXD035758	liver	False	LTQ Orbitrap Velos	Shotgun proteomics	2022-08-02	54	Characterization of RAS/RAF/ERK signal cascade as a novel regulating factor in alpha-amanitin-induced liver injury
+PXD062280	lung	False	Orbitrap Eclipse	Top-down proteomics	2025-03-27	54	Single-vesicle heterogeneity and uptake of extracellular vesicles affected by oncogenic KRAS and BRAF revealed by proteomics and nano-flow cytometry
+PXD066625	kidney	False	Orbitrap Ascend	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics	2025-07-28	53	ASAP-ID: Proximity labelling with small tags
+PXD052956	liver	False	Orbitrap Fusion Lumos;Orbitrap Exploris 480	Bottom-up proteomics	2024-06-10	52	Chemogenomic screening in a patient-derived 3D model of metabolic dysfunction-associated steatohepatitis reveals the CHRM1-TRPM8 axis as a novel module for targ
+PXD029200	liver	False	Orbitrap Fusion Lumos	Shotgun proteomics	2021-10-18	51	Label-free proteomic analysis of hepatocyte spheroids fed physiologically relevant levels of palmitic acid and oleic acid to mimic non-alcoholic fatty liver dis
+PXD028169	liver	False	LTQ Orbitrap Elite	Shotgun proteomics	2021-08-27	50	Characterization of the mitochondrial proteome of human cells (MitoCoP)
+PXD067654	kidney	False	LTQ FT;LTQ Orbitrap	Bottom-up proteomics	2025-08-24	49	Oligosaccharyltransferase is involved in targeting to ER-associated degradation
+PXD051174	placenta	False	Q Exactive	Data-dependent acquisition	2024-04-03	48	Proteomic profiling of unannotated microproteins in human placenta reveals XRCC6P1 as a negative regulator of translation
+PXD053100	kidney	False	Orbitrap Eclipse;Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2024-06-14	48	Cellular dsRNA interactome captured by K1 antibody reveals the regulatory map of exogenous RNA sensing
+PXD059343	lung	False	Orbitrap Exploris 240	Bottom-up proteomics	2025-01-01	48	Quantitative proteomics analysis of histone modifications from NSD2 inhibitor treated lung and pancreatic cancer cell lines.
+PXD062618	kidney	False	Orbitrap Eclipse	Data-dependent acquisition;Bottom-up proteomics	2025-04-04	48	Proteomic Profiling Of Bladder Cancer Patients-Derived Extracellular Vesicles
+PXD063113	lung	False	Orbitrap Exploris 480	Bottom-up proteomics	2025-04-18	48	Dual targeting of RET and SRC synergizes in RET fusion-positive cancer cells
+PXD067270	liver	False	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-08-12	48	Proteomic profiling during normothermic perfusion predicts liver graft quality and outcomes after transplantation
+PXD074652	kidney	False	LTQ Orbitrap Velos Pro	Bottom-up proteomics	2026-02-19	48	Peroxisome-derived ether lipids regulate lysosomal homeostasis through exocytosis control
+PXD000754	placenta	False	LTQ Orbitrap	Shotgun proteomics	2014-02-12	47	Human Placenta profilling LTQ-OrbiTrap
+PXD033006	placenta	False	Orbitrap Fusion Lumos	Shotgun proteomics	2022-04-06	45	Placental macrophage (Hofbauer cell) response to viral and bacterial ligands is influenced by fetal sex
+PXD036109	placenta	False	Orbitrap Fusion Lumos	Shotgun proteomics	2022-08-16	45	Placental mammal derived microRNAs alter pathways in the endometrial epithelia important for endometrial function
+PXD074193	lung	False	Orbitrap Exploris 480	Proteogenomics	2026-02-08	44	RNA pulldown–mass spectrometry profiling of senescence-associated lncRNA–binding proteins in human WI-38 fibroblasts
+PXD071054	kidney	False	Orbitrap Eclipse	Bottom-up proteomics	2025-11-21	43	Systematic characterization of cancer-associated SPOP mutants reveals novel and reprogrammable degradative activities
+PXD014300	placenta	False	LTQ Orbitrap Elite;Q Exactive	Shotgun proteomics	2019-06-19	42	Chr18 Consortium MS-data for missing proteins mining
+PXD054221	kidney	False	LTQ Orbitrap Elite	Affinity purification coupled with mass spectrometry proteomics	2024-07-25	42	Physical interaction with Ephrin B1 promotes CXCR4 intracellular localization and oncogenic potential
+PXD061236	liver	False	LTQ Orbitrap Elite	All-ion fragmentation	2025-02-26	42	Discovering nanoparticle corona ligands responsible for liver macrophage capture
+PXD081880	kidney	False	Q Exactive	Bottom-up proteomics	2026-07-29	42	Integrative transcriptomic and proteomic analysis unveils dynamic molecular responses to single, dual, and triple plasmid transfection of HEK293 cells for recom
+PXD057947	liver	False	Q Exactive HF	Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2024-11-15	40	Dengue virus and Zika virus alter endoplasmic reticulum-mitochondria contact sites to regulate respiration and apoptosis
+PXD069085	lung	False	Orbitrap Astral	SRM/MRM;Bottom-up proteomics	2025-10-02	40	Alterations in proteome and proteostasis networks during replicative senescence
+PXD076021	lung	False	orbitrap	Data-dependent acquisition;Bottom-up proteomics	2026-03-23	40	Comparative proteomic analysis of extracellular microvesicles: identification of VPS13A, HMOX1 and IMMT as possible combined indicators of malignancy in lung ca
+PXD057348	lung	False	Orbitrap Fusion	Data-dependent acquisition	2024-10-30	39	Proteomic analysis of extracellular vesicles identifies CDCP1 as critical metastasis-related glycoprotein in lung cancer
+PXD030822	liver	False	Q Exactive	Shotgun proteomics	2022-01-07	36	Omics-characterization of tebufenpyrad effects on liver cells
+PXD031045	liver	False	Q Exactive	Shotgun proteomics	2022-01-18	36	Omics-characterization of tebufenpyrad effects on HepaRG : cell culture medium
+PXD055260	kidney	False	Q Exactive Plus	Bottom-up proteomics	2024-08-27	36	Exosomal proteome profiling of human proximal tubular epithelial cells in treatment with TGF-beta
+PXD063926	kidney	False	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-05-14	36	Multisite phosphorylation of intrinsically disordered region of DVL
+PXD069220	lung	False	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-10-08	36	Secreted ORF8 reprograms macrophages to enhance SARS-CoV-2 infection of lung epithelial cells
+PXD070632	placenta	False	Orbitrap Fusion Lumos;timsTOF SCP	Data-dependent acquisition;Bottom-up proteomics	2025-11-12	36	Unraveling the matrix: Proteomic profiling reveals stromal ECM dysregulation in severe early-onset fetal growth restriction
+PXD080046	kidney	False	Q Exactive HF-X	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2026-06-23	36	Proximity-dependent TurboID labeling screen on the LAMTOR complex
+PXD063904	kidney	False	Orbitrap Eclipse	Data-dependent acquisition	2025-05-14	33	Untargeted Urinary Proteomics Uncovers Nephroprotective and Systemic Adaptations after Obesity Surgery Induced Weight Loss
+PXD057373	lung	False	Orbitrap Fusion Lumos	Bottom-up proteomics	2024-10-30	32	Morpholino nicotinamide analogs of ponatinib, dual MNK, p70S6K inhibitors, display efficacy against lung and breast cancers
+PXD066357	lung	False	Q Exactive HF-X	Bottom-up proteomics	2025-07-21	32	COLLAGEN POST-TRANSLATIONAL MODIFICATIONS ARE ALTERED IN IPF INCLUDING WITHIN ECM RECEPTOR BINDING MOTIFS
+PXD029228	liver	False	Q Exactive	Affinity purification coupled with mass spectrometry proteomics	2022-02-22	30	Dysregulated RNA polyadenylation contributes to metabolic impairment in non-alcoholic fatty liver disease
+PXD041088	placenta	False	LTQ Orbitrap Elite	Shotgun proteomics	2023-03-24	30	LC-MS proteomic characterization of human amniotic mesenchymal stromal cells secretome
+PXD056300	kidney;liver;lung	False	LTQ Orbitrap Elite	Data-dependent acquisition	2024-09-26	30	Identification of a 5-gene Signature Panel for the Prediction of Prostate Cancer Progression
+PXD065760	kidney	False	Orbitrap Ascend	Bottom-up proteomics	2025-07-03	30	Discovery of a CNS active GSK3 degrader using orthogonally reactive linker screening
+PXD067948	placenta	False	Orbitrap Fusion Lumos	Bottom-up proteomics	2025-09-01	30	The embryo-derived protein PDI is highly conserved among placental mammals and alters the function of the endometrium in species with different implantation str
+PXD008079	placenta	False	Q Exactive	Shotgun proteomics	2017-10-31	29	Integrated proteomics reveals apoptosis-related mechanisms associated with past-chronic stage of placental malaria
+PXD073804	placenta	False	Orbitrap Fusion Lumos	Affinity purification coupled with mass spectrometry proteomics	2026-01-30	29	RhoBTB1 Binding Proteins in Placenta Detected by APEX2
+PXD063199	kidney	False	Orbitrap Eclipse	Data-dependent acquisition	2025-04-22	28	Proteomics from centrosome-enriched fractions of Jurkat E6-1 human T cells, human embryonic kidney 293 cells, resting human T lymphoblasts and activated human T
+PXD063962	lung	False	LCQ Classic	Data-dependent acquisition	2025-05-15	28	Dysregulation of RAS degradation limits the efficacy of RAS inhibitors via reprogramming amino acid sensing machinery
+PXD072667	liver	False	Q Exactive HF	Bottom-up proteomics	2026-01-05	28	Toxicoproteomics of HepG2 Reveals Translational Biomarkers of Paracetamol-Induced Liver Injury and Recovery
+PXD079076	lung	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2026-05-30	28	Dissecting early AXL signaling regulators and associated phenotypes in erlotinib-treated EGFR mutant lung cancer by phophosite perturbations
+PXD056428	liver	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2024-10-01	27	Animal product-free culture conditions for 3D primary human hepatocyte spheroids improve long-term viability and drug metabolism
+PXD059885	liver	False	LTQ Orbitrap Velos	Data-dependent acquisition;Bottom-up proteomics	2025-01-16	27	SILAC-Based Characterization of Plasma-Derived Extracellular Vesicles in Patients Undergoing Partial Hepatectomy
+PXD070656	liver;lung	False	Q Exactive HF	Data-dependent acquisition	2025-11-13	26	ProxiCapture reveals context-dependent CRBN interactome landscape of molecular glue degraders
+PXD074511	lung	False	Orbitrap Exploris 480	Data-dependent acquisition	2026-02-16	26	Proteomic Screening Lung Adenocarcinoma Specific Migrasome Proteins
+PXD008970	kidney;liver;lung;placenta	False	Thermo Scientific instrument model;Q Exactive	Shotgun proteomics	2018-02-16	25	Protein citrullination in human tissues
+PXD055217	liver	False	Q Exactive	Gel-based experiment	2024-08-27	25	Determine G6PD/PHGDH deamidation in HepG2 cells with CAD depletion or in cell cycles
+PXD004723	placenta	False	LTQ Orbitrap	Shotgun proteomics	2016-08-08	24	A systematic proteogenomic approach to deciphering of the missing proteins: the example of newly uncovered NHERF1 function associated with human reproductive di
+PXD017195	placenta	False	Q Exactive	Top-down proteomics	2020-01-20	24	Placental Growth Factor Regulates the Pentose Phosphate Pathway and Antioxidant Defense Systems in Human Retinal Endothelial Cells
+PXD025764	placenta	False	Orbitrap Fusion Lumos	Shotgun proteomics	2021-05-04	24	The impact of Zika virus exposure on the placental proteomic profile
+PXD026717	liver	False	Q Exactive HF	Shotgun proteomics	2021-06-15	24	Discovery of lipotoxicity-sensitive transcription factors in non-alcoholic steatohepatitis
+PXD037722	liver	False	Orbitrap Eclipse	Shotgun proteomics	2022-10-26	24	A Novel Approach to Interrogating the Effects of Chemical Warfare Agent Exposure Using Organ-on-a-Chip Technology and Multiomic Analysis
+PXD038133	placenta	False	LTQ Orbitrap Elite	Shotgun proteomics	2022-11-14	24	Temporal phosphoproteomic analysis of VEGF-A signaling in HUVECs: An insight into early signaling events associated with angiogenesis
+PXD040940	liver	False	Orbitrap Exploris 480;Q Exactive HF	Shotgun proteomics	2023-03-17	24	LBP resists hepatic oxidative stress by regulating LD homeostasis
+PXD046469	liver	False	Q Exactive	Shotgun proteomics	2023-10-28	24	iRhom2 regulates HMGB1 secretion to modulate inflammation and hepatocyte senescence in an in vitro model of ischemia/reperfusion injury
+PXD053560	kidney	False	Orbitrap Fusion Lumos;Orbitrap Exploris 480;Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2024-07-02	24	Ring study of patients suffering from focal segmental glomerulosclerosis as a proof of concept for federated proteomics.
+PXD055623	placenta	False	LTQ Orbitrap Elite	Data-dependent acquisition;Top-down proteomics;Bottom-up proteomics	2024-09-06	24	Proteomic Analysis of the Human Amniotic Mesenchymal Stromal Cell Secretome by integrated approaches via Filter-Aided Sample Preparation 
+PXD056796	placenta	False	Q Exactive	Bottom-up proteomics	2024-10-15	24	Matrix directs trophoblast differentiation in a bioprinted organoid model of early placental development
+PXD057161	lung	False	Q Exactive HF	Data-dependent acquisition	2024-10-24	24	The quantitative proteomics analysis of TGF-β induced EMT in A549 cells and TNS-overexpressing A549 cells
+PXD059176	kidney	False	Orbitrap Exploris 480	Bottom-up proteomics	2024-12-23	24	Spatial proteomics to discover aging-associated alterations in the renal tubulointerstitium
+PXD060519	kidney	False	Orbitrap Exploris 480	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics	2025-02-05	24	The intrinsically disordered regions of organellophagy receptors control organelle fragmentation, ER-phagy and mitophagy flux
+PXD063133	kidney;lung	False	Orbitrap Exploris 480	Bottom-up proteomics	2025-04-21	24	Proteomic analysis of Prote-a-Tac
+PXD065775	liver	False	TripleTOF 5600	Bottom-up proteomics	2025-07-04	24	Proteomic signatures in distant normal tissues demonstrate superior predictive value for hepatocellular carcinoma recurrence
+PXD067595	lung	False	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-08-22	24	Alterations in proteome and proteostasis networks during replicative senescence
+PXD069337	kidney	False	orbitrap	Bottom-up proteomics	2025-10-11	24	The role of SMARCB1 in DNA Repair
+PXD000473	placenta	False	LTQ FT	Bottom-up proteomics	2013-09-19	23	Alpha-1-Antitrypsin: A Novel Human High Temperature Requirement Protease A1 (HTRA1) Substrate in Human Placental Tissue
+PXD075227	kidney	False	Q Exactive	Data-dependent acquisition;Bottom-up proteomics	2026-03-04	23	UVPD of peptides modified with N-terminal UV-absorbing chromophores
+PXD076272	kidney;lung	False	Q TRAP	SRM/MRM;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2026-03-27	23	A Novel Approach for Generating Antigen Interference-Free Anti-Peptide Polyclonal Antibodies for Quantitative Measurements of Low-Abundance Protein Biomarkers U
+PXD076281	liver	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2026-03-28	23	LC-MS/MS Profiling of Blood Serum Reveals Disease-Enriched Peptides in Metabolic Syndrome
+PXD038658	liver	False	Q Exactive HF	Chemical cross-linking coupled with mass spectrometry proteomics;Shotgun proteomics	2022-12-07	22	Targeted cross-linker delivery for in situ mapping of protein conformations and interactions in mitochondria
+PXD047462	liver	False	Q Exactive HF	Bottom-up proteomics	2023-12-02	22	Proteomic workflows for deep phenotypic profiling of 3D organotypic liver models
+PXD052445	placenta	False	Q Exactive HF	Shotgun proteomics	2024-05-21	21	Proteomic analysis and functional validation reveal distinct therapeutic capabilities related to priming of mesenchymal stromal/stem cells with IFN-γ and hypoxi
+PXD059993	placenta	False	Orbitrap Ascend;LTQ Orbitrap Elite	Data-dependent acquisition	2025-01-21	21	Multiomics reveals placental defect underlying preeclampsia
+PXD002391	placenta	False	Q Exactive	Shotgun proteomics	2015-06-18	20	Proteomics Study of Molecular Mechanisms Involved in Early Pregnancy Loss
+PXD006755	placenta	False	Orbitrap Fusion	Shotgun proteomics	2017-06-20	20	human placenta LC-MS/MS
+PXD028734	placenta	False	LTQ Orbitrap Velos	Shotgun proteomics	2021-09-24	20	Proteomes of Placenta from Pregnant Women with Intrahepatic Cholestasis of Pregnancy
+PXD029146	placenta	False	Q Exactive	Shotgun proteomics	2021-10-15	20	Human Cytomegalovirus modifies placental small extracellular vesicle secretion and composition to enhance infection of fetal recipient cells
+PXD043816	liver	False	Orbitrap Fusion Lumos;Q Exactive HF	Shotgun proteomics	2023-07-16	20	Increased activity of protein kinase A, even without DNAJB1, is sufficient to cause Fibrolamellar hepatocellular carcinoma
+PXD046940	liver	False	Q Exactive HF	Bottom-up proteomics	2023-11-14	20	Comprehensive PTP and proteome profiling from human liver tissues
+PXD047246	liver	False	Orbitrap Fusion Lumos	Shotgun proteomics	2023-11-26	20	Proteome analysis of HepG2 WT and mitochondrial apolipoprotein MIC26 knockout cells under normo- and hyperglycemic conditions
+PXD057281	liver	False	Q Exactive HF	Bottom-up proteomics	2024-10-29	20	Proteomics effects of exposure of fatty acids in the human liver cell line Huh7
+PXD057360	kidney	False	Q Exactive	Data-dependent acquisition	2024-10-30	20	Proteomic Profiling of Kidney Organoids in Extended Culture Conditions
+PXD065750	kidney	False	Orbitrap Ascend	Bottom-up proteomics	2025-07-03	20	Discovery of a CNS active GSK3 degrader using orthogonally reactive linker screening
+PXD067703	lung	False	Orbitrap Fusion Lumos	Bottom-up proteomics	2025-08-25	20	Mechanical compression reduces CC16 expression and disrupts metabolic homeostasis in airway epithelial cells
+PXD071779	kidney;lung	False	maXis;Orbitrap Fusion;LTQ Orbitrap Elite	Data-dependent acquisition;Bottom-up proteomics	2025-12-09	19	"Proteomics data re the article ""Condensate corona–nanoparticle complexes transfer functional biomolecules between cells"""
+PXD027531	liver	False	Q Exactive HF	Affinity purification coupled with mass spectrometry proteomics	2021-07-25	18	MHCI peptidome of HepG2 with ArgRS or SRRM2 knock down
+PXD036232	liver	False	Q Exactive HF	Affinity purification coupled with mass spectrometry proteomics	2022-08-22	18	MHCI peptidome of HepG2 with ArgRS or SRRM2 knock down
+PXD052523	kidney	False	Q Exactive	Bottom-up proteomics	2024-05-23	18	NUP153 interactome in human infected/uninfected
+PXD054681	lung	False	Orbitrap Fusion	Data-dependent acquisition	2024-08-07	18	Deciphering Bhallataka Taila's Anticancer Potential in Lung Cancer Cells: Insights from a Proteomic Analysis
+PXD063670	kidney	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2025-05-06	18	Identification of drug repurposing candidates for the treatment of polycystic kidney disease - RPTEC/TERT1 proteome
+PXD063965	kidney	False	Orbitrap Fusion;Q Exactive	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2025-05-15	18	Rabies virus P protein binds to TBK1 and interferes with the formation of innate immunity-related liquid condensates
+PXD065662	kidney	False	Orbitrap Ascend	Bottom-up proteomics	2025-07-01	18	Discovery of a CNS active GSK3 degrader using orthogonally reactive linker screening
+PXD073612	lung	False	Orbitrap Ascend;Orbitrap Exploris 480	Immunopeptidomics	2026-01-27	18	Identification of FOXM1 Epitopes in Lung Cancer
+PXD076106	lung	False	Q Exactive	Bottom-up proteomics	2026-03-25	17	Persulfidome of A549 alveolar epithelial cells
+PXD032201	liver	False	Orbitrap Fusion Lumos	Gel-based experiment	2022-03-11	16	Human hepatocellular carcinoma MHCC97H proteome
+PXD037388	placenta	False	Q Exactive	Shotgun proteomics	2022-10-13	16	Decreased CSTB, RAGE and Axl receptor is associated with Zika infection in the human placenta
+PXD046335	liver	False	Orbitrap Eclipse	Shotgun proteomics	2023-10-23	16	The fatty liver disease-causing protein PNPLA3-I148M alters lipid droplet-Golgi dynamics
+PXD053938	kidney	False	Q Exactive HF	Affinity purification coupled with mass spectrometry proteomics;Gel-based experiment	2024-07-15	16	Candida glabrata GPI-anchored cell surface associated aspartyl protease CgYps1 and CgYps7 interactome analysis in the total cell extracts of A-498 human renal e
+PXD059716	kidney	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2025-01-13	16	Proteomics of tau repeat domain interactome via split TurboID proximity labeling
+PXD067153	lung	False	Orbitrap Fusion	Data-dependent acquisition;Bottom-up proteomics	2025-08-11	16	Effect of heat-shock on total and poly-ubiquitylated proteomes of human A549 lung adeno-carcinoma cells in different proliferation states
+PXD067220	lung	False	Orbitrap Fusion	Data-dependent acquisition;Bottom-up proteomics	2025-08-11	16	Effect of proteasome inhibition on total and poly-ubiquitylated proteomes of human A549 lung adenocarcinoma cells in different proliferation states
+PXD071547	lung	False	LTQ Orbitrap Velos Pro	Data-dependent acquisition;Gel-based experiment;Bottom-up proteomics	2025-12-03	16	EGFR inhibitor-resistant lung cancers exhibit collateral sensitivity to a covalent, cysteine-independentKEAP1 oligomerizing molecular bridge
+PXD070297	lung	False	Q Exactive Plus	Bottom-up proteomics	2025-11-04	15	Defining the Human Lung Pathodegradome of the V8 Protease from Staphylococcus aureus-gel digest
+PXD074263	kidney	False	Q Exactive HF	Affinity purification coupled with mass spectrometry proteomics	2026-02-10	15	HEK293T RAMP3-miniTurbo CLR proximity interactome
+PXD043754	liver	False	Orbitrap Fusion Lumos	mass spectrometry imaging	2023-07-13	14	Human Histone Sulfated Tyrosine Identification
+PXD082597	kidney	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2026-08-14	14	DExT for Direct Ex vivo Drug Testing
+PXD010831	placenta	False	LTQ Orbitrap	Affinity purification coupled with mass spectrometry proteomics;Shotgun proteomics	2018-08-21	12	MIR sequences recruit zinc finger protein ZNF768 to expressed genes
+PXD029692	liver	False	LTQ Orbitrap Velos	Shotgun proteomics	2021-11-11	12	Phosphatidic acid features double membrane vesicle formation during Hepatitis C and SARS-CoV-2 infection
+PXD030887	liver	False	Q Exactive	Shotgun proteomics	2022-01-11	12	Omics-characterization of tebufenpyrad effects on human primary hepatocytes
+PXD033637	liver	False	Thermo Scientific instrument model	Shotgun proteomics	2022-05-04	12	PC4 is a post-transcriptional manipulator of D-type cyclins and centromere proteins
+PXD042733	liver	False	Orbitrap Fusion Lumos	Affinity purification coupled with mass spectrometry proteomics	2023-06-05	12	Identification of cellular protein interacting with HBV genome by protein mass spectrometry
+PXD048789	placenta	False	Q Exactive Plus	Bottom-up proteomics	2024-01-23	12	Effect of 2D and 3D cell culture system on trophoblast extracellular vesicles physio-chemical characteristics and potency
+PXD054962	lung	False	Q Exactive HF	Bottom-up proteomics	2024-08-16	12	Novel RNA-Targeted Proteomics Approach Leads to the Identification of a Key Role for YBX1 in HCMV Replication
+PXD055281	liver	False	Q Exactive	Bottom-up proteomics	2024-08-28	12	Revisiting the relevance of the accumulation of apolipoprotein E (APOE) in mitochondria-associated ER membranes: Investi-gation of hepatic protein-protein inter
+PXD056198	kidney	False	LTQ Orbitrap Elite	Proteogenomics	2024-09-24	12	Mass spac of IFNb stimulated WT, PFDN3 KO and PFDN4 KO HEK293 cells
+PXD056908	lung	False	Orbitrap Eclipse	Data-dependent acquisition	2024-10-17	12	Efficient removal of TMT-labelling by-products in proteomic samples by methylamine  
+PXD058323	liver	False	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2024-11-27	12	HepG2-derived Cell Membrane Vesicle Camouflaged Artificial Cells
+PXD060789	liver	False	Orbitrap Eclipse	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2025-02-13	12	Hunting for Hemopexin Receptors: One Saga
+PXD061151	liver	False	Orbitrap Fusion Lumos	Bottom-up proteomics	2025-02-25	12	Targeting transcription factors through an IMiD independent zinc finger domain
+PXD061197	kidney	False	Orbitrap Fusion	Bottom-up proteomics	2025-02-26	12	RNA polymerase III (Pol III) CoIP ms/ms
+PXD061728	kidney;liver	False	Orbitrap Eclipse	Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2025-03-12	12	A method for the detection and enrichment of endogenous cereblon substrates
+PXD063478	lung	False	TRIZAIC UPLC nanoTile	Bottom-up proteomics	2025-04-30	12	Effect of depletion of USP2a on protein expression HPMVECs
+PXD064542	liver	False	Q Exactive HF	Bottom-up proteomics	2025-06-03	12	Small Molecule Inhibition of VDAC1 Reroutes Mitochondrial Metabolite Flux
+PXD065390	lung	False	Q Exactive	Data-dependent acquisition;Bottom-up proteomics	2025-06-24	12	A potent cytidine deaminase biodegrader sensitises cancer cells to deoxycytidine analogue-based chemotherapies
+PXD066557	lung	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2025-07-24	12	vaccination protects against COVID-associated pulmonary fibrin deposition
+PXD066690	kidney	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2025-07-29	12	METTL1 Interacts with XPO5 to Modulate Pre-miRNA Export
+PXD067306	lung	False	Orbitrap Fusion	Affinity purification coupled with mass spectrometry proteomics	2025-08-13	12	Identifying beta-catenin interacting proteins in a panel of cell lines
+PXD070567	liver	False	Orbitrap Ascend;Q Exactive HF	Data-dependent acquisition	2025-11-11	12	ProxiCapture reveals context-dependent CRBN interactome landscape of molecular glue degraders
+PXD070694	kidney	False	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-11-13	12	Kidney matrix dynamics across the life course
+PXD070730	kidney	False	Q Exactive HF-X	Data-dependent acquisition;Bottom-up proteomics	2025-11-14	12	Proteomic analysis of FKBP8 knockdown in HEK293T cells
+PXD074624	liver	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2026-02-19	12	Sex-specific KDM6A-HNF4A-CREBH network controls lipoprotein cholesterol metabolism and atherosclerosis via epigenetic reprograming of hepatocytes.
+PXD076288	kidney	False	orbitrap	Bottom-up proteomics	2026-03-28	12	Regulatory impact of a 5’UTR resident Single Nucleotide Variant on EDN1 gene expression and RNA-protein interactions
+PXD080543	liver	False	Q Exactive Plus	Data-dependent acquisition;Bottom-up proteomics	2026-07-03	12	Crosstalk between S-nitrosylation and glycation defines a novel  metabolic vulnerability in liver and renal cancers
+PXD081135	liver	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2026-07-15	12	Kaiso is a novel TAZ-interaction partner that promotes hepatic stellate cell activation and regulates the downstream lncRNA HIF1A-AS3
+PXD061414	liver	False	Orbitrap Fusion	Data-dependent acquisition	2025-03-03	11	Identification of post-translationally modified MHC class 1-associated peptides
+PXD065692	kidney	False	Orbitrap Ascend	Bottom-up proteomics	2025-07-02	11	Discovery of a CNS active GSK3 degrader using orthogonally reactive linker screening
+PXD074737	liver	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2026-02-23	11	Kaiso as a Novel TAZ Interaction Partner Driving Fibrogenesis in Hepatic stellate cells via regulating the long non-coding RNA HIF1A-AS3
+PXD052324	liver	False	Q Exactive HF	Data-dependent acquisition	2024-05-16	10	LDLR and HMGCR double knock out human HepG2 cells LC-MSMS
+PXD059009	kidney	False	Q Exactive HF	Gel-based experiment	2024-12-18	10	Protein modifications by advanced glycation end products (AGEs) in human clear cell renal cell carcinoma
+PXD063385	liver;lung	False	Orbitrap Exploris 480	Bottom-up proteomics	2025-04-28	10	Clinical investigation on nebulized human umbilical cord MSC-derived extracellular vesicles for pulmonary fibrosis treatment
+PXD064683	kidney	False	Q Exactive	Affinity purification coupled with mass spectrometry proteomics	2025-06-05	10	Kinase activity of DYRK family members is required for regulating primary cilium length, stability and morphology
+PXD065058	kidney	False	LTQ Orbitrap Elite	Bottom-up proteomics	2025-06-16	10	Frizzled4 proximity interactors
+PXD065724	kidney	False	Orbitrap Ascend	Bottom-up proteomics	2025-07-03	10	Discovery of a CNS active GSK3 degrader using orthogonally reactive linker screening
+PXD065722	kidney	False	Orbitrap Ascend	Bottom-up proteomics	2025-07-03	10	Discovery of a CNS active GSK3 degrader using orthogonally reactive linker screening
+PXD065922	kidney	False	Mascot	Data-dependent acquisition	2025-07-08	10	Proteomics of renal clear cell carcinoma
+PXD069827	kidney	False	Orbitrap Exploris 240	Affinity purification coupled with mass spectrometry proteomics	2025-10-23	10	Impact of PARG Activity on the replisome composition
+PXD003003	placenta	False	LTQ Orbitrap	Gel-based experiment	2015-10-05	9	Proteomic characterisation of extracellular vesicles derived from first trimester placentae
+PXD023964	placenta	False	Q Exactive HF	Shotgun proteomics	2021-02-03	9	Quantitative Proteomics Analysis of Placenta from Zika Virus Infected Women
+PXD033942	liver	False	Orbitrap Fusion Lumos	Shotgun proteomics	2022-05-17	9	Identification of myeloid-derived growth factor as a mechanically-induced, growth-promoting angiocrine signal for human hepatocytes
+PXD037553	liver	False	LTQ Orbitrap XL	Shotgun proteomics	2022-11-21	9	Quantitative proteomics reveals common and unique molecular mechanisms underlying beneficial effects of caffeine and trigonelline on human hepatocytes
+PXD043763	liver	False	Q Exactive Plus	Shotgun proteomics	2023-07-13	9	Determination of the mechanisms of hepatotoxicity induced by chlordecone and chlordecol from primary human hepatocytes cells and proteomic analyzes
+PXD053382	kidney	False	Orbitrap Fusion	Affinity purification coupled with mass spectrometry proteomics	2024-06-25	9	HARD-AP-drived RBPome in HEK293 cells, mouse brain and kidney without UV-crosslinking
+PXD054667	kidney	False	Q Exactive	Data-dependent acquisition	2024-08-07	9	MLX phosphorylation is an evolutionarily conserved mechanism to promote lipid storage and sugar tolerance
+PXD059084	kidney	False	Q Exactive HF	SRM/MRM	2024-12-20	9	Deciphering nuclear polyp function during human cell proliferation (MCI) PID2021-127302NB-I00
+PXD064653	kidney	False	Orbitrap Exploris 480	Affinity purification coupled with mass spectrometry proteomics	2025-06-05	9	Complex II assembly drives metabolic adaptation to OXPHOS dysfunction
+PXD066146	lung	False	Orbitrap Exploris 480	Bottom-up proteomics	2025-07-15	9	Protoemics of nasal and bronchial mucus from primary human airway epithelial cells grown at air-liquid interface.
+PXD068260	kidney	False	Q Exactive HF	Bottom-up proteomics	2025-09-10	9	SRRM2 wt and SRRM2 S1444P interactome
+PXD070830	kidney	False	Q Exactive	Data-dependent acquisition	2025-11-17	9	Ribosome dynamics orchestrate mRNA stability and translation across natural and synthetic systems
+PXD072831	lung	False	Orbitrap Exploris 240	Bottom-up proteomics	2026-01-09	9	Acute e‑cigarette aerosol condensate exposure alters the transcriptome and proteome of human bronchial epithelial BEAS‑2B cells
+PXD077447	kidney	False	LTQ Orbitrap Velos	Data-dependent acquisition;Bottom-up proteomics	2026-04-21	9	Identification of novel substrates reveals a role for DYRK1B in regulating processing body abundance
+PXD078091	kidney	False	Q Exactive HF-X	Affinity purification coupled with mass spectrometry proteomics	2026-05-07	9	RNA polymerase I, II, III CoIP ms/ms
+PXD036100	liver	False	Orbitrap Fusion Lumos	Shotgun proteomics	2022-08-16	8	Wnt/β-catenin and NFκB signaling synergize to trigger growth-factor-free regeneration of adult primary human hepatocytes
+PXD056101	liver	False	Orbitrap Fusion	Data-dependent acquisition;Top-down proteomics	2024-09-23	8	Human and rat liver microtissue
+PXD056698	lung	False	Q Exactive	Affinity purification coupled with mass spectrometry proteomics	2024-10-10	8	The E3 ubiquitin ligase RNF25 protects stalled DNA replication forks
+PXD058805	lung	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2024-12-12	8	Novel integration of spatial and single-cell omics data sets  enables deeper insights into IPF pathogenesis
+PXD063431	lung	False	Orbitrap Exploris 480	Bottom-up proteomics	2025-04-29	8	A549 cells glucocorticoid treatment
+PXD063587	kidney	False	Orbitrap Exploris 480	Chemical cross-linking coupled with mass spectrometry proteomics	2025-05-04	8	Association of heme bound HRI with S-DELE1 promotes structural re-arrangements within the HRI kinase domain
+PXD066935	kidney	False	LTQ Orbitrap Velos	Top-down proteomics	2025-08-04	8	Testican-2 interaction with the extracellular matrix and podocyte protection
+PXD068353	kidney	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2025-09-14	8	n-Dodecyl-β-D-maltopyranoside (DDM)-Assisted Resolubilization Enhances S-Palmitoylation Proteomics
+PXD071839	kidney	False	Orbitrap Fusion	Bottom-up proteomics	2025-12-11	8	G Protein GalphaQ Subunits Engage Targets in the Nucleus Involved in Chromatin Remodeling and RNA Splicing
+PXD074273	kidney;liver	False	Orbitrap Eclipse	Bottom-up proteomics	2026-02-10	8	Whole cell proteome analysis of Huh-7 Lunet and HEK293 cells
+PXD075574	liver	False	Q Exactive HF	Data-dependent acquisition	2026-03-12	8	Targeting RuvBL1 disrupts mitochondrial metabolism and structure in hepatocellular carcinoma
+PXD039027	lung	False	Orbitrap Eclipse	Shotgun proteomics	2022-12-21	7	Proteome wide analysis of NRF2 activation
+PXD050316	kidney;liver	False	Orbitrap Fusion Lumos	Bottom-up proteomics	2024-03-04	7	ACAD10 and ACAD11 join forces to metabolize 4-hydroxy fatty acid
+PXD028082	liver	False	Q Exactive HF	Shotgun proteomics	2021-08-24	6	Bioinformatics and mass spectrometry-based proteomics reveal alcohol dehydrogenase 1B as a blood biomarker candidate to monitor acetaminophen-induced liver inju
+PXD033437	liver	False	Q Exactive	Shotgun proteomics	2022-04-24	6	Label-free proteomic analysis of the HCC secretome and compared the protein profiles of human PLC liver cancer cells with that of human THLE3 hepatocytes secret
+PXD034886	liver	False	Orbitrap Fusion Lumos	Shotgun proteomics	2022-06-26	6	Sortilin-driven cancer secretome in HCC
+PXD038581	liver	False	TripleTOF 6600	Shotgun proteomics	2022-12-06	6	Flucloxacillin-modified proteins identified in primary human hepatocytes
+PXD048294	liver	False	Q Exactive HF-X	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics	2024-01-07	6	ESK1 and MAGE-A4 TCR-like antibody immunoprecipitation in human liver tissue
+PXD052032	placenta	False	Orbitrap Fusion Lumos	Shotgun proteomics	2024-05-07	6	Charting the dynamic trophoblast plasma membrane identifies LYN as a functional regulator of syncytialization
+PXD056246	liver	False	Synapt MS	Top-down proteomics	2024-09-25	6	Uncovering Protein Network in Extracellular Vesicles Derived from Hepatocellular Carcinoma Cell Line Influenced by Hepatitis B virus
+PXD056869	lung	False	LTQ Orbitrap Velos	Bottom-up proteomics	2024-10-16	6	Molecular characterization of Calu-3 cells from submerged to Air-liquid interface to model lung infections
+PXD057450	liver	False	LTQ Orbitrap Elite	Top-down proteomics	2024-11-02	6	Integrated analysis of the anoikis-related signature identifies RAC3 as a novel therapeutic target in hepatocellular carcinoma
+PXD057469	lung	False	4800 Proteomics Analyzer	Affinity purification coupled with mass spectrometry proteomics	2024-11-04	6	Proteomic Analysis of LncPTEN1 RNA Pulldown in Lung Cancer Cells Using LC-MS/MS
+PXD061647	liver	False	Orbitrap Fusion	Data-dependent acquisition	2025-03-10	6	Heterobifunctional molecule-enabled proximity labeling reveals the coupling of ENO1 and HDAC1
+PXD063066	kidney	False	Q Exactive Plus	Data-dependent acquisition;Bottom-up proteomics	2025-04-17	6	CLUH inhibition by Lipocalin-2 orchestrates mitochondrial disruption and contributes to kidney disease
+PXD063183	liver	False	Q Exactive HF	Data-dependent acquisition	2025-04-22	6	7-Octenoic Acid Exerts Anti-Fibrotic Effects on TGF-β1-Activated Hepatic Stellate Cells: Insights from Proteomic Analysis
+PXD064520	kidney	False	Q Exactive HF-X	Affinity purification coupled with mass spectrometry proteomics	2025-06-02	6	Identification of binding partners of the purified TOM complex from HEK293T cells
+PXD064649	kidney	False	Orbitrap Ascend;Orbitrap Exploris 480	Affinity purification coupled with mass spectrometry proteomics	2025-06-05	6	Complex II assembly drives metabolic adaptation to OXPHOS dysfunction
+PXD066810	liver	False	LTQ Orbitrap	Bottom-up proteomics	2025-07-31	6	Lack of intestinal Mucin-1 impairs intestinal epithelial barrier and promotes metabolic dysfunction-associated steatotic liver disease in mice
+PXD067164	lung	False	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-08-11	6	Tyrosine phosphoproteome profiling identifies cell-intrinsic signals limiting the efficacy of tyrosine kinase inhibitor therapies
+PXD070241	lung	False	Q Exactive Plus	Bottom-up proteomics	2025-11-03	6	Defining the Human Lung Pathodegradome of the V8 Protease from Staphylococcus aureus
+PXD070575	lung	False	Orbitrap Fusion	Data-dependent acquisition;Gel-based experiment;Bottom-up proteomics	2025-11-11	6	Proteomics of A549 and A549 cells transducted with ORF7a SARS-CoV-2 accessory protein
+PXD071531	kidney	False	LTQ Orbitrap Elite	Top-down proteomics;Gel-based experiment	2025-12-03	6	Methionine Restriction Alleviates Kidney Fibrosis through Epigenetic Repression of the TGF-β-Smad3-Hoxc8/P-TEFb axis
+PXD072708	kidney	False	Orbitrap Exploris 480	Data-dependent acquisition	2026-01-06	6	Structure-based discovery of a chemical probe targeting the Tudor domain of FMRP
+PXD074698	lung	False	Orbitrap Fusion	Data-dependent acquisition	2026-02-20	6	HYDIN2 knockdown in NT2 cells analyses by LFQ
+PXD078687	liver	False	Orbitrap Exploris 480	Data-dependent acquisition	2026-05-21	6	With no lysine kinase 1 in hepatic stellate cells promotes mouse and human liver fibrosis through glycolytic triosephosphate isomerase 1
+PXD060026	lung	False	4800 Proteomics Analyzer	Affinity proteomics	2025-01-21	5	SFPQ Directs Histone H3.3 Deposition to R-Loops in DNA Repeats to Protect Genome Stability
+PXD063772	liver;placenta	False	Q Exactive	Data-dependent acquisition	2025-05-08	5	Bioengineering of the implantable vascularized endocrine constructs for insulin delivery suitable for clinical upscaling
+PXD067661	kidney	False	Q Exactive HF	Data-dependent acquisition;Gel-based experiment;Bottom-up proteomics	2025-08-24	5	A de novo missense variant in MIDEAS results in increased deacetylase activity of the MiDAC HDAC complex causing a neurodevelopmental syndrome
+PXD069527	kidney	False	Q Exactive HF	Data-dependent acquisition	2025-10-16	5	Thiohaloacetamide electrophiles proteomics - peptide-directed tests on HEK lysates
+PXD035817	liver	False	LTQ Orbitrap Velos	Shotgun proteomics	2022-08-04	4	Characterization of RAS/RAF/ERK signal cascade as a novel regulating factor in alpha-amanitin-induced liver injury
+PXD044277	liver	False	Q Exactive	Gel-based experiment	2023-08-02	4	Interactome analysis of PHF2 using LC-MS combined with an immunoprecipitation assay
+PXD051879	liver	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2024-04-30	4	Tracking the dynamics of the glycolytic metabolite fructose 1,6-bisphosphate in liver cancer cells with a fluorescent biosensor
+PXD054965	lung	False	Orbitrap Fusion Lumos	Top-down proteomics	2024-08-16	4	Human airway - Normal and CCDC39
+PXD055175	liver	False	Q Exactive HF	Top-down proteomics	2024-08-25	4	Elucidating the Roles of MCM7 and SHCBP1 in Liver Fibrosis through LC-MS Analysis
+PXD058769	kidney	False	Q Exactive	Bottom-up proteomics	2024-12-11	4	Structurally Exclusive Teneurin Complexes Orchestrate Divergent Programs in Early Cortical Development
+PXD061537	kidney	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2025-03-06	4	Chemoproteomic Approach for Identifying Nuclear Arsenite-binding Proteins
+PXD062704	liver	False	Q Exactive	Affinity purification coupled with mass spectrometry proteomics;Gel-based experiment	2025-04-08	4	Ku80 interaction proteins under enhanced mitophagy
+PXD063023	kidney	False	Q Exactive HF	Data-dependent acquisition	2025-04-16	4	LC-MS/MS analysis of anti-LC3 products in human ccRCC cells
+PXD064150	liver	False	Orbitrap Fusion Lumos	Bottom-up proteomics	2025-05-21	4	Proteomic Profiling of Uveal Melanoma Cells Treated with DHA and CCCP
+PXD064757	lung	False	Q Exactive	Data-dependent acquisition;Bottom-up proteomics	2025-06-09	4	Proteomic profiling of DLAT-interacting proteins in cisplatin-resistant lung cancer cells
+PXD065490	placenta	False	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-06-26	4	Human Placenta Extracellular Matrix Hydrogels for wound healing
+PXD067139	lung	False	LTQ Orbitrap Elite	RNA mass spectrometry	2025-08-11	4	Human lung cancer cells-MS for SNHG3 c.1746A>I editing
+PXD067575	lung	False	Q Exactive	Gel-based experiment	2025-08-21	4	LC-MS analysis of MPND associated complexes in H1299 cells
+PXD069219	placenta	False	Orbitrap Fusion Lumos	Affinity purification coupled with mass spectrometry proteomics	2025-10-08	4	Mapping the placental galectin-3 interactome identifies CD9 and ITGB1 as functional glycoprotein counter-receptors during syncytialization.
+PXD078303	kidney	False	Q Exactive HF	Bottom-up proteomics	2026-05-13	4	c-Myc crotonylation in HEK293 cells
+PXD082950	kidney	False	Q Exactive HF	Affinity purification coupled with mass spectrometry proteomics	2026-08-21	4	NSD2 binding proteins identification
+PXD082954	kidney	False	Orbitrap Fusion	Bottom-up proteomics	2026-08-21	4	Proteomic analysis of extracellular vesicles derived from human renal proximal tubule epithelial cells under inflammatory stimulation
+PXD060790	lung	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2025-02-13	3	Genome-wide in vivo CRISPR activation screen identifies BACE1 as a therapeutic vulnerability of lung cancer brain metastasis
+PXD065723	kidney	False	Q Exactive HF	SRM/MRM	2025-07-03	3	Deciphering nuclear polyp function during human cell proliferation
+PXD066251	kidney	False	Orbitrap Exploris 480	Data-dependent acquisition;Bottom-up proteomics	2025-07-17	3	Thianthrenium chemistry for identification of protein−protein interactions in cells
+PXD072626	kidney	False	timsTOF Pro 2	Bottom-up proteomics	2026-01-05	3	CP-24,879: an activity-based probe of fatty acid desaturases and related diiron lipid oxidases
+PXD074890	lung	False	Q Exactive HF	Bottom-up proteomics	2026-02-25	3	UFMylation-Dependent Inhibition of AKT Signaling by PHLDA3 in Lung Adenocarcinoma
+PXD079247	liver	False	Q Exactive HF	Data-dependent acquisition;Bottom-up proteomics	2026-06-04	3	Functional effects of CYP3A-CYP2E1 interactions and their role in activation of CYP3A enzymes by chronic alcohol exposure
+PXD018302	placenta	False	LTQ Orbitrap	Affinity purification coupled with mass spectrometry proteomics;Shotgun proteomics	2020-03-31	2	VESTIGIAL-LIKE 1 IS A SHARED TARGETABLE CANCER-PLACENTA ANTIGEN  EXPRESSED BY PANCREATIC AND BASAL-LIKE BREAST CANCERS
+PXD031844	liver	False	Orbitrap Fusion	Shotgun proteomics	2022-02-23	2	LncRNA LINC01186 directly bingding proteins in Hepatocellular carcinoma
+PXD032824	liver	False	Q Exactive HF	Shotgun proteomics	2022-03-26	2	Sphingomyelin phodiesterase acid-like 3A promotes hepatocellular carcinoma growth through the enhancer of rudimentary homologSphingomyelin phodiesterase acid-li
+PXD038653	kidney	False	LTQ Orbitrap Elite	Affinity purification coupled with mass spectrometry proteomics;Gel-based experiment	2022-12-07	2	Posttranslation modification of NF-kB inducing kinase
+PXD044817	liver	False	Q Exactive	Shotgun proteomics	2023-08-24	2	The interactive proteins of G6PD immunoprecipitated via anti-flag beads in Huh7 cells
+PXD050603	liver	False	Q Exactive HF	Immunopeptidomics	2024-03-13	2	GLS1 interactome in liver cells by IP followed by LC-MS/MS
+PXD055086	placenta	False	Orbitrap Fusion Lumos	Data-dependent acquisition	2024-08-22	2	Charting the dynamic trophoblast plasma membrane identifies LYN as a functional regulator of syncytialization (supplemental)
+PXD056565	lung	False	Q Exactive	Affinity proteomics	2024-10-08	2	Mass spectrometry analysis in human lung adenocarcinoma
+PXD059464	liver	False	Q Exactive Plus	Gel-based experiment	2025-01-06	2	Nuclear-localized HKDC1 promotes hepatocellular carcinoma through phosphorylating RBBP5 to upregulate H3K4me3
+PXD060587	kidney	False	Q Exactive	Top-down proteomics	2025-02-07	2	INO80E_HIRIP3_RNA_duplex_proteins_RAP_MS
+PXD060970	lung	False	LTQ Orbitrap Elite	Data-dependent acquisition;Bottom-up proteomics	2025-02-19	2	YEATS2 O-GlcNAcylation Promotes Chromatin Association of the ATAC complex and Lung Cancer Tumorigenesis
+PXD061739	lung	False	Q Exactive	Bottom-up proteomics	2025-03-12	2	Human LC-MS, TMEM216 inhibits breast cancer lung metastasis by modulating IGF1R-IRS4 signaling pathway
+PXD062676	liver	False	TripleTOF 5600	Affinity purification coupled with mass spectrometry proteomics	2025-04-07	2	IP-MS of H.hepaticus CdtB in Hep3B cell
+PXD062920	kidney	False	Orbitrap Fusion Lumos	Bottom-up proteomics	2025-04-14	2	Modification sites and interaction proteins of BCL6
+PXD064944	kidney	False	Orbitrap Fusion Lumos	Bottom-up proteomics	2025-06-12	2	BCL7A’s Arginine Anchor Links Nucleosome Recognition to Chromatin Remodeling and DLBCL Tumor Suppression
+PXD065332	lung	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2025-06-23	2	Identification of DDR1-interacting proteins by IP-MS screening
+PXD065914	kidney	False	Q Exactive HF	Data-dependent acquisition	2025-07-08	2	Co-immunoprecipitation binding proteins of TRIM44
+PXD066489	lung	False	Orbitrap Eclipse	Data-dependent acquisition;Bottom-up proteomics	2025-07-23	2	Phospho-proteomic analysis of IL-13 treated human airway epithelial cell line (A549)
+PXD066786	liver	False	Q TRAP	SRM/MRM;Bottom-up proteomics	2025-07-31	2	N-Acetyltransferase (NAT) 1 and NAT2 Enzyme Activities Drive Interindividual Variability in Sulfamethoxazole N-Acetylation
+PXD071633	kidney	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Chemical cross-linking coupled with mass spectrometry proteomics;Bottom-up proteomics	2025-12-05	2	Cryo-EM structure of the human COP1-DET1 ubiquitin ligase complex
+PXD078730	liver	False	EASY-nLC 1200	Bottom-up proteomics	2026-05-22	2	OTUB1 Inhibits Autophagy-Dependent Ferroptosis in Hepatocellular Carcinoma by Stabilizing P62 via Non-Canonical Deubiquitination
+PXD081136	liver	False	Q Exactive	Data-dependent acquisition	2026-07-15	2	ATR-dependent phosphorylation of the histone acetyltransferase HBO1 suppresses chromatin binding and promotes replication stress responses.
+PXD082146	kidney	False	Q Exactive HF	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2026-08-04	2	Legionella effector RavH is a tandem WH2-like domain-containing PI(3)P-dependent actin nucleator
+PXD082747	lung	False	Orbitrap Exploris 480	Bottom-up proteomics	2026-08-18	2	Quantitative proteomic analysis of ubiquitin expression in SILAC-labeled wild-type and MPND-knockout H1975 cells
+PXD082829	liver	False	Q Exactive HF	Data-dependent acquisition	2026-08-19	2	Clearing perivascular light chain-derived amyloid to counteract aging-associated decline in liver regeneration
+PXD021873	placenta	False	TripleTOF 5600	Shotgun proteomics;Gel-based experiment	2020-10-07	1	Molecular architecture and domain arrangement of the placental malaria protein VAR2CSA suggests a model for carbohydrate binding
+PXD030726	liver	False	Q Exactive HF	Shotgun proteomics	2022-01-05	1	Arsenic toxicity is regulated by queuine availability and oxidation-induced reprogramming of the human tRNA epitranscriptome
+PXD050213	liver	False	LTQ Orbitrap Elite	Gel-based experiment	2024-02-28	1	FBP1 associated proteins: FBP1 immunoprecipitants
+PXD053200	kidney	False	Q Exactive	Bottom-up proteomics	2024-06-18	1	A novel microprotein HDSP encoded by HOXA10-HOXA9 triggers progression of gastric cancer through  maintaining the stability of MECOM and activating MECOM /SPINK
+PXD053354	kidney	False	Q Exactive	Top-down proteomics	2024-06-24	1	Mitochondrial VHL rewires cell metabolism in hypoxia
+PXD055130	liver	False	Q Exactive HF	Bottom-up proteomics	2024-08-23	1	The Cancer Cell Target Discovery. Comparing Laboratory Evolution of Expanded DNA Six-Nucleotide Alphabets with Standard Four-Nucleotide Alphabets
+PXD055115	liver	False	LTQ Orbitrap Elite	Bottom-up proteomics	2024-08-23	1	The Cancer Cell Target Discovery. Comparing Laboratory Evolution of Expanded DNA Six-Nucleotide Alphabets with Standard Four-Nucleotide Alphabets
+PXD057790	kidney	False	Q Exactive	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2024-11-12	1	Identification of PRRC2B methylation sites
+PXD059156	kidney	False	Orbitrap Eclipse	Bottom-up proteomics	2024-12-23	1	Identification of high molecular weight protein/protein complexes in human cultured cells (HEK293T) LC-MS/MS
+PXD059566	lung	False	Q Exactive	Data-dependent acquisition	2025-01-09	1	Assessment of CDK4 as a serine kinase phosphorylating OGG1
+PXD059565	lung	False	Q Exactive	Data-dependent acquisition	2025-01-09	1	Assessment of CDK4 as a serine kinase phosphorylating OGG1
+PXD059766	kidney	False	Orbitrap Astral	Data-dependent acquisition;Chemical cross-linking coupled with mass spectrometry proteomics	2025-01-14	1	ProteomeDiscover Crosslinking Complete Submission - HEK 293 XL fractions analysis
+PXD059969	kidney	False	Q Exactive Plus	Gel-based experiment	2025-01-20	1	Human HEK293T cell LC-MS/MS to identify the phosphorylation site of USP8
+PXD060256	lung	False	Q Exactive	Bottom-up proteomics	2025-01-27	1	Non-small cell lung cancer-associated Keap1 mutations lead to epigenetic reprogramming and tumorigenesis through CHD6 stabilization
+PXD062511	kidney	False	Orbitrap Exploris 480	Data-dependent acquisition	2025-04-02	1	Identification of p62-interacting proteins by mass spectrometry analysis in HEK293T cells
+PXD064331	lung	False	Orbitrap Fusion	Glycoproteomics	2025-05-27	1	Proteomic analysis of extracellular vesicles identifies CDCP1 as critical metastasis-related glycoprotein in lung cancer
+PXD068727	liver	False	Orbitrap Eclipse	Bottom-up proteomics	2025-09-23	1	LC-MS/MS analysis of phosphorylation modifications of CRTC2 in IR-treated HCCLM3 cells
+PXD071083	liver	False	Q TRAP	SRM/MRM;Bottom-up proteomics	2025-11-23	1	Development of an In Vitro Metabolic Dysfunction-Associated Steatohepatitis Model to Investigate Altered Drug Metabolizing Enzymes, Transport Proteins, and Hepa
+PRD000032	placenta	False	LTQ Orbitrap;LCQ Deca;instrument model;Q-Tof micro;LTQ;Waters instrument model	Bottom-up proteomics	2007-08-10	0	Bantscheff-2007-1 -  Quantitative chemical proteomics reveals mechanisms of action of clinical ABL kinase inhibitors
+PRD000474	placenta	False	Fourier Transform Ion Cyclotron Resonance Mass Spectrometer;instrument model	Bottom-up proteomics	2011-09-20	0	Comparative analysis of the human and mouse placental transcriptome and proteome
+PXD000744	placenta	False	Bruker Daltonics esquire series	Shotgun proteomics	2014-02-06	0	CNB Lipid Rafts reAnalysis. - This dataset represents an example for a textbook: Genomics and Proteomics for Clinical Discovery and Development
+PXD018160	placenta	False	maXis	Shotgun proteomics	2020-03-25	0	Plasma Protein Corona on Polystyrene Nanoparticles Facilitates their Transfer across the Human Placenta
+PXD020438	placenta	False	maXis	Shotgun proteomics	2020-07-20	0	Optimization of label-free nano LC-MS/MS analysis of the placental proteome
+PXD025308	placenta	False	TripleTOF 5600	Shotgun proteomics	2021-04-10	0	Quantitative proteomic analysis of serum-purified exosomes reveals putative pre-eclampsia associated biomarkers
+PXD027821	liver	False	Q Exactive	Shotgun proteomics	2021-08-09	0	Interval-based secretomics unravels the time-dependent acute phase response in hepatocyte model systems
+PXD030764	liver	False	maXis	Shotgun proteomics	2022-01-06	0	Proteome analysis of mixed fatty acid treated hepatocytes
+PXD036480	liver	False	timsTOF Pro	Shotgun proteomics	2022-09-02	0	Quantitative LC-MSMS of new hepatoma HepaRG-derived cells obtained using compression forces
+PXD036953	placenta	False	Orbitrap Fusion Lumos	Shotgun proteomics	2022-09-22	0	The interactome of flavin adenine dinucleotide (FAD) with RNA-binding proteins
+PXD041264	liver	False	timsTOF Pro	Shotgun proteomics	2023-04-01	0	NAIA for cysteine profiling in HepG2 cells, protein target identification of covalent ligand and studying cysteine oxidative modifications
+PXD042613	placenta	False	timsTOF Pro	Gel-based experiment	2023-06-01	0	An organ-specific angiogenic control mechanism for endothelial tailoring.
+PXD044330	placenta	False	Orbitrap Fusion Lumos;Q Exactive HF-X;Orbitrap Exploris 480;Q Exactive HF	Shotgun proteomics	2023-08-03	0	Off-target profiling of several PARP inhibitors using immobilized Niraparib beads
+PXD045297	placenta	False	Orbitrap Fusion Lumos;Q Exactive HF-X;Orbitrap Exploris 480;Q Exactive HF	Shotgun proteomics	2023-09-12	0	Comprehensive selectivity profile of PARP inhibitors using kinobeads
+PXD047037	placenta	False	Orbitrap Fusion Lumos	Data-dependent acquisition;Bottom-up proteomics	2023-11-17	0	Nanoparticles dysregulate the human placental sNanoparticles dysregulate the human placental secretome with consequences on angiogenesis and vascularizationecre
+PXD052663	kidney	False	Q Exactive	Affinity proteomics	2024-05-29	0	An 8-Mercaptoquinoline Motif Enriches Minichromosome Maintenance Complex Components as Significant Metalloprotein Targets in Live Cells
+PXD053566	kidney	False	Q Exactive HF	Top-down proteomics	2024-07-02	0	VHL acts as an adaptor to promote the phosphorylation of FTO by CK2 to suppress clear cell renal cell carcinoma
+PXD055107	liver	False	Q Exactive HF	Bottom-up proteomics	2024-08-23	0	The Cancer Cell Target Discovery. Comparing Laboratory Evolution of Expanded DNA Six-Nucleotide Alphabets with Standard Four-Nucleotide Alphabets
+PXD055829	kidney	False	timsTOF Pro	Data-dependent acquisition;Bottom-up proteomics	2024-09-13	0	THE FAM53C/DYRK1A AXIS REGULATES THE G1/S TRANSITION OF THE CELL CYCLE
+PXD056380	placenta	False	maXis II	Data-dependent acquisition;Bottom-up proteomics	2024-09-30	0	MCM proteins are up-regulated in placentas of women with reduced insulin sensitivity
+PXD057706	liver	False	timsTOF Pro	Data-dependent acquisition	2024-11-10	0	Cysteine profiling by CL26-alkyne to investigate protein targets of CL26 in Huh7 cells
+PXD057704	liver	False	timsTOF Pro	Data-dependent acquisition	2024-11-10	0	Cysteine profiling by CL26-alkyne to investigate protein targets of CL26 in MHCC97L cells
+PXD058626	lung	False	timsTOF SCP	Data-dependent acquisition;Bottom-up proteomics	2024-12-05	0	The MUC5B promoter variant results in proteomic changes in the non-fibrotic lung
+PXD058749	lung	False	timsTOF HT	Data-dependent acquisition;Bottom-up proteomics;Affinity proteomics	2024-12-10	0	Site-Specific Competitive Kinase Inhibitor Target Profiling Using Phosphonate Affinity Tags
+PXD059422	kidney	False	Orbitrap Fusion Lumos	Affinity purification coupled with mass spectrometry proteomics;Gel-based experiment	2025-01-03	0	YTHDF2 regulates self non-coding RNA metabolism to control TLR3 activation in Inflammation
+PXD060091	liver	False	timsTOF Pro 2	Data-dependent acquisition;Bottom-up proteomics	2025-01-23	0	Cholangiocarcinoma PDHA1 Succinylation Suppresses Macrophage Antigen Presentation via α-KG Accumulation
+PXD060821	kidney	False	timsTOF Pro	Data-dependent acquisition;Bottom-up proteomics	2025-02-14	0	Histidine methylation of MYLK2 and C3H zinc fingers by CARNMT1
+PXD061457	lung	False	timsTOF Pro	Data-dependent acquisition;Bottom-up proteomics	2025-03-04	0	A multiomics framework for high-throughput lncRNA characterization uncovers major immune regulators
+PAD000006	lung	False	Olink Explore	Olink affinity proteomics;Affinity proteomics	2025-03-07	0	In-depth plasma proteomics of patients with suspected lung cancer (lung adenocarcinoma and non-cancer controls) with Olink Explore 3072
+PXD063285	kidney	False	Orbitrap Fusion	Bottom-up proteomics	2025-04-24	0	Proteolytic processing promotes the decatenation activity  of human mitochondrial TOP3A; BioID
+PXD063343	placenta	False	timsTOF Pro	Data-dependent acquisition;Affinity purification coupled with mass spectrometry proteomics;Bottom-up proteomics	2025-04-25	0	A genus-wide interaction atlas across NS4B orthologues identifies a conserved role for UFMylation in orthoflavivirus replication (NS4Bome)
+PXD063404	placenta	False	timsTOF Pro	Data-dependent acquisition;Bottom-up proteomics	2025-04-28	0	A genus-wide interaction atlas across NS4B orthologues identifies a conserved role for UFMylation in orthoflavivirus replication (NS4B Effectome - Global Proteo
+PXD064272	lung	False	timsTOF Pro	Bottom-up proteomics	2025-05-25	0	Exploring the Cytotoxic Mechanisms and Anticancer Potentials of Silver Nanoparticles in Cisplatin-Sensitive and -Resistant Lung Adenocarcinoma: Insights from Pr
+PXD064472	lung	False	SYNAPT G2-Si	HDMSE	2025-05-31	0	Mitochondrial proteomics reveals reductive metabolism dependent on glutamine in fibroblasts of idiopathic pulmonary fibrosis under hypoxia
+PXD065329	lung	False	Q Exactive HF	Data-dependent acquisition	2025-06-23	0	OH2 oncolytic virus inhibits non-small-cell lung cancer metastasis via β-catenin pathway suppression
+PXD065812	liver	False	autoflex	Bottom-up proteomics	2025-07-06	0	Proteomic Profiling of Colorectal Liver Metastases Reveals Histopathological Response-Specific Molecular Signatures of Chemotherapy Efficacy
+PXD066562	kidney	False	Q Exactive	Gel-based experiment	2025-07-24	0	human Bora-interacting proteins
+PXD067541	lung	False	Q Exactive	Bottom-up proteomics	2025-08-21	0	Proteomic analysis of Fosinopril-induced effects in A549 human lung adenocarcinoma cells
+PXD068567	kidney	False	timsTOF Pro	Immunopeptidomics;Data-dependent acquisition	2025-09-19	0	Immunopeptidome of Renal Cell Carcinoma (RCC) and Bladder Cancer (BC) Patient-Derived Tumor Organoids (PDTOs)
+PXD070785	kidney	False	maXis	Data-dependent acquisition;Bottom-up proteomics	2025-11-16	0	Neutrophil secretory proteins inhibit calcium oxalate crystallization and crystal growth, but promote crystal aggregation
+PXD074575	liver	False	timsTOF HT	Glycoproteomics;Bottom-up proteomics	2026-02-18	0	Expanding glycopeptide identification with Match-Between-Glycans (MBG) in FragPipe
+PXD075276	placenta	False	timsTOF	Bottom-up proteomics	2026-03-05	0	Placental 4D Label-free quantitative proteome and malonylation quantitative modificomics analysis
+PXD075344	kidney	False	maXis	Data-dependent acquisition;Top-down proteomics	2026-03-07	0	Unveiling potential natural promoters of calcium oxalate kidney stones in the urine via anion exchange chromatography, crystal assays, and proteomics
+PXD077003	placenta	False	Q Exactive	Data-dependent acquisition	2026-04-10	0	Differentially expressed proteins identified by proteomics in placental tissues of normal and preeclampsia (PE) patients
+PXD078736	kidney	False	timsTOF Pro	Bottom-up proteomics	2026-05-22	0	HK-2 cells 4D label quantitative lactylproteomic analysis
+PAD000052	kidney	False	Olink Explore HT	Olink affinity proteomics;Affinity proteomics	2026-07-10	0	Plasma proteomics defines two reproducible subphenotypes of sepsis-associated acute kidney injury with distinct outcomes
+PXD083139	kidney	False	timsTOF Pro	Data-dependent acquisition;Bottom-up proteomics	2026-08-25	0	Investigating N-terminal shedding of GPR125 in GPR125 overexpressing HEK293T cells using N- and C-terminal enrichment and different cleavage strategies
+PAD000066	lung	False	Olink Target 96	Olink affinity proteomics	2026-10-16	0	Baseline Plasma Proteomic Profiling Associated with Response to Immune Checkpoint Inhibitor-Based Chemoimmunotherapy in Non-Small Cell Lung Cancer

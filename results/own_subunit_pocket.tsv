@@ -1,0 +1,5 @@
+protein	entry	partner_chain	retained_end	own_whole_alone	own_truncated_alone	buried_by_own_lost_block	dimer_full	canonical_site_in_mixed	isoform_site_in_mixed	canonical_site_excess	isoform_site_excess
+KYNU	2HZP	B	301	73.96	73.96	0.0	15.37	73.96	15.37	58.59	0.0
+KYNU	3E9K	B	301	60.42	69.55	9.13	6.39	60.42	11.79	54.04	5.41
+SCLY	3GZC	B	307	61.32	61.32	0.0	19.85	19.85	19.85	0.0	0.0
+SCLY	3GZD	B	307	49.67	59.06	9.4	8.97	8.97	16.13	0.0	7.16

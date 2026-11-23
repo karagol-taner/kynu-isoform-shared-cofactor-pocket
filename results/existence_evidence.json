@@ -1,0 +1,92 @@
+{
+ "layers": [
+  {
+   "layer": "Consensus CDS",
+   "identifier": "CCDS33299.1",
+   "what_it_establishes": "NCBI, Ensembl and UCSC agree on a protein-coding CDS for this isoform",
+   "verified_how": "cross-reference on the UniProt entry, isoform-resolved"
+  },
+  {
+   "layer": "Curated RefSeq",
+   "identifier": "NP_001028170.1 from NM_001032998.2",
+   "what_it_establishes": "a manually curated RefSeq protein, not a model prediction, whose sequence is identical to the isoform",
+   "verified_how": "sequence fetched from NCBI and compared residue by residue against the UniProt isoform"
+  },
+  {
+   "layer": "Ensembl transcript",
+   "identifier": "ENST00000375773.7",
+   "what_it_establishes": "biotype protein_coding, translating to 307 residues, transcript support level not given",
+   "verified_how": "Ensembl REST lookup, translation length compared against the isoform"
+  },
+  {
+   "layer": "Observed peptide",
+   "identifier": "HAHTIKPARSEFFN at isoform 294-307, PAp16433524",
+   "what_it_establishes": "best probability 1.000, 2 observations in 1 sample, 1 protein mapping; the only isoform-unique peptide of 116 mapped",
+   "verified_how": "peptide located in the isoform and confirmed absent from the canonical sequence here"
+  }
+ ],
+ "summary": {
+  "accession": "Q16719",
+  "isoform": "Q16719-2",
+  "canonical_length": 465,
+  "isoform_length": 307,
+  "mane_select_isoform": [
+   "ENSP00000264170.4"
+  ],
+  "ccds": [
+   "CCDS33299.1"
+  ],
+  "refseq_curated": [
+   "NP_001028170.1"
+  ],
+  "refseq_model_predicted": [
+   "XP_016860706.1",
+   "XP_047302207.1",
+   "XP_047302208.1",
+   "XP_054200390.1",
+   "XP_054200391.1",
+   "XP_054200392.1"
+  ],
+  "ensembl_transcript": "ENST00000375773",
+  "ensembl_biotype": "protein_coding",
+  "peptides_mapped": 116,
+  "unique_peptides": 1,
+  "peptide_sources_all": [
+   "PeptideAtlas",
+   "ProteomicsDB"
+  ],
+  "peptide_sources_for_the_unique_peptide": [
+   "PeptideAtlas"
+  ],
+  "unique_peptide_record": {
+   "type": "PROTEOMICS",
+   "begin": "294",
+   "end": "307",
+   "xrefs": [
+    {
+     "name": "Proteomes",
+     "id": "UP000005640",
+     "url": "https://www.uniprot.org/proteomes/UP000005640"
+    }
+   ],
+   "evidences": [
+    {
+     "code": "ECO:0007829",
+     "source": {
+      "name": "PeptideAtlas",
+      "id": "PAp16433524",
+      "url": "https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/GetPeptide?atlas_build_name=Human 2026-01&action=QUERY&searchWithinThis=Peptide+Name&searchForThis=PAp16433524",
+      "properties": {
+       "Number of sample": "1",
+       "Best Probability": "1.000",
+       "Number of protein mappings": "1",
+       "Times of observations": "2"
+      }
+     }
+    }
+   ],
+   "peptide": "HAHTIKPARSEFFN",
+   "unique": true
+  }
+ }
+}

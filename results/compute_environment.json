@@ -1,0 +1,44 @@
+{
+  "simulation": {
+    "gpu": "NVIDIA L4",
+    "gpu_memory_MiB": 23034,
+    "gpu_memory_GB": 24,
+    "gpus_per_run": 1,
+    "ranks": 1,
+    "openmp_threads": 12,
+    "simd": "AVX2_256",
+    "gromacs": "2026.3"
+  },
+  "throughput": {
+    "canonical": {
+      "ns_per_day_median": 112.1,
+      "ns_per_day_min": 103.4,
+      "ns_per_day_max": 113.2,
+      "segments_recorded": 16,
+      "segments_in_run": 20,
+      "hours_at_median": 21.4
+    },
+    "mixed": {
+      "ns_per_day_median": 110.9,
+      "ns_per_day_min": 77.7,
+      "ns_per_day_max": 111.4,
+      "segments_recorded": 16,
+      "segments_in_run": 20,
+      "hours_at_median": 21.6
+    }
+  },
+  "analysis": {
+    "python": "3.10.12",
+    "platform": "Linux aarch64",
+    "libraries": {
+      "numpy": "2.2.6",
+      "scipy": "1.15.3",
+      "matplotlib": "3.10.9",
+      "biopython": "1.88",
+      "gemmi": "0.7.5",
+      "freesasa": "2.2.1",
+      "openpyxl": "3.1.5",
+      "python-docx": "1.2.0"
+    }
+  }
+}

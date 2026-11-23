@@ -1,0 +1,366 @@
+{
+ "entries": {
+  "KYNU": {
+   "2HZP": {
+    "chains_in_assembly": [
+     "A",
+     "B"
+    ],
+    "reference": "A",
+    "partner": "B",
+    "bsa_per_partner": {
+     "B": 3114.4
+    },
+    "coverage": {
+     "A": {
+      "observed": 447,
+      "fraction": 0.9612903225806452,
+      "segments": "6-378;387-460"
+     }
+    },
+    "interface_residues": 79,
+    "total_bsa": 3114.419197456428,
+    "bsa_retained": 2221.149334968824,
+    "bsa_substituted": 252.93082486753235,
+    "bsa_deleted": 640.3390376200718,
+    "fraction_retained": 0.7131825210886368,
+    "fraction_substituted": 0.08121283900192468,
+    "fraction_deleted": 0.20560463990943867,
+    "f_removed": 0.2868174789113634,
+    "retained_patches": 1,
+    "largest_patch_residues": 58,
+    "largest_patch_bsa": 2221.149334968824,
+    "largest_patch_span": [
+     47,
+     301
+    ],
+    "cofactor_names": [
+     "PLP"
+    ],
+    "cross_subunit_cofactor_contacts_lost": {
+     "305": [
+      "TRP",
+      2.72
+     ],
+     "332": [
+      "SER",
+      2.62
+     ],
+     "333": [
+      "ASN",
+      2.75
+     ]
+    },
+    "cross_subunit_cofactor_contacts_kept": {},
+    "published_hbond_bsa": {
+     "303": 62.5,
+     "305": 87.3,
+     "318": 123.9,
+     "333": 64.9
+    },
+    "published_reported_only_bsa": {
+     "102": 37.5,
+     "110": 0.0,
+     "306": 0.0,
+     "310": 0.0,
+     "313": 3.4,
+     "314": 0.0,
+     "316": 58.7
+    }
+   },
+   "3E9K": {
+    "chains_in_assembly": [
+     "A",
+     "B"
+    ],
+    "reference": "A",
+    "partner": "B",
+    "bsa_per_partner": {
+     "B": 3102.3
+    },
+    "coverage": {
+     "A": {
+      "observed": 446,
+      "fraction": 0.9591397849462365,
+      "segments": "6-377;387-460"
+     }
+    },
+    "interface_residues": 76,
+    "total_bsa": 3102.3261857609036,
+    "bsa_retained": 2208.790247086329,
+    "bsa_substituted": 249.6638347450021,
+    "bsa_deleted": 643.8721039295718,
+    "fraction_retained": 0.711978726551793,
+    "fraction_substituted": 0.08047633285336415,
+    "fraction_deleted": 0.20754494059484274,
+    "f_removed": 0.2880212734482069,
+    "retained_patches": 1,
+    "largest_patch_residues": 56,
+    "largest_patch_bsa": 2208.790247086329,
+    "largest_patch_span": [
+     47,
+     301
+    ],
+    "cofactor_names": [
+     "PLP"
+    ],
+    "cross_subunit_cofactor_contacts_lost": {
+     "305": [
+      "TRP",
+      2.78
+     ],
+     "332": [
+      "SER",
+      2.6
+     ],
+     "333": [
+      "ASN",
+      2.81
+     ]
+    },
+    "cross_subunit_cofactor_contacts_kept": {},
+    "published_hbond_bsa": {
+     "303": 61.9,
+     "305": 85.4,
+     "318": 124.0,
+     "333": 64.5
+    },
+    "published_reported_only_bsa": {
+     "102": 37.1,
+     "110": 0.0,
+     "306": 0.0,
+     "310": 0.0,
+     "313": 2.9,
+     "314": 0.0,
+     "316": 59.4
+    }
+   },
+   "7S3V": {
+    "chains_in_assembly": [
+     "A",
+     "B"
+    ],
+    "reference": "A",
+    "partner": "B",
+    "bsa_per_partner": {
+     "B": 3262.9
+    },
+    "coverage": {
+     "A": {
+      "observed": 446,
+      "fraction": 0.9591397849462365,
+      "segments": "6-376;386-460"
+     },
+     "B": {
+      "observed": 446,
+      "fraction": 0.9591397849462365,
+      "segments": "6-376;386-460"
+     }
+    },
+    "interface_residues": 83,
+    "total_bsa": 3262.938328392727,
+    "bsa_retained": 2293.7020867001365,
+    "bsa_substituted": 257.5522966208581,
+    "bsa_deleted": 711.6839450717316,
+    "fraction_retained": 0.702956003409963,
+    "fraction_substituted": 0.07893262780351855,
+    "fraction_deleted": 0.2181113687865183,
+    "f_removed": 0.2970439965900369,
+    "retained_patches": 1,
+    "largest_patch_residues": 57,
+    "largest_patch_bsa": 2293.7020867001365,
+    "largest_patch_span": [
+     47,
+     301
+    ],
+    "cofactor_names": [
+     "LLP"
+    ],
+    "cross_subunit_cofactor_contacts_lost": {
+     "305": [
+      "TRP",
+      2.78
+     ],
+     "332": [
+      "SER",
+      2.44
+     ],
+     "333": [
+      "THR",
+      3.22
+     ]
+    },
+    "cross_subunit_cofactor_contacts_kept": {},
+    "published_hbond_bsa": {
+     "303": 65.3,
+     "305": 80.4,
+     "318": 116.6,
+     "333": 49.6
+    },
+    "published_reported_only_bsa": {
+     "102": 29.6,
+     "110": 0.0,
+     "306": 0.0,
+     "310": 0.0,
+     "313": 2.1,
+     "314": 5.8,
+     "316": 78.6
+    }
+   }
+  },
+  "SCLY": {
+   "3GZC": {
+    "chains_in_assembly": [
+     "A",
+     "B"
+    ],
+    "reference": "A",
+    "partner": "B",
+    "bsa_per_partner": {
+     "B": 2150.9
+    },
+    "coverage": {
+     "A": {
+      "observed": 403,
+      "fraction": 0.9056179775280899,
+      "segments": "29-119;133-444"
+     },
+     "B": {
+      "observed": 402,
+      "fraction": 0.903370786516854,
+      "segments": "29-119;133-443"
+     }
+    },
+    "interface_residues": 57,
+    "total_bsa": 2150.9345391462284,
+    "bsa_retained": 1938.5001640822875,
+    "bsa_substituted": 0.0,
+    "bsa_deleted": 212.4343750639407,
+    "fraction_retained": 0.901236243503597,
+    "fraction_substituted": 0.0,
+    "fraction_deleted": 0.0987637564964029,
+    "f_removed": 0.0987637564964029,
+    "retained_patches": 2,
+    "largest_patch_residues": 50,
+    "largest_patch_bsa": 1923.837663973553,
+    "largest_patch_span": [
+     31,
+     301
+    ],
+    "cofactor_names": [
+     "PLR"
+    ],
+    "cross_subunit_cofactor_contacts_lost": {},
+    "cross_subunit_cofactor_contacts_kept": {
+     "295": [
+      "GLY",
+      3.73
+     ],
+     "296": [
+      "THR",
+      2.53
+     ]
+    },
+    "published_hbond_bsa": {},
+    "published_reported_only_bsa": {}
+   },
+   "3GZD": {
+    "chains_in_assembly": [
+     "A",
+     "B"
+    ],
+    "reference": "A",
+    "partner": "B",
+    "bsa_per_partner": {
+     "B": 2029.6
+    },
+    "coverage": {
+     "A": {
+      "observed": 397,
+      "fraction": 0.8921348314606742,
+      "segments": "31-120;133-390;395-443"
+     },
+     "B": {
+      "observed": 392,
+      "fraction": 0.8808988764044944,
+      "segments": "31-120;133-385;395-443"
+     },
+     "C": {
+      "observed": 396,
+      "fraction": 0.8898876404494382,
+      "segments": "31-120;133-388;394-443"
+     },
+     "D": {
+      "observed": 397,
+      "fraction": 0.8921348314606742,
+      "segments": "31-120;133-390;395-443"
+     }
+    },
+    "interface_residues": 57,
+    "total_bsa": 2029.6040402609137,
+    "bsa_retained": 1877.682932995608,
+    "bsa_substituted": 0.0,
+    "bsa_deleted": 151.92110726530575,
+    "fraction_retained": 0.9251474158251205,
+    "fraction_substituted": 0.0,
+    "fraction_deleted": 0.0748525841748796,
+    "f_removed": 0.0748525841748796,
+    "retained_patches": 2,
+    "largest_patch_residues": 51,
+    "largest_patch_bsa": 1873.1912471568432,
+    "largest_patch_span": [
+     33,
+     301
+    ],
+    "cofactor_names": [
+     "PLR"
+    ],
+    "cross_subunit_cofactor_contacts_lost": {},
+    "cross_subunit_cofactor_contacts_kept": {
+     "295": [
+      "GLY",
+      3.61
+     ],
+     "296": [
+      "THR",
+      2.54
+     ]
+    },
+    "published_hbond_bsa": {},
+    "published_reported_only_bsa": {}
+   }
+  }
+ },
+ "gates": {
+  "KYNU": {
+   "A_published_hbond_recovered": true,
+   "B_informative": true,
+   "C_retained_area": true,
+   "C_retained_bsa": [
+    2221,
+    2209
+   ],
+   "D_spread_points": 0.12037945368434944,
+   "D_pass": true,
+   "cofactor_contacts_lost": [
+    3,
+    3
+   ]
+  },
+  "SCLY": {
+   "A_published_hbond_recovered": null,
+   "B_informative": false,
+   "C_retained_area": false,
+   "C_retained_bsa": [
+    1939,
+    1878
+   ],
+   "D_spread_points": 2.39111723215233,
+   "D_pass": true,
+   "cofactor_contacts_lost": [
+    0,
+    0
+   ]
+  }
+ }
+}

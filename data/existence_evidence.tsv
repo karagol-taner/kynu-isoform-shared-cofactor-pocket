@@ -1,0 +1,5 @@
+layer	identifier	what_it_establishes	verified_how
+Consensus CDS	CCDS33299.1	NCBI, Ensembl and UCSC agree on a protein-coding CDS for this isoform	cross-reference on the UniProt entry, isoform-resolved
+Curated RefSeq	NP_001028170.1 from NM_001032998.2	a manually curated RefSeq protein, not a model prediction, whose sequence is identical to the isoform	sequence fetched from NCBI and compared residue by residue against the UniProt isoform
+Ensembl transcript	ENST00000375773.7	biotype protein_coding, translating to 307 residues, transcript support level not given	Ensembl REST lookup, translation length compared against the isoform
+Observed peptide	HAHTIKPARSEFFN at isoform 294-307, PAp16433524	best probability 1.000, 2 observations in 1 sample, 1 protein mapping; the only isoform-unique peptide of 116 mapped	peptide located in the isoform and confirmed absent from the canonical sequence here
