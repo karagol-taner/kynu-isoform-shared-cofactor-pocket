@@ -1,6 +1,6 @@
 # Splice truncation in human kynureninase separates homodimer assembly from completion of the pyridoxal 5'-phosphate pocket
 
-Taner Karagöl1,*,‡, Alper Karagöl2,3,*,‡
+Taner Karagöl1, Alper Karagöl2,3
 
 1McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, USA
 
